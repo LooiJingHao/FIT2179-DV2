@@ -31,3 +31,20 @@
     border-radius: 15px;
     border-bottom: 3.5px solid #FFDF96;
 }
+
+.intro-parag{
+    text-align: justify;
+    padding: 0 6.5rem;
+    margin: 3rem 0;
+}
+
+.intro-parag > h2 {
+    font-family: "Playfair Display";
+    font-size: 2rem;
+    color: #193718;
+    margin-bottom: 0;
+}
+
+.intro-parag > p {
+    opacity: 75%;
+}
