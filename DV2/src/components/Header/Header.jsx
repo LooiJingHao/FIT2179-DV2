@@ -12,16 +12,16 @@ export default function Header(){
             </div>
             <div className="KPI-Section">
                 <div className="box-container">
-                    
+                    <p>TOTAL PRODUCTION</p>
                 </div>
                 <div className="box-container">
-                    
+                    <p>TOP PRODUCING STATE</p>
                 </div>
                 <div className="box-container">
-                    
+                    <p>EXPORT VALUE</p>
                 </div>
                 <div className="box-container">
-                    
+                    <p>MAJOR DESTINATION</p>
                 </div>
             </div>
         </>
