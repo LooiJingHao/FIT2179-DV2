@@ -1,12 +1,245 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>The King of Fruits</title>
-  </head>
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.jsx"></script>
-  </body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moving Malaysia - Data Story</title>
+    <link rel="stylesheet" href="style.css">
+    
+    <!-- Vega Libraries -->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+
+    <!-- Import Map for ES Modules -->
+    <script type="importmap">
+    {
+        "imports": {
+            "vega-embed": "https://cdn.jsdelivr.net/npm/vega-embed@6/+esm"
+        }
+    }
+    </script>
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <h1>Moving Malaysia</h1>
+            <p>A Data Story of Our Growing Public Transport and its Challenges</p>
+        </div>
+        <div class="intro-parag">
+            <h2>Introduction</h2>
+            <p>Malaysia's public transport system connects millions of commuters across rapidly growing urban regions. Expanding <strong>MRT</strong>, <strong>LRT</strong>, <strong>KTM</strong>, and bus networks have improved <strong>accessibility</strong> and urban connectivity, yet challenges involving <strong>congestion</strong>, unequal access, and <strong>sustainability</strong> continue shaping the future of Malaysia’s urban mobility landscape.</p>
+        </div>
+        <div class="KPI-Section">
+            <div class="box-container">
+                <p class="KPI-Header">DAILY RIDER</p>
+                <p>1,293,607</p>
+            </div>
+            <div class="box-container">
+                <p class="KPI-Header">TOTAL STATIONS</p>
+                <p>144</p>
+            </div>
+            <div class="box-container">
+                <p class="KPI-Header">NUMBER OF PUBLIC TRANSPORTS</p>
+                <p>15</p>
+            </div>
+            <div class="box-container">
+                <p class="KPI-Header">ANNUAL PASSENGER VOLUME (2025)</p>
+                <p>451,121,402</p>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <!-- Act 1: G4 -->
+        <section class="ridership-focus-section">
+            <div class="ridership-focus-container">
+                <div class="ridership-focus-text">
+                    <p class="section-label">Act 1: The National Ambition</p>
+                    <h2>The Resurgence: A Nation Returning to Rails and Roads</h2>
+                    <p>
+                        Malaysia's public transport story begins with a massive rebound. Following years of disruption, 
+                        national ridership has surged back to life. This timeline reveals the <strong>scale of our collective movement</strong>, 
+                        showing how millions have returned to rail and bus networks as the backbone of their daily lives. 
+                        But as demand reaches new heights, the system faces its next great challenge: handling the weight of its own success.
+                    </p>
+                </div>
+                <div class="ridership-chart-card">
+                    <div class="chart-legend-custom">
+                        <span class="legend-item">
+                            <span class="legend-line rail" style="background-color: rgb(0, 85, 255); width: 20px; height: 3px; display: inline-block; margin-right: 8px;"></span>
+                            Rail Ridership
+                        </span>
+                        <span class="legend-item" style="margin-left: 20px;">
+                            <span class="legend-box bus" style="background-color: rgb(255, 153, 0); width: 15px; height: 15px; display: inline-block; margin-right: 8px;"></span>
+                            Bus Ridership
+                        </span>
+                    </div>
+                    <div id="ridership-focus-chart"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Act 2: G5 -->
+        <section class="transport-count-map-section">
+            <div class="transport-count-map-container">
+                <div class="transport-count-map-text">
+                    <p class="section-label">Act 2: The Geographic Reality</p>
+                    <h2>The Infrastructure Gap: Where is the System Centered?</h2>
+                    <p>
+                        While demand is national, infrastructure is a story of concentration. This map reveals a 
+                        <strong>geographic skew</strong>: public transport access points are heavily clustered in urban 
+                        economic engines. As we see the concentration of bus terminals and LRT stations, a critical question 
+                        emerges—how does this spatial imbalance create friction as millions funnel into just a few key regions?
+                    </p>
+                </div>
+                <div class="transport-count-map-card">
+                    <div id="transport-count-map"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Act 3: G3 -->
+        <section class="station-hubs-section">
+            <div class="station-hubs-content">
+                <div class="station-hubs-text">
+                    <p class="section-label">Act 3: The Gravity Centers</p>
+                    <h2>The Weight of the City: Klang Valley’s Mega-Hubs</h2>
+                    <p>
+                        Zooming into Malaysia's busiest region, the pressure becomes visible. A small handful of 
+                        <strong>"Mega-Hubs"</strong> carry a disproportionate weight of the entire network's ridership. 
+                        By looking at these individual station volumes, we identify the gravitational centers that 
+                        dictate the flow of millions, setting the stage for the friction that occurs between them.
+                    </p>
+                </div>
+                <div class="station-hubs-chart-card">
+                    <div id="station-hubs-chart"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Act 4: G1 -->
+        <section class="container">
+            <p class="section-label">Act 4: The Commuter Web</p>
+            <h2>Systemic Friction: The Struggle of Shared Paths</h2>
+            <div class="graph-container">
+                <div id="adjacency-matrix"></div>
+                <div class="text-container">
+                    <p>Passenger flows are not just numbers; they are paths of least resistance. This matrix reveals that 
+                    commuters aren't spreading out; they are essentially <strong>trying to occupy the same spaces 
+                    at the same time</strong>. The dark cells highlight specific origin-destination pairs where 
+                    demand is hyper-concentrated, creating intense friction in the daily urban commute.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Act 5: G6 -->
+        <section class="transit-ranking-section">
+            <div class="transit-ranking-container">
+                <div class="ranking-text-block">
+                    <p class="section-label">Act 5: The Breaking Points</p>
+                    <h2>Evidence of Strain: The Links Bearing the Heaviest Weight</h2>
+                    <p>
+                        To understand the true limits of our growth, we must isolate the specific pathways reaching their 
+                        breaking points. This data-driven rank reveals the <strong>"Twin Giants"</strong> of the network—the 
+                        Batu Caves ➔ KL Sentral corridors. These specific links generate over 130,000 trips each, proving that 
+                        network resilience is dictated by just a few high-friction corridors that demand urgent attention.
+                    </p>
+                </div>
+                <div class="ranking-chart-card">
+                    <div id="komuter-ranking-chart"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Act 6: G7 -->
+        <section class="ktmb-seasonal-section">
+            <div class="ktmb-seasonal-container">
+                <div class="text-block">
+                    <p class="section-label">Act 6: The Cultural Pulse</p>
+                    <h2>Beyond the Grind: The Rhythms of a Nation Reunited</h2>
+                    <p>
+                        Urban mobility isn't just about the home-to-work routine; it has a deeper, cultural heartbeat. 
+                        By looking at 2025 seasonal behaviors, we see <strong>interstate friction</strong>. While urban 
+                        lines face daily pressure, the ETS and Intercity corridors pulse during festive periods and holidays. 
+                        This proves that transit is a vital cultural lifeline, moving families back to their roots across 
+                        the nation during Malaysia's most important moments.
+                    </p>
+                </div>
+                <div class="heatmap-card">
+                    <div id="ktmb-seasonal-heatmap"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Act 7: G8 -->
+        <section class="dependency-index-section">
+            <div class="dependency-index-container">
+                <div class="text-block">
+                    <p class="section-label">Act 7: Understanding Vulnerability</p>
+                    <h2>The Dependency Index: Which Stations Are Most At Risk?</h2>
+                    <p>
+                        As our network grows, some parts of the system become more "vulnerable" than others. 
+                        The <strong>Dependency Index</strong> identifies stations that handle massive crowds but 
+                        only have a single line to move them.
+                    </p>
+                    <p>
+                        Stations like <strong>Bukit Bintang</strong> and <strong>KLCC</strong> process hundreds 
+                        of thousands of people every day. Unlike major hubs with many lines, these stations 
+                        don't have a "backup plan"—making them the most critical points in our daily commute.
+                    </p>
+                </div>
+                <div class="chart-card">
+                    <div id="dependency-chart"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Act 8: G9 -->
+        <section class="national-seasonal-section">
+            <div class="national-seasonal-container">
+                <div class="text-block">
+                    <p class="section-label">Act 8: The Seasonal Heartbeat</p>
+                    <h2>Patterns of Progress: Comparing National Ridership by Year</h2>
+                    <p>
+                        When we overlay ridership data by year, the "heartbeat" of the nation becomes visible. 
+                        This visualization aggregates all rail and bus services to show how monthly travel patterns 
+                        evolve over time. 
+                    </p>
+                    <p>
+                        Notice the consistent dips and peaks that occur each year—often corresponding to major holiday 
+                        windows and festive seasons—and the steady upward shift of the lines, representing 
+                        Malaysia's ongoing commitment to public transit growth.
+                    </p>
+                </div>
+                <div class="chart-card">
+                    <div id="national-seasonal-chart"></div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script type="module">
+        import { ridership_focus_chart } from './js/ridership_focus_chart.js';
+        import { transport_count_map } from './js/transport_count_map.js';
+        import { station_hubs_chart } from './js/station_hubs_chart.js';
+        import { adjacency_matrix } from './js/node_link.js';
+        import { render_komuter_ranking } from './js/render_komuter_flow_map.js';
+        import { render_ktmb_heatmap } from './js/render_ktmb_heatmap.js';
+        import { render_dependency_chart } from './js/render_dependency_chart.js';
+        import { render_national_seasonal_chart } from './js/render_national_seasonal.js';
+
+        // Initialize all charts
+        document.addEventListener('DOMContentLoaded', () => {
+            ridership_focus_chart();
+            transport_count_map();
+            station_hubs_chart();
+            adjacency_matrix();
+            render_komuter_ranking();
+            render_ktmb_heatmap();
+            render_dependency_chart();
+            render_national_seasonal_chart();
+        });
+    </script>
+</body>
 </html>
