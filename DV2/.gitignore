@@ -22,3 +22,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+rapidrail_2026_daily.csv
+*.csv

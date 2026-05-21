@@ -14,23 +14,26 @@
 .header-container > p {
     padding: 0 20rem;
     opacity: 75%;
+    /* margin: ; */
 }
 
 .KPI-Section{
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     gap: 20px;
+    padding: 0 4rem 0 5.9rem;
     margin-top: 3rem;
 
 }
 
 .KPI-Section > .box-container {
-    height: 8rem;
-    flex-basis: 20rem;
+    height: 6rem;
+    flex-basis: 18rem;
     background-color: #edede7;
     border-radius: 15px;
-    border-bottom: 3.5px solid #FFDF96;
+    border-bottom: 3.5px solid #c9e0f8;
     text-align: center;
+    margin-right: 2rem;
 }
 
 .KPI-Section > .box-container > p {
@@ -43,8 +46,8 @@
 
 .intro-parag{
     text-align: justify;
-    padding: 0 6.5rem;
-    margin: 3rem 0;
+    padding: 0 6.2rem 0 5.9rem;
+    margin: 2rem 0;
 }
 
 .intro-parag > h2 {
@@ -56,4 +59,13 @@
 
 .intro-parag > p {
     opacity: 75%;
+}
+
+.KPI-Section > .box-container > .KPI-Header {
+    font-weight: bold;
+    font-size: 0.9rem;
+}
+
+.KPI-Section > .box-container > p {
+    padding: 2px;
 }
