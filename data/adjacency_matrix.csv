@@ -1,0 +1,1561 @@
+origin,destination,total_ridership,origin_label,destination_label,log_ridership
+AG04: PWTC,AG06: Bandaraya,59660,PWTC,Bandaraya,4.775683249026044
+AG04: PWTC,AG07: Masjid Jamek,22056,PWTC,Masjid Jamek,4.343526753097717
+AG04: PWTC,AG10: Pudu,12560,PWTC,Pudu,4.098989639401177
+AG04: PWTC,AG18: Ampang,9573,PWTC,Ampang,3.981048058913173
+AG04: PWTC,KG06: Kota Damansara,996,PWTC,Kota Damansara,2.998259338423699
+AG04: PWTC,KG07: Surian,1470,PWTC,Surian,3.167317334748176
+AG04: PWTC,KG08: Mutiara Damansara,2396,PWTC,Mutiara Damansara,3.3794868137172736
+AG04: PWTC,KG09: Bandar Utama,2455,PWTC,Bandar Utama,3.3900514964589874
+AG04: PWTC,KG10: TTDI,1285,PWTC,TTDI,3.1089031276673134
+AG04: PWTC,KG13: Pusat Bandar Damansara,2369,PWTC,Pusat Bandar Damansara,3.374565060722765
+AG04: PWTC,KG14: Semantan,2056,PWTC,Semantan,3.313023110323238
+AG04: PWTC,KG15: Muzium Negara,1173,PWTC,Muzium Negara,3.0692980121155293
+AG04: PWTC,KG16: Pasar Seni,2445,PWTC,Pasar Seni,3.388278863459639
+AG04: PWTC,KG18: Bukit Bintang,6890,PWTC,Bukit Bintang,3.8382192219076257
+AG04: PWTC,KG20: Tun Razak Exchange,9706,PWTC,Tun Razak Exchange,3.987040286979267
+AG04: PWTC,KG21: Cochrane,4015,PWTC,Cochrane,3.6036855496146996
+AG04: PWTC,KG22: Maluri,5738,PWTC,Maluri,3.7587605439099794
+AG04: PWTC,KG25: Taman Mutiara,3004,PWTC,Taman Mutiara,3.4776999283321306
+AG04: PWTC,KG26: Taman Connaught,1669,PWTC,Taman Connaught,3.222456336679247
+AG04: PWTC,KG35: Kajang,3620,PWTC,Kajang,3.558708570533166
+AG04: PWTC,KJ02: Taman Melati,2920,PWTC,Taman Melati,3.4653828514484184
+AG04: PWTC,KJ03: Wangsa Maju,3335,PWTC,Wangsa Maju,3.523095838252568
+AG04: PWTC,KJ04: Sri Rampai,2598,PWTC,Sri Rampai,3.414639146737009
+AG04: PWTC,KJ09: Ampang Park,1688,PWTC,Ampang Park,3.2273724422896364
+AG04: PWTC,KJ10: KLCC,17489,PWTC,KLCC,4.242764977752096
+AG04: PWTC,KJ13: Masjid Jamek,40505,PWTC,Masjid Jamek,4.607508636507978
+AG04: PWTC,KJ14: Pasar Seni,7693,PWTC,Pasar Seni,3.8860957324377474
+AG04: PWTC,KJ15: KL Sentral,17233,PWTC,KL Sentral,4.236360888012924
+AG04: PWTC,KJ16: Bank Rakyat Bangsar,4653,PWTC,Bank Rakyat Bangsar,3.667733052533267
+AG04: PWTC,KJ17: Abdullah Hukum,8752,PWTC,Abdullah Hukum,3.9421073089893555
+AG04: PWTC,KJ18: Kerinchi,2746,PWTC,Kerinchi,3.4387005329007363
+AG04: PWTC,KJ19: Universiti,2788,PWTC,Universiti,3.4452927694259716
+AG04: PWTC,KJ21: Asia Jaya,3816,PWTC,Asia Jaya,3.5816083660320577
+AG04: PWTC,KJ28: Subang Jaya,1833,PWTC,Subang Jaya,3.2631624649622166
+AG04: PWTC,MR01: KL Sentral,2193,PWTC,KL Sentral,3.341038631677523
+AG04: PWTC,MR04: Hang Tuah,10932,PWTC,Hang Tuah,4.038699623020623
+AG04: PWTC,MR05: Imbi,5261,PWTC,Imbi,3.721068301797159
+AG04: PWTC,MR06: Bukit Bintang,11679,PWTC,Bukit Bintang,4.067405658437824
+AG04: PWTC,SP15: Bandar Tasik Selatan,13853,PWTC,Bandar Tasik Selatan,4.141543834220653
+AG06: Bandaraya,AG04: PWTC,66051,Bandaraya,PWTC,4.819879397138954
+AG06: Bandaraya,AG07: Masjid Jamek,17771,Bandaraya,Masjid Jamek,4.249711866874659
+AG06: Bandaraya,AG10: Pudu,15895,Bandaraya,Pudu,4.201260532250791
+AG06: Bandaraya,AG18: Ampang,28800,Bandaraya,Ampang,4.459392487759231
+AG06: Bandaraya,KG06: Kota Damansara,2319,Bandaraya,Kota Damansara,3.3653007486379876
+AG06: Bandaraya,KG07: Surian,2381,Bandaraya,Surian,3.37675939540488
+AG06: Bandaraya,KG08: Mutiara Damansara,2475,Bandaraya,Mutiara Damansara,3.3935752032695876
+AG06: Bandaraya,KG09: Bandar Utama,2761,Bandaraya,Bandar Utama,3.4410664066392633
+AG06: Bandaraya,KG10: TTDI,1704,Bandaraya,TTDI,3.2314695904306814
+AG06: Bandaraya,KG13: Pusat Bandar Damansara,896,Bandaraya,Pusat Bandar Damansara,2.9523080096621253
+AG06: Bandaraya,KG14: Semantan,965,Bandaraya,Semantan,2.9845273133437926
+AG06: Bandaraya,KG15: Muzium Negara,747,Bandaraya,Muzium Negara,2.873320601815399
+AG06: Bandaraya,KG16: Pasar Seni,2737,Bandaraya,Pasar Seni,3.4372747974101237
+AG06: Bandaraya,KG18: Bukit Bintang,7570,Bandaraya,Bukit Bintang,3.8790958795000727
+AG06: Bandaraya,KG20: Tun Razak Exchange,7797,Bandaraya,Tun Razak Exchange,3.891927534220675
+AG06: Bandaraya,KG21: Cochrane,7015,Bandaraya,Cochrane,3.8460276753643785
+AG06: Bandaraya,KG22: Maluri,13994,Bandaraya,Maluri,4.145941869576122
+AG06: Bandaraya,KG25: Taman Mutiara,4809,Bandaraya,Taman Mutiara,3.6820547770738075
+AG06: Bandaraya,KG26: Taman Connaught,4035,Bandaraya,Taman Connaught,3.6058435390580894
+AG06: Bandaraya,KG35: Kajang,11344,Bandaraya,Kajang,4.054766217838991
+AG06: Bandaraya,KJ02: Taman Melati,8605,Bandaraya,Taman Melati,3.934750874663579
+AG06: Bandaraya,KJ03: Wangsa Maju,8621,Bandaraya,Wangsa Maju,3.935557645093014
+AG06: Bandaraya,KJ04: Sri Rampai,6772,Bandaraya,Sri Rampai,3.830716949436898
+AG06: Bandaraya,KJ09: Ampang Park,2874,Bandaraya,Ampang Park,3.4584867637982066
+AG06: Bandaraya,KJ10: KLCC,13956,Bandaraya,KLCC,4.144760960776074
+AG06: Bandaraya,KJ13: Masjid Jamek,28691,Bandaraya,Masjid Jamek,4.457745685468492
+AG06: Bandaraya,KJ14: Pasar Seni,8208,Bandaraya,Pasar Seni,3.9142373477677412
+AG06: Bandaraya,KJ15: KL Sentral,14474,Bandaraya,KL Sentral,4.160588568290034
+AG06: Bandaraya,KJ16: Bank Rakyat Bangsar,4323,Bandaraya,Bank Rakyat Bangsar,3.635785235533652
+AG06: Bandaraya,KJ17: Abdullah Hukum,5123,Bandaraya,Abdullah Hukum,3.709524355876341
+AG06: Bandaraya,KJ18: Kerinchi,2570,Bandaraya,Kerinchi,3.4099331233312946
+AG06: Bandaraya,KJ19: Universiti,6225,Bandaraya,Universiti,3.794139355767774
+AG06: Bandaraya,KJ21: Asia Jaya,1437,Bandaraya,Asia Jaya,3.157456768134226
+AG06: Bandaraya,KJ28: Subang Jaya,3632,Bandaraya,Subang Jaya,3.5601458398490475
+AG06: Bandaraya,MR01: KL Sentral,1727,Bandaraya,KL Sentral,3.237292337567459
+AG06: Bandaraya,MR04: Hang Tuah,16586,Bandaraya,Hang Tuah,4.219741661046302
+AG06: Bandaraya,MR05: Imbi,7617,Bandaraya,Imbi,3.881783955593385
+AG06: Bandaraya,MR06: Bukit Bintang,11670,Bandaraya,Bukit Bintang,4.06707085604537
+AG06: Bandaraya,SP15: Bandar Tasik Selatan,24144,Bandaraya,Bandar Tasik Selatan,4.382809222431515
+AG07: Masjid Jamek,AG04: PWTC,70293,Masjid Jamek,PWTC,4.846912078750439
+AG07: Masjid Jamek,AG06: Bandaraya,59382,Masjid Jamek,Bandaraya,4.77365482064865
+AG07: Masjid Jamek,AG10: Pudu,21406,Masjid Jamek,Pudu,4.3305355210905585
+AG07: Masjid Jamek,AG18: Ampang,16540,Masjid Jamek,Ampang,4.218535505216527
+AG07: Masjid Jamek,KG06: Kota Damansara,2397,Masjid Jamek,Kota Damansara,3.379668034033654
+AG07: Masjid Jamek,KG07: Surian,2720,Masjid Jamek,Surian,3.4345689040341987
+AG07: Masjid Jamek,KG08: Mutiara Damansara,3155,Masjid Jamek,Mutiara Damansara,3.498999363580153
+AG07: Masjid Jamek,KG09: Bandar Utama,4276,Masjid Jamek,Bandar Utama,3.6310376965367404
+AG07: Masjid Jamek,KG10: TTDI,2910,Masjid Jamek,TTDI,3.4638929889859074
+AG07: Masjid Jamek,KG13: Pusat Bandar Damansara,1520,Masjid Jamek,Pusat Bandar Damansara,3.1818435879447726
+AG07: Masjid Jamek,KG14: Semantan,2211,Masjid Jamek,Semantan,3.344588742578714
+AG07: Masjid Jamek,KG15: Muzium Negara,893,Masjid Jamek,Muzium Negara,2.9508514588885464
+AG07: Masjid Jamek,KG16: Pasar Seni,14545,Masjid Jamek,Pasar Seni,4.162713725583078
+AG07: Masjid Jamek,KG18: Bukit Bintang,25373,Masjid Jamek,Bukit Bintang,4.404371819465281
+AG07: Masjid Jamek,KG20: Tun Razak Exchange,10395,Masjid Jamek,Tun Razak Exchange,4.016824493667488
+AG07: Masjid Jamek,KG21: Cochrane,7656,Masjid Jamek,Cochrane,3.8840019247687874
+AG07: Masjid Jamek,KG22: Maluri,10388,Masjid Jamek,Maluri,4.0165319409572655
+AG07: Masjid Jamek,KG25: Taman Mutiara,3123,Masjid Jamek,Taman Mutiara,3.4945719842301988
+AG07: Masjid Jamek,KG26: Taman Connaught,2548,Masjid Jamek,Taman Connaught,3.406199423663313
+AG07: Masjid Jamek,KG35: Kajang,6786,Masjid Jamek,Kajang,3.831613855309099
+AG07: Masjid Jamek,KJ02: Taman Melati,15268,Masjid Jamek,Taman Melati,4.183782151277061
+AG07: Masjid Jamek,KJ03: Wangsa Maju,18252,Masjid Jamek,Wangsa Maju,4.261310460100623
+AG07: Masjid Jamek,KJ04: Sri Rampai,13440,Masjid Jamek,Sri Rampai,4.128399268717806
+AG07: Masjid Jamek,KJ09: Ampang Park,18208,Masjid Jamek,Ampang Park,4.260262244714977
+AG07: Masjid Jamek,KJ10: KLCC,88177,Masjid Jamek,KLCC,4.945355318967406
+AG07: Masjid Jamek,KJ13: Masjid Jamek,10964,Masjid Jamek,Masjid Jamek,4.03996902686746
+AG07: Masjid Jamek,KJ14: Pasar Seni,32134,Masjid Jamek,Pasar Seni,4.506964789348663
+AG07: Masjid Jamek,KJ15: KL Sentral,86968,Masjid Jamek,KL Sentral,4.939359482734759
+AG07: Masjid Jamek,KJ16: Bank Rakyat Bangsar,18972,Masjid Jamek,Bank Rakyat Bangsar,4.278113115979834
+AG07: Masjid Jamek,KJ17: Abdullah Hukum,19863,Masjid Jamek,Abdullah Hukum,4.29804484260098
+AG07: Masjid Jamek,KJ18: Kerinchi,8522,Masjid Jamek,Kerinchi,3.9305415298644344
+AG07: Masjid Jamek,KJ19: Universiti,14523,Masjid Jamek,Universiti,4.162056337360552
+AG07: Masjid Jamek,KJ21: Asia Jaya,8100,Masjid Jamek,Asia Jaya,3.90848501887865
+AG07: Masjid Jamek,KJ28: Subang Jaya,7081,Masjid Jamek,Subang Jaya,3.8500945943867007
+AG07: Masjid Jamek,MR01: KL Sentral,765,Masjid Jamek,KL Sentral,2.8836614351536176
+AG07: Masjid Jamek,MR04: Hang Tuah,21245,Masjid Jamek,Hang Tuah,4.327256735425533
+AG07: Masjid Jamek,MR05: Imbi,7226,Masjid Jamek,Imbi,3.8588979572320032
+AG07: Masjid Jamek,MR06: Bukit Bintang,11112,Masjid Jamek,Bukit Bintang,4.045792232729559
+AG07: Masjid Jamek,SP15: Bandar Tasik Selatan,27589,Masjid Jamek,Bandar Tasik Selatan,4.440735959183332
+AG10: Pudu,AG04: PWTC,13359,Pudu,PWTC,4.125773949850886
+AG10: Pudu,AG06: Bandaraya,17999,Pudu,Bandaraya,4.255248376961857
+AG10: Pudu,AG07: Masjid Jamek,47253,Pudu,Masjid Jamek,4.674429386222765
+AG10: Pudu,AG18: Ampang,14483,Pudu,Ampang,4.160858530679992
+AG10: Pudu,KG06: Kota Damansara,1342,Pudu,Kota Damansara,3.1277525158329733
+AG10: Pudu,KG07: Surian,2250,Pudu,Surian,3.3521825181113627
+AG10: Pudu,KG08: Mutiara Damansara,1972,Pudu,Mutiara Damansara,3.2949069106051923
+AG10: Pudu,KG09: Bandar Utama,2981,Pudu,Bandar Utama,3.4743619760326307
+AG10: Pudu,KG10: TTDI,2625,Pudu,TTDI,3.4191293077419758
+AG10: Pudu,KG13: Pusat Bandar Damansara,2499,Pudu,Pusat Bandar Damansara,3.39776625612645
+AG10: Pudu,KG14: Semantan,4643,Pudu,Semantan,3.666798683666174
+AG10: Pudu,KG15: Muzium Negara,1059,Pudu,Muzium Negara,3.024895960107485
+AG10: Pudu,KG16: Pasar Seni,2232,Pudu,Pasar Seni,3.348694190265541
+AG10: Pudu,KG18: Bukit Bintang,3466,Pudu,Bukit Bintang,3.539828558377898
+AG10: Pudu,KG20: Tun Razak Exchange,6235,Pudu,Tun Razak Exchange,3.7948364578145615
+AG10: Pudu,KG21: Cochrane,4219,Pudu,Cochrane,3.625209525381881
+AG10: Pudu,KG22: Maluri,19156,Pudu,Maluri,4.28230482837057
+AG10: Pudu,KG25: Taman Mutiara,8935,Pudu,Taman Mutiara,3.951094556841663
+AG10: Pudu,KG26: Taman Connaught,5041,Pudu,Taman Connaught,3.7025166974381505
+AG10: Pudu,KG35: Kajang,3003,Pudu,Kajang,3.477555332198981
+AG10: Pudu,KJ02: Taman Melati,1177,Pudu,Taman Melati,3.0707764628434346
+AG10: Pudu,KJ03: Wangsa Maju,2745,Pudu,Wangsa Maju,3.4385423487861106
+AG10: Pudu,KJ04: Sri Rampai,1120,Pudu,Sri Rampai,3.0492180226701815
+AG10: Pudu,KJ09: Ampang Park,3087,Pudu,Ampang Park,3.4895366294820955
+AG10: Pudu,KJ10: KLCC,8490,Pudu,KLCC,3.928907690243953
+AG10: Pudu,KJ13: Masjid Jamek,630,Pudu,Masjid Jamek,2.7993405494535817
+AG10: Pudu,KJ14: Pasar Seni,2965,Pudu,Pasar Seni,3.4720246977002813
+AG10: Pudu,KJ15: KL Sentral,3562,Pudu,KL Sentral,3.551693915127225
+AG10: Pudu,KJ16: Bank Rakyat Bangsar,5110,Pudu,Bank Rakyat Bangsar,3.708420900134713
+AG10: Pudu,KJ17: Abdullah Hukum,4700,Pudu,Abdullah Hukum,3.6720978579357175
+AG10: Pudu,KJ18: Kerinchi,2355,Pudu,Kerinchi,3.371990911464915
+AG10: Pudu,KJ19: Universiti,1908,Pudu,Universiti,3.2805783703680764
+AG10: Pudu,KJ21: Asia Jaya,2321,Pudu,Asia Jaya,3.3656751404559175
+AG10: Pudu,KJ28: Subang Jaya,1059,Pudu,Subang Jaya,3.024895960107485
+AG10: Pudu,MR01: KL Sentral,6286,Pudu,KL Sentral,3.7983743766815614
+AG10: Pudu,MR04: Hang Tuah,20618,Pudu,Hang Tuah,4.314246535288421
+AG10: Pudu,MR05: Imbi,10642,Pudu,Imbi,4.027023254588704
+AG10: Pudu,MR06: Bukit Bintang,17938,Pudu,Bukit Bintang,4.25377401967888
+AG10: Pudu,SP15: Bandar Tasik Selatan,16788,Pudu,Bandar Tasik Selatan,4.224998960539453
+AG18: Ampang,AG04: PWTC,9685,Ampang,PWTC,3.9860996250551297
+AG18: Ampang,AG06: Bandaraya,25744,Ampang,Bandaraya,4.410676026754954
+AG18: Ampang,AG07: Masjid Jamek,35890,Ampang,Masjid Jamek,4.55497345833324
+AG18: Ampang,AG10: Pudu,14616,Ampang,Pudu,4.1648285343444815
+AG18: Ampang,KG06: Kota Damansara,1955,Ampang,Kota Damansara,3.2911467617318855
+AG18: Ampang,KG07: Surian,2252,Ampang,Surian,3.3525683861793087
+AG18: Ampang,KG08: Mutiara Damansara,4444,Ampang,Mutiara Damansara,3.64777405026883
+AG18: Ampang,KG09: Bandar Utama,5939,Ampang,Bandar Utama,3.7737133252770216
+AG18: Ampang,KG10: TTDI,4378,Ampang,TTDI,3.641275757231913
+AG18: Ampang,KG13: Pusat Bandar Damansara,5470,Ampang,Pusat Bandar Damansara,3.737987326333431
+AG18: Ampang,KG14: Semantan,7407,Ampang,Semantan,3.8696423446515946
+AG18: Ampang,KG15: Muzium Negara,4876,Ampang,Muzium Negara,3.6880636969463443
+AG18: Ampang,KG16: Pasar Seni,3094,Ampang,Pasar Seni,3.490520309363349
+AG18: Ampang,KG18: Bukit Bintang,29247,Ampang,Bukit Bintang,4.46608132511
+AG18: Ampang,KG20: Tun Razak Exchange,19007,Ampang,Tun Razak Exchange,4.278913574715962
+AG18: Ampang,KG21: Cochrane,14578,Ampang,Cochrane,4.163697945892569
+AG18: Ampang,KG22: Maluri,19723,Ampang,Maluri,4.294972974720408
+AG18: Ampang,KG25: Taman Mutiara,4799,Ampang,Taman Mutiara,3.681150749932421
+AG18: Ampang,KG26: Taman Connaught,2311,Ampang,Taman Connaught,3.3637999454791094
+AG18: Ampang,KG35: Kajang,4389,Ampang,Kajang,3.6423655808449733
+AG18: Ampang,KJ02: Taman Melati,802,Ampang,Taman Melati,2.9041743682841634
+AG18: Ampang,KJ03: Wangsa Maju,1748,Ampang,Wangsa Maju,3.2425414282983844
+AG18: Ampang,KJ04: Sri Rampai,596,Ampang,Sri Rampai,2.7752462597402365
+AG18: Ampang,KJ09: Ampang Park,938,Ampang,Ampang Park,2.9722028383790646
+AG18: Ampang,KJ10: KLCC,6130,Ampang,KLCC,3.787460474518415
+AG18: Ampang,KJ13: Masjid Jamek,714,Ampang,Masjid Jamek,2.8536982117761744
+AG18: Ampang,KJ14: Pasar Seni,4975,Ampang,Pasar Seni,3.6967930850817443
+AG18: Ampang,KJ15: KL Sentral,7718,Ampang,KL Sentral,3.887504774235378
+AG18: Ampang,KJ16: Bank Rakyat Bangsar,5708,Ampang,Bank Rakyat Bangsar,3.756483964442609
+AG18: Ampang,KJ17: Abdullah Hukum,11215,Ampang,Abdullah Hukum,4.049799277918987
+AG18: Ampang,KJ18: Kerinchi,4992,Ampang,Kerinchi,3.6982745766743674
+AG18: Ampang,KJ19: Universiti,2565,Ampang,Universiti,3.409087369447835
+AG18: Ampang,KJ21: Asia Jaya,3950,Ampang,Asia Jaya,3.59659709562646
+AG18: Ampang,KJ28: Subang Jaya,1874,Ampang,Subang Jaya,3.2727695865517594
+AG18: Ampang,MR01: KL Sentral,8150,Ampang,KL Sentral,3.9111576087399764
+AG18: Ampang,MR04: Hang Tuah,12180,Ampang,Hang Tuah,4.085647288296856
+AG18: Ampang,MR05: Imbi,6660,Ampang,Imbi,3.823474229170301
+AG18: Ampang,MR06: Bukit Bintang,3939,Ampang,Bukit Bintang,3.5953859808091417
+AG18: Ampang,SP15: Bandar Tasik Selatan,10918,Ampang,Bandar Tasik Selatan,4.038143089969942
+KG06: Kota Damansara,AG04: PWTC,945,Kota Damansara,PWTC,2.975431808509263
+KG06: Kota Damansara,AG06: Bandaraya,2129,Kota Damansara,Bandaraya,3.3281756614383227
+KG06: Kota Damansara,AG07: Masjid Jamek,2294,Kota Damansara,Masjid Jamek,3.360593413565249
+KG06: Kota Damansara,AG10: Pudu,1256,Kota Damansara,Pudu,3.0989896394011773
+KG06: Kota Damansara,AG18: Ampang,1994,Kota Damansara,Ampang,3.2997251539756367
+KG06: Kota Damansara,KG07: Surian,129114,Kota Damansara,Surian,5.110973335938743
+KG06: Kota Damansara,KG08: Mutiara Damansara,41153,Kota Damansara,Mutiara Damansara,4.614401500203338
+KG06: Kota Damansara,KG09: Bandar Utama,78302,Kota Damansara,Bandar Utama,4.893772855006486
+KG06: Kota Damansara,KG10: TTDI,26531,Kota Damansara,TTDI,4.423753619612828
+KG06: Kota Damansara,KG13: Pusat Bandar Damansara,19460,Kota Damansara,Pusat Bandar Damansara,4.289142835932333
+KG06: Kota Damansara,KG14: Semantan,16204,Kota Damansara,Semantan,4.209622234511551
+KG06: Kota Damansara,KG15: Muzium Negara,31529,Kota Damansara,Muzium Negara,4.498710196521166
+KG06: Kota Damansara,KG16: Pasar Seni,9177,Kota Damansara,Pasar Seni,3.962700731704341
+KG06: Kota Damansara,KG18: Bukit Bintang,34656,Kota Damansara,Bukit Bintang,4.539778434945227
+KG06: Kota Damansara,KG20: Tun Razak Exchange,14688,Kota Damansara,Tun Razak Exchange,4.166962663857167
+KG06: Kota Damansara,KG21: Cochrane,5506,Kota Damansara,Cochrane,3.7408362070573116
+KG06: Kota Damansara,KG22: Maluri,8376,Kota Damansara,Maluri,3.923036668670786
+KG06: Kota Damansara,KG25: Taman Mutiara,3098,Kota Damansara,Taman Mutiara,3.491081413423187
+KG06: Kota Damansara,KG26: Taman Connaught,3008,Kota Damansara,Taman Connaught,3.4782778319196046
+KG06: Kota Damansara,KG35: Kajang,7887,Kota Damansara,Kajang,3.896911840826025
+KG06: Kota Damansara,KJ02: Taman Melati,1242,Kota Damansara,Taman Melati,3.0941215958405612
+KG06: Kota Damansara,KJ03: Wangsa Maju,2465,Kota Damansara,Wangsa Maju,3.391816923613249
+KG06: Kota Damansara,KJ04: Sri Rampai,1271,Kota Damansara,Sri Rampai,3.104145550554008
+KG06: Kota Damansara,KJ09: Ampang Park,1880,Kota Damansara,Ampang Park,3.27415784926368
+KG06: Kota Damansara,KJ10: KLCC,9285,Kota Damansara,KLCC,3.967781908075799
+KG06: Kota Damansara,KJ13: Masjid Jamek,2278,Kota Damansara,Masjid Jamek,3.3575537197430814
+KG06: Kota Damansara,KJ14: Pasar Seni,13388,Kota Damansara,Pasar Seni,4.12671570368574
+KG06: Kota Damansara,KJ15: KL Sentral,722,Kota Damansara,KL Sentral,2.858537197569639
+KG06: Kota Damansara,KJ16: Bank Rakyat Bangsar,2359,Kota Damansara,Bank Rakyat Bangsar,3.3727279408855955
+KG06: Kota Damansara,KJ17: Abdullah Hukum,6394,Kota Damansara,Abdullah Hukum,3.8057726319356693
+KG06: Kota Damansara,KJ18: Kerinchi,3570,Kota Damansara,Kerinchi,3.552668216112193
+KG06: Kota Damansara,KJ19: Universiti,1740,Kota Damansara,Universiti,3.2405492482826
+KG06: Kota Damansara,KJ21: Asia Jaya,1164,Kota Damansara,Asia Jaya,3.06595298031387
+KG06: Kota Damansara,KJ28: Subang Jaya,762,Kota Damansara,Subang Jaya,2.8819549713396007
+KG06: Kota Damansara,MR01: KL Sentral,9,Kota Damansara,KL Sentral,0.9542425094393249
+KG06: Kota Damansara,MR04: Hang Tuah,1378,Kota Damansara,Hang Tuah,3.139249217571607
+KG06: Kota Damansara,MR05: Imbi,46,Kota Damansara,Imbi,1.662757831681574
+KG06: Kota Damansara,MR06: Bukit Bintang,15,Kota Damansara,Bukit Bintang,1.1760912590556813
+KG06: Kota Damansara,SP15: Bandar Tasik Selatan,1982,Kota Damansara,Bandar Tasik Selatan,3.2971036501492565
+KG07: Surian,AG04: PWTC,1446,Surian,PWTC,3.160168292958512
+KG07: Surian,AG06: Bandaraya,2130,Surian,Bandaraya,3.3283796034387376
+KG07: Surian,AG07: Masjid Jamek,2605,Surian,Masjid Jamek,3.4158077276355434
+KG07: Surian,AG10: Pudu,2223,Surian,Pudu,3.3469394626989906
+KG07: Surian,AG18: Ampang,2423,Surian,Ampang,3.384353414137506
+KG07: Surian,KG06: Kota Damansara,122952,Surian,Kota Damansara,5.089735597587947
+KG07: Surian,KG08: Mutiara Damansara,62890,Surian,Mutiara Damansara,4.798581594728548
+KG07: Surian,KG09: Bandar Utama,106231,Surian,Bandar Utama,5.02625126970556
+KG07: Surian,KG10: TTDI,32479,Surian,TTDI,4.51160264922777
+KG07: Surian,KG13: Pusat Bandar Damansara,20695,Surian,Pusat Bandar Damansara,4.315865430736779
+KG07: Surian,KG14: Semantan,14802,Surian,Semantan,4.17032039987338
+KG07: Surian,KG15: Muzium Negara,42174,Surian,Muzium Negara,4.625044793700269
+KG07: Surian,KG16: Pasar Seni,12697,Surian,Pasar Seni,4.103701119589514
+KG07: Surian,KG18: Bukit Bintang,50923,Surian,Bukit Bintang,4.706913981098407
+KG07: Surian,KG20: Tun Razak Exchange,26090,Surian,Tun Razak Exchange,4.416474079100221
+KG07: Surian,KG21: Cochrane,9080,Surian,Cochrane,3.958085848521085
+KG07: Surian,KG22: Maluri,16279,Surian,Maluri,4.2116277231686166
+KG07: Surian,KG25: Taman Mutiara,8171,Surian,Taman Mutiara,3.9122752104988123
+KG07: Surian,KG26: Taman Connaught,6092,Surian,Taman Connaught,3.784759894664005
+KG07: Surian,KG35: Kajang,9378,Surian,Kajang,3.9721102284028307
+KG07: Surian,KJ02: Taman Melati,2234,Surian,Taman Melati,3.34908316877959
+KG07: Surian,KJ03: Wangsa Maju,4673,Surian,Wangsa Maju,3.6695957810243134
+KG07: Surian,KJ04: Sri Rampai,2202,Surian,Sri Rampai,3.342817314635733
+KG07: Surian,KJ09: Ampang Park,1736,Surian,Ampang Park,3.239549720840473
+KG07: Surian,KJ10: KLCC,11203,Surian,KLCC,4.049334335972284
+KG07: Surian,KJ13: Masjid Jamek,2693,Surian,Masjid Jamek,3.4302363534115106
+KG07: Surian,KJ14: Pasar Seni,15680,Surian,Pasar Seni,4.195346058348419
+KG07: Surian,KJ15: KL Sentral,1079,Surian,KL Sentral,3.0330214446829107
+KG07: Surian,KJ16: Bank Rakyat Bangsar,3009,Surian,Bank Rakyat Bangsar,3.4784221877400805
+KG07: Surian,KJ17: Abdullah Hukum,7328,Surian,Abdullah Hukum,3.8649854606597938
+KG07: Surian,KJ18: Kerinchi,3167,Surian,Kerinchi,3.500648063371912
+KG07: Surian,KJ19: Universiti,2313,Surian,Universiti,3.3641756327706194
+KG07: Surian,KJ21: Asia Jaya,1148,Surian,Asia Jaya,3.059941888061955
+KG07: Surian,KJ28: Subang Jaya,801,Surian,Subang Jaya,2.9036325160842376
+KG07: Surian,MR01: KL Sentral,12,Surian,KL Sentral,1.0791812460476249
+KG07: Surian,MR04: Hang Tuah,1361,Surian,Hang Tuah,3.133858125203335
+KG07: Surian,MR05: Imbi,85,Surian,Imbi,1.9294189257142926
+KG07: Surian,MR06: Bukit Bintang,19,Surian,Bukit Bintang,1.2787536009528289
+KG07: Surian,SP15: Bandar Tasik Selatan,2143,Surian,Bandar Tasik Selatan,3.3310221710418286
+KG08: Mutiara Damansara,AG04: PWTC,2431,Mutiara Damansara,PWTC,3.3857849588433355
+KG08: Mutiara Damansara,AG06: Bandaraya,2331,Mutiara Damansara,Bandaraya,3.3675422735205767
+KG08: Mutiara Damansara,AG07: Masjid Jamek,3120,Mutiara Damansara,Masjid Jamek,3.494154594018443
+KG08: Mutiara Damansara,AG10: Pudu,1814,Mutiara Damansara,Pudu,3.2586372827240764
+KG08: Mutiara Damansara,AG18: Ampang,4899,Mutiara Damansara,Ampang,3.6901074394563307
+KG08: Mutiara Damansara,KG06: Kota Damansara,39905,Mutiara Damansara,Kota Damansara,4.601027315144486
+KG08: Mutiara Damansara,KG07: Surian,63824,Mutiara Damansara,Surian,4.804984018965764
+KG08: Mutiara Damansara,KG09: Bandar Utama,99344,Mutiara Damansara,Bandar Utama,4.997141642501908
+KG08: Mutiara Damansara,KG10: TTDI,36728,Mutiara Damansara,TTDI,4.564997279757964
+KG08: Mutiara Damansara,KG13: Pusat Bandar Damansara,45186,Mutiara Damansara,Pusat Bandar Damansara,4.6550038979849875
+KG08: Mutiara Damansara,KG14: Semantan,20648,Mutiara Damansara,Semantan,4.314877991535813
+KG08: Mutiara Damansara,KG15: Muzium Negara,49639,Mutiara Damansara,Muzium Negara,4.695823023856982
+KG08: Mutiara Damansara,KG16: Pasar Seni,13461,Mutiara Damansara,Pasar Seni,4.129077324252736
+KG08: Mutiara Damansara,KG18: Bukit Bintang,54653,Mutiara Damansara,Bukit Bintang,4.737614006133595
+KG08: Mutiara Damansara,KG20: Tun Razak Exchange,24251,Mutiara Damansara,Tun Razak Exchange,4.384729651619834
+KG08: Mutiara Damansara,KG21: Cochrane,9677,Mutiara Damansara,Cochrane,3.9857407410500745
+KG08: Mutiara Damansara,KG22: Maluri,13414,Mutiara Damansara,Maluri,4.1275583020046325
+KG08: Mutiara Damansara,KG25: Taman Mutiara,5605,Mutiara Damansara,Taman Mutiara,3.748575616930992
+KG08: Mutiara Damansara,KG26: Taman Connaught,6181,Mutiara Damansara,Taman Connaught,3.7910587435918255
+KG08: Mutiara Damansara,KG35: Kajang,15302,Mutiara Damansara,Kajang,4.184748197627941
+KG08: Mutiara Damansara,KJ02: Taman Melati,2477,Mutiara Damansara,Taman Melati,3.3939260065858368
+KG08: Mutiara Damansara,KJ03: Wangsa Maju,4162,Mutiara Damansara,Wangsa Maju,3.6193020758756083
+KG08: Mutiara Damansara,KJ04: Sri Rampai,2618,Mutiara Damansara,Sri Rampai,3.417969642214737
+KG08: Mutiara Damansara,KJ09: Ampang Park,3119,Mutiara Damansara,Ampang Park,3.4940153747571436
+KG08: Mutiara Damansara,KJ10: KLCC,15332,Mutiara Damansara,KLCC,4.185598810582315
+KG08: Mutiara Damansara,KJ13: Masjid Jamek,2661,Mutiara Damansara,Masjid Jamek,3.425044874551389
+KG08: Mutiara Damansara,KJ14: Pasar Seni,22181,Mutiara Damansara,Pasar Seni,4.345981121826305
+KG08: Mutiara Damansara,KJ15: KL Sentral,1482,Mutiara Damansara,KL Sentral,3.170848203643309
+KG08: Mutiara Damansara,KJ16: Bank Rakyat Bangsar,4491,Mutiara Damansara,Bank Rakyat Bangsar,3.652343055062715
+KG08: Mutiara Damansara,KJ17: Abdullah Hukum,10013,Mutiara Damansara,Abdullah Hukum,4.000564216165375
+KG08: Mutiara Damansara,KJ18: Kerinchi,4302,Mutiara Damansara,Kerinchi,3.6336704060514435
+KG08: Mutiara Damansara,KJ19: Universiti,2780,Mutiara Damansara,Universiti,3.444044795918076
+KG08: Mutiara Damansara,KJ21: Asia Jaya,1929,Mutiara Damansara,Asia Jaya,3.2853322276438846
+KG08: Mutiara Damansara,KJ28: Subang Jaya,1315,Mutiara Damansara,Subang Jaya,3.1189257528257768
+KG08: Mutiara Damansara,MR01: KL Sentral,7,Mutiara Damansara,KL Sentral,0.8450980400142568
+KG08: Mutiara Damansara,MR04: Hang Tuah,1466,Mutiara Damansara,Hang Tuah,3.166133970305109
+KG08: Mutiara Damansara,MR05: Imbi,48,Mutiara Damansara,Imbi,1.6812412373755872
+KG08: Mutiara Damansara,MR06: Bukit Bintang,20,Mutiara Damansara,Bukit Bintang,1.3010299956639813
+KG08: Mutiara Damansara,SP15: Bandar Tasik Selatan,2537,Mutiara Damansara,Bandar Tasik Selatan,3.404320467221731
+KG09: Bandar Utama,AG04: PWTC,2448,Bandar Utama,PWTC,3.3888114134735234
+KG09: Bandar Utama,AG06: Bandaraya,2133,Bandar Utama,Bandaraya,3.3289908554494287
+KG09: Bandar Utama,AG07: Masjid Jamek,3787,Bandar Utama,Masjid Jamek,3.578295305120826
+KG09: Bandar Utama,AG10: Pudu,2822,Bandar Utama,Pudu,3.450557009418329
+KG09: Bandar Utama,AG18: Ampang,6162,Bandar Utama,Ampang,3.7897216939809217
+KG09: Bandar Utama,KG06: Kota Damansara,71854,Bandar Utama,Kota Damansara,4.856450949638981
+KG09: Bandar Utama,KG07: Surian,107053,Bandar Utama,Surian,5.029598842253436
+KG09: Bandar Utama,KG08: Mutiara Damansara,97735,Bandar Utama,Mutiara Damansara,4.990050117299545
+KG09: Bandar Utama,KG10: TTDI,49098,Bandar Utama,TTDI,4.691063801559741
+KG09: Bandar Utama,KG13: Pusat Bandar Damansara,25147,Bandar Utama,Pusat Bandar Damansara,4.400486181791204
+KG09: Bandar Utama,KG14: Semantan,22887,Bandar Utama,Semantan,4.359588869615034
+KG09: Bandar Utama,KG15: Muzium Negara,61844,Bandar Utama,Muzium Negara,4.791297571494794
+KG09: Bandar Utama,KG16: Pasar Seni,18922,Bandar Utama,Pasar Seni,4.276967038147092
+KG09: Bandar Utama,KG18: Bukit Bintang,74739,Bandar Utama,Bukit Bintang,4.873547282737765
+KG09: Bandar Utama,KG20: Tun Razak Exchange,41753,Bandar Utama,Tun Razak Exchange,4.620687685487591
+KG09: Bandar Utama,KG21: Cochrane,13701,Bandar Utama,Cochrane,4.136752266326663
+KG09: Bandar Utama,KG22: Maluri,27388,Bandar Utama,Maluri,4.437560319195281
+KG09: Bandar Utama,KG25: Taman Mutiara,13651,Bandar Utama,Taman Mutiara,4.1351644666569545
+KG09: Bandar Utama,KG26: Taman Connaught,11581,Bandar Utama,Taman Connaught,4.063746061613443
+KG09: Bandar Utama,KG35: Kajang,21618,Bandar Utama,Kajang,4.334815512506212
+KG09: Bandar Utama,KJ02: Taman Melati,5760,Bandar Utama,Taman Melati,3.760422483423212
+KG09: Bandar Utama,KJ03: Wangsa Maju,10737,Bandar Utama,Wangsa Maju,4.030882953109667
+KG09: Bandar Utama,KJ04: Sri Rampai,4563,Bandar Utama,Sri Rampai,3.659250468772661
+KG09: Bandar Utama,KJ09: Ampang Park,2543,Bandar Utama,Ampang Park,3.405346360175709
+KG09: Bandar Utama,KJ10: KLCC,16535,Bandar Utama,KLCC,4.218404199249722
+KG09: Bandar Utama,KJ13: Masjid Jamek,3555,Bandar Utama,Masjid Jamek,3.550839605065785
+KG09: Bandar Utama,KJ14: Pasar Seni,25946,Bandar Utama,Pasar Seni,4.414070413751801
+KG09: Bandar Utama,KJ15: KL Sentral,2152,Bandar Utama,KL Sentral,3.3328422669943514
+KG09: Bandar Utama,KJ16: Bank Rakyat Bangsar,3991,Bandar Utama,Bank Rakyat Bangsar,3.6010817277840235
+KG09: Bandar Utama,KJ17: Abdullah Hukum,8650,Bandar Utama,Abdullah Hukum,3.9370161074648142
+KG09: Bandar Utama,KJ18: Kerinchi,2909,Bandar Utama,Kerinchi,3.463743721247059
+KG09: Bandar Utama,KJ19: Universiti,4705,Bandar Utama,Universiti,3.6725596277632757
+KG09: Bandar Utama,KJ21: Asia Jaya,1435,Bandar Utama,Asia Jaya,3.156851901070011
+KG09: Bandar Utama,KJ28: Subang Jaya,1625,Bandar Utama,Subang Jaya,3.210853365314893
+KG09: Bandar Utama,MR01: KL Sentral,18,Bandar Utama,KL Sentral,1.255272505103306
+KG09: Bandar Utama,MR04: Hang Tuah,2202,Bandar Utama,Hang Tuah,3.342817314635733
+KG09: Bandar Utama,MR05: Imbi,104,Bandar Utama,Imbi,2.0170333392987803
+KG09: Bandar Utama,MR06: Bukit Bintang,29,Bandar Utama,Bukit Bintang,1.462397997898956
+KG09: Bandar Utama,SP15: Bandar Tasik Selatan,2790,Bandar Utama,Bandar Tasik Selatan,3.4456042032735974
+KG10: TTDI,AG04: PWTC,1593,TTDI,PWTC,3.2022157758011316
+KG10: TTDI,AG06: Bandaraya,1672,TTDI,Bandaraya,3.2232362731029975
+KG10: TTDI,AG07: Masjid Jamek,3119,TTDI,Masjid Jamek,3.4940153747571436
+KG10: TTDI,AG10: Pudu,2292,TTDI,Pudu,3.3602146132953523
+KG10: TTDI,AG18: Ampang,4256,TTDI,Ampang,3.6290016192869916
+KG10: TTDI,KG06: Kota Damansara,23472,TTDI,Kota Damansara,4.3705500964992074
+KG10: TTDI,KG07: Surian,35165,TTDI,Surian,4.546110621749425
+KG10: TTDI,KG08: Mutiara Damansara,36299,TTDI,Mutiara Damansara,4.559894660836002
+KG10: TTDI,KG09: Bandar Utama,56686,TTDI,Bandar Utama,4.753475812446651
+KG10: TTDI,KG13: Pusat Bandar Damansara,18624,TTDI,Pusat Bandar Damansara,4.270072962969794
+KG10: TTDI,KG14: Semantan,16143,TTDI,Semantan,4.207984246766157
+KG10: TTDI,KG15: Muzium Negara,45134,TTDI,Muzium Negara,4.654503824567048
+KG10: TTDI,KG16: Pasar Seni,14033,TTDI,Pasar Seni,4.147150525210071
+KG10: TTDI,KG18: Bukit Bintang,50868,TTDI,Bukit Bintang,4.706444662615846
+KG10: TTDI,KG20: Tun Razak Exchange,27721,TTDI,Tun Razak Exchange,4.442808892846281
+KG10: TTDI,KG21: Cochrane,10235,TTDI,Cochrane,4.010087846998524
+KG10: TTDI,KG22: Maluri,20433,TTDI,Maluri,4.310332135002271
+KG10: TTDI,KG25: Taman Mutiara,7792,TTDI,Taman Mutiara,3.891648943870559
+KG10: TTDI,KG26: Taman Connaught,9136,TTDI,Taman Connaught,3.9607560909017727
+KG10: TTDI,KG35: Kajang,17449,TTDI,Kajang,4.241770542646124
+KG10: TTDI,KJ02: Taman Melati,3882,TTDI,Taman Melati,3.589055531052344
+KG10: TTDI,KJ03: Wangsa Maju,6108,TTDI,Wangsa Maju,3.7858990283843834
+KG10: TTDI,KJ04: Sri Rampai,3338,TTDI,Sri Rampai,3.5234863323432277
+KG10: TTDI,KJ09: Ampang Park,2331,TTDI,Ampang Park,3.3675422735205767
+KG10: TTDI,KJ10: KLCC,12330,TTDI,KLCC,4.090963076595732
+KG10: TTDI,KJ13: Masjid Jamek,3279,TTDI,Masjid Jamek,3.515741416669365
+KG10: TTDI,KJ14: Pasar Seni,17913,TTDI,Pasar Seni,4.253168325901442
+KG10: TTDI,KJ15: KL Sentral,1300,TTDI,KL Sentral,3.113943352306837
+KG10: TTDI,KJ16: Bank Rakyat Bangsar,2609,TTDI,Bank Rakyat Bangsar,3.4164740791002206
+KG10: TTDI,KJ17: Abdullah Hukum,5628,TTDI,Abdullah Hukum,3.750354088762708
+KG10: TTDI,KJ18: Kerinchi,2298,TTDI,Kerinchi,3.3613500243522663
+KG10: TTDI,KJ19: Universiti,3506,TTDI,Universiti,3.544811911757776
+KG10: TTDI,KJ21: Asia Jaya,1026,TTDI,Asia Jaya,3.0111473607757975
+KG10: TTDI,KJ28: Subang Jaya,896,TTDI,Subang Jaya,2.9523080096621253
+KG10: TTDI,MR01: KL Sentral,1,TTDI,KL Sentral,0.0
+KG10: TTDI,MR04: Hang Tuah,1486,TTDI,Hang Tuah,3.1720188094245563
+KG10: TTDI,MR05: Imbi,56,TTDI,Imbi,1.7481880270062005
+KG10: TTDI,MR06: Bukit Bintang,11,TTDI,Bukit Bintang,1.0413926851582251
+KG10: TTDI,SP15: Bandar Tasik Selatan,2204,TTDI,Bandar Tasik Selatan,3.3432115901797474
+KG13: Pusat Bandar Damansara,AG04: PWTC,3004,Pusat Bandar Damansara,PWTC,3.4776999283321306
+KG13: Pusat Bandar Damansara,AG06: Bandaraya,870,Pusat Bandar Damansara,Bandaraya,2.9395192526186187
+KG13: Pusat Bandar Damansara,AG07: Masjid Jamek,1646,Pusat Bandar Damansara,Masjid Jamek,3.216429830876251
+KG13: Pusat Bandar Damansara,AG10: Pudu,3288,Pusat Bandar Damansara,Pudu,3.5169318088680126
+KG13: Pusat Bandar Damansara,AG18: Ampang,5530,Pusat Bandar Damansara,Ampang,3.7427251313046983
+KG13: Pusat Bandar Damansara,KG06: Kota Damansara,17319,Pusat Bandar Damansara,Kota Damansara,4.238522812218293
+KG13: Pusat Bandar Damansara,KG07: Surian,22002,Pusat Bandar Damansara,Surian,4.342462160344247
+KG13: Pusat Bandar Damansara,KG08: Mutiara Damansara,44183,Pusat Bandar Damansara,Mutiara Damansara,4.645255200879286
+KG13: Pusat Bandar Damansara,KG09: Bandar Utama,30094,Pusat Bandar Damansara,Bandar Utama,4.4784799166358065
+KG13: Pusat Bandar Damansara,KG10: TTDI,19688,Pusat Bandar Damansara,TTDI,4.2942016006947465
+KG13: Pusat Bandar Damansara,KG14: Semantan,23449,Pusat Bandar Damansara,Semantan,4.370124326635658
+KG13: Pusat Bandar Damansara,KG15: Muzium Negara,40477,Pusat Bandar Damansara,Muzium Negara,4.6072083167831535
+KG13: Pusat Bandar Damansara,KG16: Pasar Seni,14059,Pusat Bandar Damansara,Pasar Seni,4.14795443093082
+KG13: Pusat Bandar Damansara,KG18: Bukit Bintang,49970,Pusat Bandar Damansara,Bukit Bintang,4.698709349442587
+KG13: Pusat Bandar Damansara,KG20: Tun Razak Exchange,18595,Pusat Bandar Damansara,Tun Razak Exchange,4.269396182694991
+KG13: Pusat Bandar Damansara,KG21: Cochrane,12824,Pusat Bandar Damansara,Cochrane,4.108023509346088
+KG13: Pusat Bandar Damansara,KG22: Maluri,23654,Pusat Bandar Damansara,Maluri,4.37390459247497
+KG13: Pusat Bandar Damansara,KG25: Taman Mutiara,8660,Pusat Bandar Damansara,Taman Mutiara,3.937517892017347
+KG13: Pusat Bandar Damansara,KG26: Taman Connaught,8322,Pusat Bandar Damansara,Taman Connaught,3.9202277114569286
+KG13: Pusat Bandar Damansara,KG35: Kajang,13295,Pusat Bandar Damansara,Kajang,4.123688341667586
+KG13: Pusat Bandar Damansara,KJ02: Taman Melati,4253,Pusat Bandar Damansara,Taman Melati,3.628695382714023
+KG13: Pusat Bandar Damansara,KJ03: Wangsa Maju,5985,Pusat Bandar Damansara,Wangsa Maju,3.7770641547424293
+KG13: Pusat Bandar Damansara,KJ04: Sri Rampai,3610,Pusat Bandar Damansara,Sri Rampai,3.5575072019056577
+KG13: Pusat Bandar Damansara,KJ09: Ampang Park,1132,Pusat Bandar Damansara,Ampang Park,3.0538464268522527
+KG13: Pusat Bandar Damansara,KJ10: KLCC,5212,Pusat Bandar Damansara,KLCC,3.7170044070405472
+KG13: Pusat Bandar Damansara,KJ13: Masjid Jamek,1411,Pusat Bandar Damansara,Masjid Jamek,3.149527013754348
+KG13: Pusat Bandar Damansara,KJ14: Pasar Seni,17689,Pusat Bandar Damansara,Pasar Seni,4.247703281934172
+KG13: Pusat Bandar Damansara,KJ15: KL Sentral,1035,Pusat Bandar Damansara,KL Sentral,3.0149403497929366
+KG13: Pusat Bandar Damansara,KJ16: Bank Rakyat Bangsar,2060,Pusat Bandar Damansara,Bank Rakyat Bangsar,3.3138672203691533
+KG13: Pusat Bandar Damansara,KJ17: Abdullah Hukum,2842,Pusat Bandar Damansara,Abdullah Hukum,3.4536240735914507
+KG13: Pusat Bandar Damansara,KJ18: Kerinchi,1572,Pusat Bandar Damansara,Kerinchi,3.196452541703389
+KG13: Pusat Bandar Damansara,KJ19: Universiti,2192,Pusat Bandar Damansara,Universiti,3.3408405498123317
+KG13: Pusat Bandar Damansara,KJ21: Asia Jaya,906,Pusat Bandar Damansara,Asia Jaya,2.957128197676813
+KG13: Pusat Bandar Damansara,KJ28: Subang Jaya,1828,Pusat Bandar Damansara,Subang Jaya,3.2619761913978125
+KG13: Pusat Bandar Damansara,MR01: KL Sentral,11,Pusat Bandar Damansara,KL Sentral,1.0413926851582251
+KG13: Pusat Bandar Damansara,MR04: Hang Tuah,2279,Pusat Bandar Damansara,Hang Tuah,3.3577443251803754
+KG13: Pusat Bandar Damansara,MR05: Imbi,52,Pusat Bandar Damansara,Imbi,1.7160033436347992
+KG13: Pusat Bandar Damansara,MR06: Bukit Bintang,14,Pusat Bandar Damansara,Bukit Bintang,1.146128035678238
+KG13: Pusat Bandar Damansara,SP15: Bandar Tasik Selatan,1074,Pusat Bandar Damansara,Bandar Tasik Selatan,3.0310042813635367
+KG14: Semantan,AG04: PWTC,2841,Semantan,PWTC,3.453471233722936
+KG14: Semantan,AG06: Bandaraya,1492,Semantan,Bandaraya,3.17376882313665
+KG14: Semantan,AG07: Masjid Jamek,2358,Semantan,Masjid Jamek,3.3725438007590705
+KG14: Semantan,AG10: Pudu,4277,Semantan,Pudu,3.631139250256811
+KG14: Semantan,AG18: Ampang,7780,Semantan,Ampang,3.890979596989689
+KG14: Semantan,KG06: Kota Damansara,14701,Semantan,Kota Damansara,4.1673468775856355
+KG14: Semantan,KG07: Surian,16580,Semantan,Surian,4.219584526214255
+KG14: Semantan,KG08: Mutiara Damansara,19912,Semantan,Mutiara Damansara,4.299114883600537
+KG14: Semantan,KG09: Bandar Utama,31147,Semantan,Bandar Utama,4.4934162228671335
+KG14: Semantan,KG10: TTDI,18394,Semantan,TTDI,4.264676182148825
+KG14: Semantan,KG13: Pusat Bandar Damansara,26235,Semantan,Pusat Bandar Damansara,4.418881068534358
+KG14: Semantan,KG15: Muzium Negara,64492,Semantan,Muzium Negara,4.809505845312214
+KG14: Semantan,KG16: Pasar Seni,22843,Semantan,Pasar Seni,4.358753139761521
+KG14: Semantan,KG18: Bukit Bintang,52197,Semantan,Bukit Bintang,4.717645542832026
+KG14: Semantan,KG20: Tun Razak Exchange,21764,Semantan,Tun Razak Exchange,4.337738717233867
+KG14: Semantan,KG21: Cochrane,13218,Semantan,Cochrane,4.121165747534412
+KG14: Semantan,KG22: Maluri,25080,Semantan,Maluri,4.3993275321586784
+KG14: Semantan,KG25: Taman Mutiara,8544,Semantan,Taman Mutiara,3.9316612396844812
+KG14: Semantan,KG26: Taman Connaught,9707,Semantan,Taman Connaught,3.987085029624122
+KG14: Semantan,KG35: Kajang,21806,Semantan,Kajang,4.338576007749808
+KG14: Semantan,KJ02: Taman Melati,6344,Semantan,Taman Melati,3.8023631743095474
+KG14: Semantan,KJ03: Wangsa Maju,8058,Semantan,Wangsa Maju,3.906227263052359
+KG14: Semantan,KJ04: Sri Rampai,5481,Semantan,Sri Rampai,3.7388598020722004
+KG14: Semantan,KJ09: Ampang Park,1727,Semantan,Ampang Park,3.237292337567459
+KG14: Semantan,KJ10: KLCC,8695,Semantan,KLCC,3.9392695863387313
+KG14: Semantan,KJ13: Masjid Jamek,2916,Semantan,Masjid Jamek,3.4647875196459372
+KG14: Semantan,KJ14: Pasar Seni,20313,Semantan,Pasar Seni,4.307774068517087
+KG14: Semantan,KJ15: KL Sentral,1869,Semantan,KL Sentral,3.271609301378832
+KG14: Semantan,KJ16: Bank Rakyat Bangsar,4297,Semantan,Bank Rakyat Bangsar,3.633165353683903
+KG14: Semantan,KJ17: Abdullah Hukum,4114,Semantan,Abdullah Hukum,3.614264287358705
+KG14: Semantan,KJ18: Kerinchi,1952,Semantan,Kerinchi,3.290479813330673
+KG14: Semantan,KJ19: Universiti,4179,Semantan,Universiti,3.621072371143626
+KG14: Semantan,KJ21: Asia Jaya,1259,Semantan,Asia Jaya,3.1000257301078626
+KG14: Semantan,KJ28: Subang Jaya,2618,Semantan,Subang Jaya,3.417969642214737
+KG14: Semantan,MR01: KL Sentral,7,Semantan,KL Sentral,0.8450980400142568
+KG14: Semantan,MR04: Hang Tuah,2332,Semantan,Hang Tuah,3.3677285460869766
+KG14: Semantan,MR05: Imbi,52,Semantan,Imbi,1.7160033436347992
+KG14: Semantan,MR06: Bukit Bintang,4,Semantan,Bukit Bintang,0.6020599913279624
+KG14: Semantan,SP15: Bandar Tasik Selatan,2120,Semantan,Bandar Tasik Selatan,3.326335860928751
+KG15: Muzium Negara,AG04: PWTC,1534,Muzium Negara,PWTC,3.185825359612962
+KG15: Muzium Negara,AG06: Bandaraya,851,Muzium Negara,Bandaraya,2.929929560084588
+KG15: Muzium Negara,AG07: Masjid Jamek,1359,Muzium Negara,Masjid Jamek,3.1332194567324945
+KG15: Muzium Negara,AG10: Pudu,1195,Muzium Negara,Pudu,3.0773679052841563
+KG15: Muzium Negara,AG18: Ampang,5317,Muzium Negara,Ampang,3.7256666603141784
+KG15: Muzium Negara,KG06: Kota Damansara,30409,Muzium Negara,Kota Damansara,4.483002138604418
+KG15: Muzium Negara,KG07: Surian,45053,Muzium Negara,Surian,4.65372371518337
+KG15: Muzium Negara,KG08: Mutiara Damansara,51506,Muzium Negara,Mutiara Damansara,4.711857823509365
+KG15: Muzium Negara,KG09: Bandar Utama,75459,Muzium Negara,Bandar Utama,4.877711045532886
+KG15: Muzium Negara,KG10: TTDI,46836,Muzium Negara,TTDI,4.670579797328873
+KG15: Muzium Negara,KG13: Pusat Bandar Damansara,40392,Muzium Negara,Pusat Bandar Damansara,4.60629535768743
+KG15: Muzium Negara,KG14: Semantan,61074,Muzium Negara,Semantan,4.785856364748424
+KG15: Muzium Negara,KG16: Pasar Seni,32347,Muzium Negara,Pasar Seni,4.509834008532962
+KG15: Muzium Negara,KG18: Bukit Bintang,111596,Muzium Negara,Bukit Bintang,5.047648628212128
+KG15: Muzium Negara,KG20: Tun Razak Exchange,80320,Muzium Negara,Tun Razak Exchange,4.904823699800944
+KG15: Muzium Negara,KG21: Cochrane,49517,Muzium Negara,Cochrane,4.694754324967783
+KG15: Muzium Negara,KG22: Maluri,95684,Muzium Negara,Maluri,4.980839322388654
+KG15: Muzium Negara,KG25: Taman Mutiara,32155,Muzium Negara,Taman Mutiara,4.507248513918786
+KG15: Muzium Negara,KG26: Taman Connaught,38611,Muzium Negara,Taman Connaught,4.586711049716716
+KG15: Muzium Negara,KG35: Kajang,68198,Muzium Negara,Kajang,4.8337716385611715
+KG15: Muzium Negara,KJ02: Taman Melati,661,Muzium Negara,Taman Melati,2.82020145948564
+KG15: Muzium Negara,KJ03: Wangsa Maju,819,Muzium Negara,Wangsa Maju,2.9132839017604186
+KG15: Muzium Negara,KJ04: Sri Rampai,330,Muzium Negara,Sri Rampai,2.5185139398778875
+KG15: Muzium Negara,KJ09: Ampang Park,685,Muzium Negara,Ampang Park,2.8356905714924254
+KG15: Muzium Negara,KJ10: KLCC,4358,Muzium Negara,KLCC,3.6392872259102367
+KG15: Muzium Negara,KJ13: Masjid Jamek,552,Muzium Negara,Masjid Jamek,2.741939077729199
+KG15: Muzium Negara,KJ14: Pasar Seni,21891,Muzium Negara,Pasar Seni,4.34026560097233
+KG15: Muzium Negara,KJ15: KL Sentral,587,Muzium Negara,KL Sentral,2.7686381012476144
+KG15: Muzium Negara,KJ16: Bank Rakyat Bangsar,356,Muzium Negara,Bank Rakyat Bangsar,2.5514499979728753
+KG15: Muzium Negara,KJ17: Abdullah Hukum,584,Muzium Negara,Abdullah Hukum,2.7664128471123997
+KG15: Muzium Negara,KJ18: Kerinchi,160,Muzium Negara,Kerinchi,2.2041199826559246
+KG15: Muzium Negara,KJ19: Universiti,346,Muzium Negara,Universiti,2.5390760987927767
+KG15: Muzium Negara,KJ21: Asia Jaya,100,Muzium Negara,Asia Jaya,2.0
+KG15: Muzium Negara,KJ28: Subang Jaya,98,Muzium Negara,Subang Jaya,1.9912260756924949
+KG15: Muzium Negara,MR01: KL Sentral,31,Muzium Negara,KL Sentral,1.4913616938342726
+KG15: Muzium Negara,MR04: Hang Tuah,900,Muzium Negara,Hang Tuah,2.9542425094393248
+KG15: Muzium Negara,MR05: Imbi,109,Muzium Negara,Imbi,2.037426497940624
+KG15: Muzium Negara,MR06: Bukit Bintang,29,Muzium Negara,Bukit Bintang,1.462397997898956
+KG15: Muzium Negara,SP15: Bandar Tasik Selatan,1600,Muzium Negara,Bandar Tasik Selatan,3.2041199826559246
+KG16: Pasar Seni,AG04: PWTC,2664,Pasar Seni,PWTC,3.4255342204982635
+KG16: Pasar Seni,AG06: Bandaraya,2461,Pasar Seni,Bandaraya,3.3911116137028023
+KG16: Pasar Seni,AG07: Masjid Jamek,11840,Pasar Seni,Masjid Jamek,4.073351702386901
+KG16: Pasar Seni,AG10: Pudu,2184,Pasar Seni,Pudu,3.3392526340327
+KG16: Pasar Seni,AG18: Ampang,3701,Pasar Seni,Ampang,3.5683190850951116
+KG16: Pasar Seni,KG06: Kota Damansara,8927,Pasar Seni,Kota Damansara,3.9507055347738613
+KG16: Pasar Seni,KG07: Surian,13893,Pasar Seni,Surian,4.142796035713555
+KG16: Pasar Seni,KG08: Mutiara Damansara,14755,Pasar Seni,Mutiara Damansara,4.168939213835978
+KG16: Pasar Seni,KG09: Bandar Utama,24205,Pasar Seni,Bandar Utama,4.383905086976909
+KG16: Pasar Seni,KG10: TTDI,13900,Pasar Seni,TTDI,4.143014800254095
+KG16: Pasar Seni,KG13: Pusat Bandar Damansara,13802,Pasar Seni,Pusat Bandar Damansara,4.13994202306998
+KG16: Pasar Seni,KG14: Semantan,21641,Pasar Seni,Semantan,4.335277325031929
+KG16: Pasar Seni,KG15: Muzium Negara,33651,Pasar Seni,Muzium Negara,4.526997974593544
+KG16: Pasar Seni,KG18: Bukit Bintang,167948,Pasar Seni,Bukit Bintang,5.225174836435286
+KG16: Pasar Seni,KG20: Tun Razak Exchange,63357,Pasar Seni,Tun Razak Exchange,4.801794604908908
+KG16: Pasar Seni,KG21: Cochrane,30982,Pasar Seni,Cochrane,4.491109449605496
+KG16: Pasar Seni,KG22: Maluri,38556,Pasar Seni,Maluri,4.586091971599143
+KG16: Pasar Seni,KG25: Taman Mutiara,19507,Pasar Seni,Taman Mutiara,4.290190483970304
+KG16: Pasar Seni,KG26: Taman Connaught,12949,Pasar Seni,Taman Connaught,4.112236230868939
+KG16: Pasar Seni,KG35: Kajang,18827,Pasar Seni,Kajang,4.274781122605907
+KG16: Pasar Seni,KJ02: Taman Melati,6227,Pasar Seni,Taman Melati,3.7942788657214
+KG16: Pasar Seni,KJ03: Wangsa Maju,12943,Pasar Seni,Wangsa Maju,4.11203495117343
+KG16: Pasar Seni,KJ04: Sri Rampai,4691,Pasar Seni,Sri Rampai,3.6712654329471586
+KG16: Pasar Seni,KJ09: Ampang Park,6861,Pasar Seni,Ampang Park,3.836387419326411
+KG16: Pasar Seni,KJ10: KLCC,35233,Pasar Seni,KLCC,4.546949623822047
+KG16: Pasar Seni,KJ13: Masjid Jamek,7827,Pasar Seni,Masjid Jamek,3.893595333819883
+KG16: Pasar Seni,KJ14: Pasar Seni,17322,Pasar Seni,Pasar Seni,4.238598034264364
+KG16: Pasar Seni,KJ15: KL Sentral,37683,Pasar Seni,KL Sentral,4.576145470330555
+KG16: Pasar Seni,KJ16: Bank Rakyat Bangsar,11452,Pasar Seni,Bank Rakyat Bangsar,4.058881339349561
+KG16: Pasar Seni,KJ17: Abdullah Hukum,14325,Pasar Seni,Abdullah Hukum,4.156094630639427
+KG16: Pasar Seni,KJ18: Kerinchi,4726,Pasar Seni,Kerinchi,3.6744937172963503
+KG16: Pasar Seni,KJ19: Universiti,8642,Pasar Seni,Universiti,3.9366142619752114
+KG16: Pasar Seni,KJ21: Asia Jaya,3144,Pasar Seni,Asia Jaya,3.4974825373673704
+KG16: Pasar Seni,KJ28: Subang Jaya,3421,Pasar Seni,Subang Jaya,3.5341530741850624
+KG16: Pasar Seni,MR01: KL Sentral,27,Pasar Seni,KL Sentral,1.4313637641589874
+KG16: Pasar Seni,MR04: Hang Tuah,3088,Pasar Seni,Hang Tuah,3.4896772916636984
+KG16: Pasar Seni,MR05: Imbi,268,Pasar Seni,Imbi,2.428134794028789
+KG16: Pasar Seni,MR06: Bukit Bintang,72,Pasar Seni,Bukit Bintang,1.8573324964312685
+KG16: Pasar Seni,SP15: Bandar Tasik Selatan,2211,Pasar Seni,Bandar Tasik Selatan,3.344588742578714
+KG18: Bukit Bintang,AG04: PWTC,8558,Bukit Bintang,PWTC,3.932372282147914
+KG18: Bukit Bintang,AG06: Bandaraya,6472,Bukit Bintang,Bandaraya,3.811038508604216
+KG18: Bukit Bintang,AG07: Masjid Jamek,21951,Bukit Bintang,Masjid Jamek,4.341454309753056
+KG18: Bukit Bintang,AG10: Pudu,3985,Bukit Bintang,Pudu,3.600428325732131
+KG18: Bukit Bintang,AG18: Ampang,31710,Bukit Bintang,Ampang,4.501196242027088
+KG18: Bukit Bintang,KG06: Kota Damansara,33903,Bukit Bintang,Kota Damansara,4.530238129642592
+KG18: Bukit Bintang,KG07: Surian,51714,Bukit Bintang,Surian,4.713608131095254
+KG18: Bukit Bintang,KG08: Mutiara Damansara,55497,Bukit Bintang,Mutiara Damansara,4.744269507110784
+KG18: Bukit Bintang,KG09: Bandar Utama,82989,Bukit Bintang,Bandar Utama,4.919020531461701
+KG18: Bukit Bintang,KG10: TTDI,49057,Bukit Bintang,TTDI,4.690700986118986
+KG18: Bukit Bintang,KG13: Pusat Bandar Damansara,47336,Bukit Bintang,Pusat Bandar Damansara,4.675191556268955
+KG18: Bukit Bintang,KG14: Semantan,50155,Bukit Bintang,Semantan,4.70031423474762
+KG18: Bukit Bintang,KG15: Muzium Negara,99636,Bukit Bintang,Muzium Negara,4.998416283970876
+KG18: Bukit Bintang,KG16: Pasar Seni,121226,Bukit Bintang,Pasar Seni,5.083595775321616
+KG18: Bukit Bintang,KG20: Tun Razak Exchange,255216,Bukit Bintang,Tun Razak Exchange,5.4069078976897655
+KG18: Bukit Bintang,KG21: Cochrane,186346,Bukit Bintang,Cochrane,5.270320074865162
+KG18: Bukit Bintang,KG22: Maluri,269264,Bukit Bintang,Maluri,5.430178293083038
+KG18: Bukit Bintang,KG25: Taman Mutiara,121092,Bukit Bintang,Taman Mutiara,5.0831154522213335
+KG18: Bukit Bintang,KG26: Taman Connaught,103389,Bukit Bintang,Taman Connaught,5.014474334759592
+KG18: Bukit Bintang,KG35: Kajang,126189,Bukit Bintang,Kajang,5.101021498747158
+KG18: Bukit Bintang,KJ02: Taman Melati,18062,Bukit Bintang,Taman Melati,4.256765837941647
+KG18: Bukit Bintang,KJ03: Wangsa Maju,27465,Bukit Bintang,Wangsa Maju,4.438779603357378
+KG18: Bukit Bintang,KJ04: Sri Rampai,14007,Bukit Bintang,Sri Rampai,4.146345128650468
+KG18: Bukit Bintang,KJ09: Ampang Park,2673,Bukit Bintang,Ampang Park,3.426998958756537
+KG18: Bukit Bintang,KJ10: KLCC,35146,Bukit Bintang,KLCC,4.545875904696417
+KG18: Bukit Bintang,KJ13: Masjid Jamek,6616,Bukit Bintang,Masjid Jamek,3.8205954965444904
+KG18: Bukit Bintang,KJ14: Pasar Seni,165412,Bukit Bintang,Pasar Seni,5.218567012742162
+KG18: Bukit Bintang,KJ15: KL Sentral,19871,Bukit Bintang,KL Sentral,4.29821972335309
+KG18: Bukit Bintang,KJ16: Bank Rakyat Bangsar,24562,Bukit Bintang,Bank Rakyat Bangsar,4.39026372702938
+KG18: Bukit Bintang,KJ17: Abdullah Hukum,32586,Bukit Bintang,Abdullah Hukum,4.513031053176271
+KG18: Bukit Bintang,KJ18: Kerinchi,11582,Bukit Bintang,Kerinchi,4.063783560597355
+KG18: Bukit Bintang,KJ19: Universiti,21101,Bukit Bintang,Universiti,4.3243030374868345
+KG18: Bukit Bintang,KJ21: Asia Jaya,10935,Bukit Bintang,Asia Jaya,4.038818787373656
+KG18: Bukit Bintang,KJ28: Subang Jaya,10280,Bukit Bintang,Subang Jaya,4.011993114659257
+KG18: Bukit Bintang,MR01: KL Sentral,174,Bukit Bintang,KL Sentral,2.2405492482826
+KG18: Bukit Bintang,MR04: Hang Tuah,2020,Bukit Bintang,Hang Tuah,3.305351369446624
+KG18: Bukit Bintang,MR05: Imbi,206,Bukit Bintang,Imbi,2.3138672203691533
+KG18: Bukit Bintang,MR06: Bukit Bintang,139,Bukit Bintang,Bukit Bintang,2.143014800254095
+KG18: Bukit Bintang,SP15: Bandar Tasik Selatan,8015,Bukit Bintang,Bandar Tasik Selatan,3.9039035266901636
+KG20: Tun Razak Exchange,AG04: PWTC,10779,Tun Razak Exchange,PWTC,4.032578471924312
+KG20: Tun Razak Exchange,AG06: Bandaraya,6238,Tun Razak Exchange,Bandaraya,3.795045370421125
+KG20: Tun Razak Exchange,AG07: Masjid Jamek,8752,Tun Razak Exchange,Masjid Jamek,3.9421073089893555
+KG20: Tun Razak Exchange,AG10: Pudu,6121,Tun Razak Exchange,Pudu,3.7868223794991875
+KG20: Tun Razak Exchange,AG18: Ampang,20979,Tun Razak Exchange,Ampang,4.321784782959901
+KG20: Tun Razak Exchange,KG06: Kota Damansara,13993,Tun Razak Exchange,Kota Damansara,4.145910834132374
+KG20: Tun Razak Exchange,KG07: Surian,25642,Tun Razak Exchange,Surian,4.408951895850261
+KG20: Tun Razak Exchange,KG08: Mutiara Damansara,23182,Tun Razak Exchange,Mutiara Damansara,4.365150901493603
+KG20: Tun Razak Exchange,KG09: Bandar Utama,44810,Tun Razak Exchange,Bandar Utama,4.651374943913043
+KG20: Tun Razak Exchange,KG10: TTDI,24449,Tun Razak Exchange,TTDI,4.388261100540889
+KG20: Tun Razak Exchange,KG13: Pusat Bandar Damansara,15579,Tun Razak Exchange,Pusat Bandar Damansara,4.192539577314719
+KG20: Tun Razak Exchange,KG14: Semantan,17745,Tun Razak Exchange,Semantan,4.249076003683611
+KG20: Tun Razak Exchange,KG15: Muzium Negara,66152,Tun Razak Exchange,Muzium Negara,4.820542978921607
+KG20: Tun Razak Exchange,KG16: Pasar Seni,40334,Tun Razak Exchange,Pasar Seni,4.605671293958651
+KG20: Tun Razak Exchange,KG18: Bukit Bintang,278409,Tun Razak Exchange,Bukit Bintang,5.444683270403898
+KG20: Tun Razak Exchange,KG21: Cochrane,168864,Tun Razak Exchange,Cochrane,5.22753707249703
+KG20: Tun Razak Exchange,KG22: Maluri,172712,Tun Razak Exchange,Maluri,5.237322513321543
+KG20: Tun Razak Exchange,KG25: Taman Mutiara,61205,Tun Razak Exchange,Taman Mutiara,4.786786902271548
+KG20: Tun Razak Exchange,KG26: Taman Connaught,54240,Tun Razak Exchange,Taman Connaught,4.734319680859007
+KG20: Tun Razak Exchange,KG35: Kajang,74505,Tun Razak Exchange,Kajang,4.872185419050904
+KG20: Tun Razak Exchange,KJ02: Taman Melati,3803,Tun Razak Exchange,Taman Melati,3.5801263254115825
+KG20: Tun Razak Exchange,KJ03: Wangsa Maju,4938,Tun Razak Exchange,Wangsa Maju,3.6935510855959133
+KG20: Tun Razak Exchange,KJ04: Sri Rampai,3006,Tun Razak Exchange,Sri Rampai,3.4779889762508893
+KG20: Tun Razak Exchange,KJ09: Ampang Park,289,Tun Razak Exchange,Ampang Park,2.4608978427565478
+KG20: Tun Razak Exchange,KJ10: KLCC,8569,Tun Razak Exchange,KLCC,3.9329301428307897
+KG20: Tun Razak Exchange,KJ13: Masjid Jamek,3290,Tun Razak Exchange,Masjid Jamek,3.5171958979499744
+KG20: Tun Razak Exchange,KJ14: Pasar Seni,58189,Tun Razak Exchange,Pasar Seni,4.764840893742412
+KG20: Tun Razak Exchange,KJ15: KL Sentral,10893,Tun Razak Exchange,KL Sentral,4.037147503632554
+KG20: Tun Razak Exchange,KJ16: Bank Rakyat Bangsar,10358,Tun Razak Exchange,Bank Rakyat Bangsar,4.015275906681875
+KG20: Tun Razak Exchange,KJ17: Abdullah Hukum,15677,Tun Razak Exchange,Abdullah Hukum,4.195262958342061
+KG20: Tun Razak Exchange,KJ18: Kerinchi,4710,Tun Razak Exchange,Kerinchi,3.673020907128896
+KG20: Tun Razak Exchange,KJ19: Universiti,14225,Tun Razak Exchange,Universiti,4.153052275067108
+KG20: Tun Razak Exchange,KJ21: Asia Jaya,4337,Tun Razak Exchange,Asia Jaya,3.637189422148762
+KG20: Tun Razak Exchange,KJ28: Subang Jaya,8979,Tun Razak Exchange,Subang Jaya,3.953227971559854
+KG20: Tun Razak Exchange,MR01: KL Sentral,355,Tun Razak Exchange,KL Sentral,2.550228353055094
+KG20: Tun Razak Exchange,MR04: Hang Tuah,6183,Tun Razak Exchange,Hang Tuah,3.7911992464988753
+KG20: Tun Razak Exchange,MR05: Imbi,706,Tun Razak Exchange,Imbi,2.8488047010518036
+KG20: Tun Razak Exchange,MR06: Bukit Bintang,252,Tun Razak Exchange,Bukit Bintang,2.401400540781544
+KG20: Tun Razak Exchange,SP15: Bandar Tasik Selatan,11681,Tun Razak Exchange,Bandar Tasik Selatan,4.067480023931482
+KG21: Cochrane,AG04: PWTC,3777,Cochrane,PWTC,3.5771469848275252
+KG21: Cochrane,AG06: Bandaraya,4352,Cochrane,Bandaraya,3.6386888866901237
+KG21: Cochrane,AG07: Masjid Jamek,6521,Cochrane,Masjid Jamek,3.8143142002074595
+KG21: Cochrane,AG10: Pudu,4125,Cochrane,Pudu,3.6154239528859438
+KG21: Cochrane,AG18: Ampang,17236,Cochrane,Ampang,4.2364364854163306
+KG21: Cochrane,KG06: Kota Damansara,5341,Cochrane,Kota Damansara,3.727622577969137
+KG21: Cochrane,KG07: Surian,8403,Cochrane,Surian,3.924434363543231
+KG21: Cochrane,KG08: Mutiara Damansara,9002,Cochrane,Mutiara Damansara,3.95433900860246
+KG21: Cochrane,KG09: Bandar Utama,12860,Cochrane,Bandar Utama,4.109240968588203
+KG21: Cochrane,KG10: TTDI,8073,Cochrane,TTDI,3.907034952483417
+KG21: Cochrane,KG13: Pusat Bandar Damansara,10662,Cochrane,Pusat Bandar Damansara,4.027838678188945
+KG21: Cochrane,KG14: Semantan,9593,Cochrane,Semantan,3.9819544444699737
+KG21: Cochrane,KG15: Muzium Negara,35491,Cochrane,Muzium Negara,4.550118236269641
+KG21: Cochrane,KG16: Pasar Seni,22362,Cochrane,Pasar Seni,4.349510643137483
+KG21: Cochrane,KG18: Bukit Bintang,169742,Cochrane,Bukit Bintang,5.229789314983599
+KG21: Cochrane,KG20: Tun Razak Exchange,155499,Cochrane,Tun Razak Exchange,5.1917276004633175
+KG21: Cochrane,KG22: Maluri,90778,Cochrane,Maluri,4.957980610236176
+KG21: Cochrane,KG25: Taman Mutiara,41470,Cochrane,Taman Mutiara,4.617734035364018
+KG21: Cochrane,KG26: Taman Connaught,35366,Cochrane,Taman Connaught,4.548585942592136
+KG21: Cochrane,KG35: Kajang,45598,Cochrane,Kajang,4.658945794243111
+KG21: Cochrane,KJ02: Taman Melati,4730,Cochrane,Taman Melati,3.6748611407378116
+KG21: Cochrane,KJ03: Wangsa Maju,6931,Cochrane,Wangsa Maju,3.8407958988470936
+KG21: Cochrane,KJ04: Sri Rampai,3555,Cochrane,Sri Rampai,3.550839605065785
+KG21: Cochrane,KJ09: Ampang Park,410,Cochrane,Ampang Park,2.6127838567197355
+KG21: Cochrane,KJ10: KLCC,10086,Cochrane,KLCC,4.003718963823115
+KG21: Cochrane,KJ13: Masjid Jamek,1988,Cochrane,Masjid Jamek,3.2984163800612945
+KG21: Cochrane,KJ14: Pasar Seni,36187,Cochrane,Pasar Seni,4.558552580415453
+KG21: Cochrane,KJ15: KL Sentral,5703,Cochrane,KL Sentral,3.7561033715851058
+KG21: Cochrane,KJ16: Bank Rakyat Bangsar,6018,Cochrane,Bank Rakyat Bangsar,3.7794521834040617
+KG21: Cochrane,KJ17: Abdullah Hukum,10975,Cochrane,Abdullah Hukum,4.040404528914159
+KG21: Cochrane,KJ18: Kerinchi,3813,Cochrane,Kerinchi,3.5812668052736707
+KG21: Cochrane,KJ19: Universiti,7322,Cochrane,Universiti,3.8646297245455123
+KG21: Cochrane,KJ21: Asia Jaya,2182,Cochrane,Asia Jaya,3.338854746252323
+KG21: Cochrane,KJ28: Subang Jaya,3176,Cochrane,Subang Jaya,3.5018804937550585
+KG21: Cochrane,MR01: KL Sentral,92,Cochrane,KL Sentral,1.9637878273455553
+KG21: Cochrane,MR04: Hang Tuah,4021,Cochrane,Hang Tuah,3.604334073102911
+KG21: Cochrane,MR05: Imbi,518,Cochrane,Imbi,2.714329759745233
+KG21: Cochrane,MR06: Bukit Bintang,78,Cochrane,Bukit Bintang,1.8920946026904804
+KG21: Cochrane,SP15: Bandar Tasik Selatan,7485,Cochrane,Bandar Tasik Selatan,3.874191804679071
+KG22: Maluri,AG04: PWTC,4958,Maluri,PWTC,3.6953065224318027
+KG22: Maluri,AG06: Bandaraya,8816,Maluri,Bandaraya,3.94527158150771
+KG22: Maluri,AG07: Masjid Jamek,15080,Maluri,Masjid Jamek,4.178401341533755
+KG22: Maluri,AG10: Pudu,14306,Maluri,Pudu,4.155518220708411
+KG22: Maluri,AG18: Ampang,25627,Maluri,Ampang,4.408697768895788
+KG22: Maluri,KG06: Kota Damansara,8513,Maluri,Kota Damansara,3.930082633392371
+KG22: Maluri,KG07: Surian,16898,Maluri,Surian,4.227835305775587
+KG22: Maluri,KG08: Mutiara Damansara,14253,Maluri,Mutiara Damansara,4.153906285138868
+KG22: Maluri,KG09: Bandar Utama,28356,Maluri,Bandar Utama,4.452644967679994
+KG22: Maluri,KG10: TTDI,19436,Maluri,TTDI,4.288606890390969
+KG22: Maluri,KG13: Pusat Bandar Damansara,22806,Maluri,Pusat Bandar Damansara,4.358049119986747
+KG22: Maluri,KG14: Semantan,24414,Maluri,Semantan,4.387638940236929
+KG22: Maluri,KG15: Muzium Negara,93719,Maluri,Muzium Negara,4.971827645942863
+KG22: Maluri,KG16: Pasar Seni,32659,Maluri,Pasar Seni,4.514002882754269
+KG22: Maluri,KG18: Bukit Bintang,267085,Maluri,Bukit Bintang,5.426649497904727
+KG22: Maluri,KG20: Tun Razak Exchange,169476,Maluri,Tun Razak Exchange,5.229108205161215
+KG22: Maluri,KG21: Cochrane,84592,Maluri,Cochrane,4.927329293061036
+KG22: Maluri,KG25: Taman Mutiara,85144,Maluri,Taman Mutiara,4.930154049142989
+KG22: Maluri,KG26: Taman Connaught,54722,Maluri,Taman Connaught,4.738161961758311
+KG22: Maluri,KG35: Kajang,46339,Maluri,Kajang,4.665946657439112
+KG22: Maluri,KJ02: Taman Melati,3668,Maluri,Taman Melati,3.5644293269979834
+KG22: Maluri,KJ03: Wangsa Maju,7043,Maluri,Wangsa Maju,3.8477576883923312
+KG22: Maluri,KJ04: Sri Rampai,2382,Maluri,Sri Rampai,3.3769417571467586
+KG22: Maluri,KJ09: Ampang Park,507,Maluri,Ampang Park,2.705007959333336
+KG22: Maluri,KJ10: KLCC,14325,Maluri,KLCC,4.156094630639427
+KG22: Maluri,KJ13: Masjid Jamek,1745,Maluri,Masjid Jamek,3.241795431295199
+KG22: Maluri,KJ14: Pasar Seni,29169,Maluri,Pasar Seni,4.4649215404715346
+KG22: Maluri,KJ15: KL Sentral,7583,Maluri,KL Sentral,3.8798410559865624
+KG22: Maluri,KJ16: Bank Rakyat Bangsar,16033,Maluri,Bank Rakyat Bangsar,4.205014792569004
+KG22: Maluri,KJ17: Abdullah Hukum,29448,Maluri,Abdullah Hukum,4.46905580443861
+KG22: Maluri,KJ18: Kerinchi,11917,Maluri,Kerinchi,4.076166939344932
+KG22: Maluri,KJ19: Universiti,9693,Maluri,Universiti,3.9864582127373063
+KG22: Maluri,KJ21: Asia Jaya,6319,Maluri,Asia Jaya,3.8006483553639883
+KG22: Maluri,KJ28: Subang Jaya,5201,Maluri,Subang Jaya,3.716086853774832
+KG22: Maluri,MR01: KL Sentral,798,Maluri,KL Sentral,2.9020028913507296
+KG22: Maluri,MR04: Hang Tuah,10238,Maluri,Hang Tuah,4.010215125214226
+KG22: Maluri,MR05: Imbi,2021,Maluri,Imbi,3.305566313515304
+KG22: Maluri,MR06: Bukit Bintang,224,Maluri,Bukit Bintang,2.3502480183341627
+KG22: Maluri,SP15: Bandar Tasik Selatan,8702,Maluri,Bandar Tasik Selatan,3.939619078956698
+KG25: Taman Mutiara,AG04: PWTC,2738,Taman Mutiara,PWTC,3.437433443797971
+KG25: Taman Mutiara,AG06: Bandaraya,4008,Taman Mutiara,Bandaraya,3.6029277128591892
+KG25: Taman Mutiara,AG07: Masjid Jamek,4231,Taman Mutiara,Masjid Jamek,3.6264430253312945
+KG25: Taman Mutiara,AG10: Pudu,8939,Taman Mutiara,Pudu,3.9512889372776723
+KG25: Taman Mutiara,AG18: Ampang,4776,Taman Mutiara,Ampang,3.6790643181213127
+KG25: Taman Mutiara,KG06: Kota Damansara,3191,Taman Mutiara,Kota Damansara,3.5039268041935103
+KG25: Taman Mutiara,KG07: Surian,7699,Taman Mutiara,Surian,3.8864343196289384
+KG25: Taman Mutiara,KG08: Mutiara Damansara,5220,Taman Mutiara,Mutiara Damansara,3.717670503002262
+KG25: Taman Mutiara,KG09: Bandar Utama,12643,Taman Mutiara,Bandar Utama,4.101850137938126
+KG25: Taman Mutiara,KG10: TTDI,6878,Taman Mutiara,TTDI,3.8374621714859947
+KG25: Taman Mutiara,KG13: Pusat Bandar Damansara,7748,Taman Mutiara,Pusat Bandar Damansara,3.889189612047073
+KG25: Taman Mutiara,KG14: Semantan,6775,Taman Mutiara,Semantan,3.8309092995464433
+KG25: Taman Mutiara,KG15: Muzium Negara,24156,Taman Mutiara,Muzium Negara,4.383025020936279
+KG25: Taman Mutiara,KG16: Pasar Seni,16258,Taman Mutiara,Pasar Seni,4.211067119217032
+KG25: Taman Mutiara,KG18: Bukit Bintang,111100,Taman Mutiara,Bukit Bintang,5.0457140589408676
+KG25: Taman Mutiara,KG20: Tun Razak Exchange,55373,Taman Mutiara,Tun Razak Exchange,4.743298053368377
+KG25: Taman Mutiara,KG21: Cochrane,38096,Taman Mutiara,Cochrane,4.580879378060804
+KG25: Taman Mutiara,KG22: Maluri,72755,Taman Mutiara,Maluri,4.861862845050274
+KG25: Taman Mutiara,KG26: Taman Connaught,80136,Taman Mutiara,Taman Connaught,4.903827660765977
+KG25: Taman Mutiara,KG35: Kajang,22383,Taman Mutiara,Kajang,4.349918294709261
+KG25: Taman Mutiara,KJ02: Taman Melati,1393,Taman Mutiara,Taman Melati,3.1439511164239633
+KG25: Taman Mutiara,KJ03: Wangsa Maju,3161,Taman Mutiara,Wangsa Maju,3.49982449583958
+KG25: Taman Mutiara,KJ04: Sri Rampai,982,Taman Mutiara,Sri Rampai,2.9921114877869495
+KG25: Taman Mutiara,KJ09: Ampang Park,334,Taman Mutiara,Ampang Park,2.5237464668115646
+KG25: Taman Mutiara,KJ10: KLCC,7712,Taman Mutiara,KLCC,3.887167020894774
+KG25: Taman Mutiara,KJ13: Masjid Jamek,3999,Taman Mutiara,Masjid Jamek,3.6019514041335214
+KG25: Taman Mutiara,KJ14: Pasar Seni,15416,Taman Mutiara,Pasar Seni,4.187971701647396
+KG25: Taman Mutiara,KJ15: KL Sentral,2086,Taman Mutiara,KL Sentral,3.319314304090512
+KG25: Taman Mutiara,KJ16: Bank Rakyat Bangsar,5222,Taman Mutiara,Bank Rakyat Bangsar,3.7178368674869255
+KG25: Taman Mutiara,KJ17: Abdullah Hukum,14071,Taman Mutiara,Abdullah Hukum,4.148324963038817
+KG25: Taman Mutiara,KJ18: Kerinchi,4637,Taman Mutiara,Kerinchi,3.6662370958958044
+KG25: Taman Mutiara,KJ19: Universiti,2911,Taman Mutiara,Universiti,3.464042205438811
+KG25: Taman Mutiara,KJ21: Asia Jaya,2735,Taman Mutiara,Asia Jaya,3.4369573306694496
+KG25: Taman Mutiara,KJ28: Subang Jaya,1414,Taman Mutiara,Subang Jaya,3.150449409460881
+KG25: Taman Mutiara,MR01: KL Sentral,38,Taman Mutiara,KL Sentral,1.5797835966168101
+KG25: Taman Mutiara,MR04: Hang Tuah,2941,Taman Mutiara,Hang Tuah,3.468495024507069
+KG25: Taman Mutiara,MR05: Imbi,187,Taman Mutiara,Imbi,2.271841606536499
+KG25: Taman Mutiara,MR06: Bukit Bintang,39,Taman Mutiara,Bukit Bintang,1.591064607026499
+KG25: Taman Mutiara,SP15: Bandar Tasik Selatan,1322,Taman Mutiara,Bandar Tasik Selatan,3.1212314551496214
+KG26: Taman Connaught,AG04: PWTC,1608,Taman Connaught,PWTC,3.2062860444124324
+KG26: Taman Connaught,AG06: Bandaraya,3765,Taman Connaught,Bandaraya,3.5757649805367193
+KG26: Taman Connaught,AG07: Masjid Jamek,4560,Taman Connaught,Masjid Jamek,3.658964842664435
+KG26: Taman Connaught,AG10: Pudu,5128,Taman Connaught,Pudu,3.709948016510761
+KG26: Taman Connaught,AG18: Ampang,2525,Taman Connaught,Ampang,3.40226138245468
+KG26: Taman Connaught,KG06: Kota Damansara,2965,Taman Connaught,Kota Damansara,3.4720246977002813
+KG26: Taman Connaught,KG07: Surian,6539,Taman Connaught,Surian,3.8155113373627643
+KG26: Taman Connaught,KG08: Mutiara Damansara,6324,Taman Connaught,Mutiara Damansara,3.8009918612601714
+KG26: Taman Connaught,KG09: Bandar Utama,12095,Taman Connaught,Bandar Utama,4.082605872697899
+KG26: Taman Connaught,KG10: TTDI,10034,Taman Connaught,TTDI,4.001474096691733
+KG26: Taman Connaught,KG13: Pusat Bandar Damansara,9291,Taman Connaught,Pusat Bandar Damansara,3.968062460076449
+KG26: Taman Connaught,KG14: Semantan,11912,Taman Connaught,Semantan,4.07598468474412
+KG26: Taman Connaught,KG15: Muzium Negara,37463,Taman Connaught,Muzium Negara,4.573602552304502
+KG26: Taman Connaught,KG16: Pasar Seni,12157,Taman Connaught,Pasar Seni,4.0848264166974335
+KG26: Taman Connaught,KG18: Bukit Bintang,105515,Taman Connaught,Bukit Bintang,5.023314203275059
+KG26: Taman Connaught,KG20: Tun Razak Exchange,53467,Taman Connaught,Tun Razak Exchange,4.7280858167916255
+KG26: Taman Connaught,KG21: Cochrane,31143,Taman Connaught,Cochrane,4.493360445762301
+KG26: Taman Connaught,KG22: Maluri,43301,Taman Connaught,Maluri,4.636497926133204
+KG26: Taman Connaught,KG25: Taman Mutiara,65884,Taman Connaught,Taman Mutiara,4.818779958518241
+KG26: Taman Connaught,KG35: Kajang,11911,Taman Connaught,Kajang,4.075948224644035
+KG26: Taman Connaught,KJ02: Taman Melati,822,Taman Connaught,Taman Melati,2.9148718175400505
+KG26: Taman Connaught,KJ03: Wangsa Maju,2052,Taman Connaught,Wangsa Maju,3.3121773564397787
+KG26: Taman Connaught,KJ04: Sri Rampai,724,Taman Connaught,Sri Rampai,2.859738566197147
+KG26: Taman Connaught,KJ09: Ampang Park,325,Taman Connaught,Ampang Park,2.5118833609788744
+KG26: Taman Connaught,KJ10: KLCC,8337,Taman Connaught,KLCC,3.9210098014970343
+KG26: Taman Connaught,KJ13: Masjid Jamek,2514,Taman Connaught,Masjid Jamek,3.400365273349939
+KG26: Taman Connaught,KJ14: Pasar Seni,14318,Taman Connaught,Pasar Seni,4.155882358081815
+KG26: Taman Connaught,KJ15: KL Sentral,1927,Taman Connaught,KL Sentral,3.284881714655453
+KG26: Taman Connaught,KJ16: Bank Rakyat Bangsar,7614,Taman Connaught,Bank Rakyat Bangsar,3.8816128724783483
+KG26: Taman Connaught,KJ17: Abdullah Hukum,20637,Taman Connaught,Abdullah Hukum,4.314646564169264
+KG26: Taman Connaught,KJ18: Kerinchi,7775,Taman Connaught,Kerinchi,3.890700397698875
+KG26: Taman Connaught,KJ19: Universiti,3814,Taman Connaught,Universiti,3.5813806887099866
+KG26: Taman Connaught,KJ21: Asia Jaya,3472,Taman Connaught,Asia Jaya,3.540579716504454
+KG26: Taman Connaught,KJ28: Subang Jaya,1928,Taman Connaught,Subang Jaya,3.285107029566812
+KG26: Taman Connaught,MR01: KL Sentral,27,Taman Connaught,KL Sentral,1.4313637641589874
+KG26: Taman Connaught,MR04: Hang Tuah,3082,Taman Connaught,Hang Tuah,3.4888326343824003
+KG26: Taman Connaught,MR05: Imbi,142,Taman Connaught,Imbi,2.1522883443830563
+KG26: Taman Connaught,MR06: Bukit Bintang,14,Taman Connaught,Bukit Bintang,1.146128035678238
+KG26: Taman Connaught,SP15: Bandar Tasik Selatan,516,Taman Connaught,Bandar Tasik Selatan,2.7126497016272113
+KG35: Kajang,AG04: PWTC,4092,Kajang,PWTC,3.6119356250401227
+KG35: Kajang,AG06: Bandaraya,12356,Kajang,Bandaraya,4.091877899629413
+KG35: Kajang,AG07: Masjid Jamek,9946,Kajang,Masjid Jamek,3.9976484548962063
+KG35: Kajang,AG10: Pudu,3293,Kajang,Pudu,3.517591730711908
+KG35: Kajang,AG18: Ampang,5563,Kajang,Ampang,3.745309059940828
+KG35: Kajang,KG06: Kota Damansara,8708,Kajang,Kota Damansara,3.939918420369057
+KG35: Kajang,KG07: Surian,10149,Kajang,Surian,4.006423252507643
+KG35: Kajang,KG08: Mutiara Damansara,16515,Kajang,Mutiara Damansara,4.217878578027433
+KG35: Kajang,KG09: Bandar Utama,22877,Kajang,Bandar Utama,4.359399072180887
+KG35: Kajang,KG10: TTDI,18942,Kajang,TTDI,4.277425832275861
+KG35: Kajang,KG13: Pusat Bandar Damansara,14092,Kajang,Pusat Bandar Damansara,4.148972634509205
+KG35: Kajang,KG14: Semantan,25448,Kajang,Semantan,4.405653656099307
+KG35: Kajang,KG15: Muzium Negara,68578,Kajang,Muzium Negara,4.83618481525502
+KG35: Kajang,KG16: Pasar Seni,19152,Kajang,Pasar Seni,4.282214133062335
+KG35: Kajang,KG18: Bukit Bintang,132678,Kajang,Bukit Bintang,5.12279891630305
+KG35: Kajang,KG20: Tun Razak Exchange,70100,Kajang,Tun Razak Exchange,4.845718017966659
+KG35: Kajang,KG21: Cochrane,38824,Kajang,Cochrane,4.589100278307229
+KG35: Kajang,KG22: Maluri,40878,Kajang,Maluri,4.611489639323041
+KG35: Kajang,KG25: Taman Mutiara,19715,Kajang,Taman Mutiara,4.294796781409242
+KG35: Kajang,KG26: Taman Connaught,11634,Kajang,Taman Connaught,4.065729059462349
+KG35: Kajang,KJ02: Taman Melati,2095,Kajang,Taman Melati,3.3211840273023143
+KG35: Kajang,KJ03: Wangsa Maju,3177,Kajang,Wangsa Maju,3.5020172148271476
+KG35: Kajang,KJ04: Sri Rampai,2298,Kajang,Sri Rampai,3.3613500243522663
+KG35: Kajang,KJ09: Ampang Park,419,Kajang,Ampang Park,2.622214022966295
+KG35: Kajang,KJ10: KLCC,20530,Kajang,KLCC,4.312388949370592
+KG35: Kajang,KJ13: Masjid Jamek,7884,Kajang,Masjid Jamek,3.8967466156074058
+KG35: Kajang,KJ14: Pasar Seni,42476,Kajang,Pasar Seni,4.62814361212895
+KG35: Kajang,KJ15: KL Sentral,4900,Kajang,KL Sentral,3.690196080028514
+KG35: Kajang,KJ16: Bank Rakyat Bangsar,13052,Kajang,Bank Rakyat Bangsar,4.115677065115837
+KG35: Kajang,KJ17: Abdullah Hukum,25339,Kajang,Abdullah Hukum,4.4037894715161885
+KG35: Kajang,KJ18: Kerinchi,13382,Kajang,Kerinchi,4.126521025543412
+KG35: Kajang,KJ19: Universiti,5754,Kajang,Universiti,3.759969857554307
+KG35: Kajang,KJ21: Asia Jaya,7443,Kajang,Asia Jaya,3.8717480189918714
+KG35: Kajang,KJ28: Subang Jaya,4789,Kajang,Subang Jaya,3.6802448370426077
+KG35: Kajang,MR01: KL Sentral,45,Kajang,KL Sentral,1.6532125137753437
+KG35: Kajang,MR04: Hang Tuah,2654,Kajang,Hang Tuah,3.4239009185284166
+KG35: Kajang,MR05: Imbi,138,Kajang,Imbi,2.1398790864012365
+KG35: Kajang,MR06: Bukit Bintang,35,Kajang,Bukit Bintang,1.5440680443502757
+KG35: Kajang,SP15: Bandar Tasik Selatan,2664,Kajang,Bandar Tasik Selatan,3.4255342204982635
+KJ02: Taman Melati,AG04: PWTC,2395,Taman Melati,PWTC,3.379305517750582
+KJ02: Taman Melati,AG06: Bandaraya,7333,Taman Melati,Bandaraya,3.8652816849956104
+KJ02: Taman Melati,AG07: Masjid Jamek,14910,Taman Melati,Masjid Jamek,4.173477643452995
+KJ02: Taman Melati,AG10: Pudu,1270,Taman Melati,Pudu,3.103803720955957
+KJ02: Taman Melati,AG18: Ampang,1064,Taman Melati,Ampang,3.0269416279590295
+KJ02: Taman Melati,KG06: Kota Damansara,1220,Taman Melati,Kota Damansara,3.0863598306747484
+KJ02: Taman Melati,KG07: Surian,2839,Taman Melati,Surian,3.4531653925258574
+KJ02: Taman Melati,KG08: Mutiara Damansara,2651,Taman Melati,Mutiara Damansara,3.4234097277330933
+KJ02: Taman Melati,KG09: Bandar Utama,6268,Taman Melati,Bandar Utama,3.7971289877965524
+KJ02: Taman Melati,KG10: TTDI,4127,Taman Melati,TTDI,3.615634468877416
+KJ02: Taman Melati,KG13: Pusat Bandar Damansara,4484,Taman Melati,Pusat Bandar Damansara,3.6516656039229356
+KJ02: Taman Melati,KG14: Semantan,7805,Taman Melati,Semantan,3.8923729073984363
+KJ02: Taman Melati,KG15: Muzium Negara,578,Taman Melati,Muzium Negara,2.761927838420529
+KJ02: Taman Melati,KG16: Pasar Seni,5539,Taman Melati,Pasar Seni,3.7434313651466837
+KJ02: Taman Melati,KG18: Bukit Bintang,16234,Taman Melati,Bukit Bintang,4.2104255416310865
+KJ02: Taman Melati,KG20: Tun Razak Exchange,3065,Taman Melati,Tun Razak Exchange,3.486430478854434
+KJ02: Taman Melati,KG21: Cochrane,4257,Taman Melati,Cochrane,3.6291036501771363
+KJ02: Taman Melati,KG22: Maluri,3334,Taman Melati,Maluri,3.5229655954919865
+KJ02: Taman Melati,KG25: Taman Mutiara,1658,Taman Melati,Taman Mutiara,3.2195845262142546
+KJ02: Taman Melati,KG26: Taman Connaught,870,Taman Melati,Taman Connaught,2.9395192526186187
+KJ02: Taman Melati,KG35: Kajang,1760,Taman Melati,Kajang,3.24551266781415
+KJ02: Taman Melati,KJ03: Wangsa Maju,37847,Taman Melati,Wangsa Maju,4.578031460187958
+KJ02: Taman Melati,KJ04: Sri Rampai,15345,Taman Melati,Sri Rampai,4.1859668927678415
+KJ02: Taman Melati,KJ09: Ampang Park,125804,Taman Melati,Ampang Park,5.099694449935245
+KJ02: Taman Melati,KJ10: KLCC,106185,Taman Melati,KLCC,5.026063171384531
+KJ02: Taman Melati,KJ13: Masjid Jamek,19287,Taman Melati,Masjid Jamek,4.285264680481154
+KJ02: Taman Melati,KJ14: Pasar Seni,21375,Taman Melati,Pasar Seni,4.32990612340021
+KJ02: Taman Melati,KJ15: KL Sentral,50473,Taman Melati,KL Sentral,4.703059118974319
+KJ02: Taman Melati,KJ16: Bank Rakyat Bangsar,14588,Taman Melati,Bank Rakyat Bangsar,4.163995754641744
+KJ02: Taman Melati,KJ17: Abdullah Hukum,33153,Taman Melati,Abdullah Hukum,4.520522833630544
+KJ02: Taman Melati,KJ18: Kerinchi,16933,Taman Melati,Kerinchi,4.228733908376136
+KJ02: Taman Melati,KJ19: Universiti,7804,Taman Melati,Universiti,3.8923172607224803
+KJ02: Taman Melati,KJ21: Asia Jaya,9016,Taman Melati,Asia Jaya,3.9550139030380502
+KJ02: Taman Melati,KJ28: Subang Jaya,6570,Taman Melati,Subang Jaya,3.8175653695597807
+KJ02: Taman Melati,MR01: KL Sentral,7,Taman Melati,KL Sentral,0.8450980400142568
+KJ02: Taman Melati,MR04: Hang Tuah,3793,Taman Melati,Hang Tuah,3.5789828427027905
+KJ02: Taman Melati,MR05: Imbi,724,Taman Melati,Imbi,2.859738566197147
+KJ02: Taman Melati,MR06: Bukit Bintang,121,Taman Melati,Bukit Bintang,2.0827853703164503
+KJ02: Taman Melati,SP15: Bandar Tasik Selatan,3993,Taman Melati,Bandar Tasik Selatan,3.6012993101943374
+KJ03: Wangsa Maju,AG04: PWTC,2672,Wangsa Maju,PWTC,3.426836453803508
+KJ03: Wangsa Maju,AG06: Bandaraya,6037,Wangsa Maju,Bandaraya,3.780821175853473
+KJ03: Wangsa Maju,AG07: Masjid Jamek,19249,Wangsa Maju,Masjid Jamek,4.284408172506199
+KJ03: Wangsa Maju,AG10: Pudu,3052,Wangsa Maju,Pudu,3.484584529282843
+KJ03: Wangsa Maju,AG18: Ampang,1768,Wangsa Maju,Ampang,3.2474822606770544
+KJ03: Wangsa Maju,KG06: Kota Damansara,2376,Wangsa Maju,Kota Damansara,3.375846436309156
+KJ03: Wangsa Maju,KG07: Surian,4287,Wangsa Maju,Surian,3.6321534835106326
+KJ03: Wangsa Maju,KG08: Mutiara Damansara,3888,Wangsa Maju,Mutiara Damansara,3.589726256254237
+KJ03: Wangsa Maju,KG09: Bandar Utama,10992,Wangsa Maju,Bandar Utama,4.041076719715475
+KJ03: Wangsa Maju,KG10: TTDI,6642,Wangsa Maju,TTDI,3.8222988712623662
+KJ03: Wangsa Maju,KG13: Pusat Bandar Damansara,5790,Wangsa Maju,Pusat Bandar Damansara,3.762678563727436
+KJ03: Wangsa Maju,KG14: Semantan,8397,Wangsa Maju,Semantan,3.924124153185825
+KJ03: Wangsa Maju,KG15: Muzium Negara,1022,Wangsa Maju,Muzium Negara,3.009450895798694
+KJ03: Wangsa Maju,KG16: Pasar Seni,11624,Wangsa Maju,Pasar Seni,4.065355601289965
+KJ03: Wangsa Maju,KG18: Bukit Bintang,23455,Wangsa Maju,Bukit Bintang,4.370235437283177
+KJ03: Wangsa Maju,KG20: Tun Razak Exchange,4432,Wangsa Maju,Tun Razak Exchange,3.646599751720373
+KJ03: Wangsa Maju,KG21: Cochrane,6469,Wangsa Maju,Cochrane,3.8108371511404884
+KJ03: Wangsa Maju,KG22: Maluri,7034,Wangsa Maju,Maluri,3.847202363980924
+KJ03: Wangsa Maju,KG25: Taman Mutiara,3767,Wangsa Maju,Taman Mutiara,3.5759956202032677
+KJ03: Wangsa Maju,KG26: Taman Connaught,2429,Wangsa Maju,Taman Connaught,3.3854275148051305
+KJ03: Wangsa Maju,KG35: Kajang,2688,Wangsa Maju,Kajang,3.429429264381788
+KJ03: Wangsa Maju,KJ02: Taman Melati,48830,Wangsa Maju,Taman Melati,4.688686724284124
+KJ03: Wangsa Maju,KJ04: Sri Rampai,41500,Wangsa Maju,Sri Rampai,4.6180480967120925
+KJ03: Wangsa Maju,KJ09: Ampang Park,210554,Wangsa Maju,Ampang Park,5.323363496344869
+KJ03: Wangsa Maju,KJ10: KLCC,143965,Wangsa Maju,KLCC,5.158256921578406
+KJ03: Wangsa Maju,KJ13: Masjid Jamek,23799,Wangsa Maju,Masjid Jamek,4.37655870900584
+KJ03: Wangsa Maju,KJ14: Pasar Seni,33497,Wangsa Maju,Pasar Seni,4.525005913252151
+KJ03: Wangsa Maju,KJ15: KL Sentral,77982,Wangsa Maju,KL Sentral,4.8919943693211305
+KJ03: Wangsa Maju,KJ16: Bank Rakyat Bangsar,19793,Wangsa Maju,Bank Rakyat Bangsar,4.296511624661298
+KJ03: Wangsa Maju,KJ17: Abdullah Hukum,58464,Wangsa Maju,Abdullah Hukum,4.766888525672444
+KJ03: Wangsa Maju,KJ18: Kerinchi,20824,Wangsa Maju,Kerinchi,4.318564155101179
+KJ03: Wangsa Maju,KJ19: Universiti,12531,Wangsa Maju,Universiti,4.097985729984783
+KJ03: Wangsa Maju,KJ21: Asia Jaya,13130,Wangsa Maju,Asia Jaya,4.118264726089479
+KJ03: Wangsa Maju,KJ28: Subang Jaya,8926,Wangsa Maju,Subang Jaya,3.9506568825045107
+KJ03: Wangsa Maju,MR01: KL Sentral,14,Wangsa Maju,KL Sentral,1.146128035678238
+KJ03: Wangsa Maju,MR04: Hang Tuah,5916,Wangsa Maju,Hang Tuah,3.772028165324855
+KJ03: Wangsa Maju,MR05: Imbi,670,Wangsa Maju,Imbi,2.8260748027008264
+KJ03: Wangsa Maju,MR06: Bukit Bintang,126,Wangsa Maju,Bukit Bintang,2.100370545117563
+KJ03: Wangsa Maju,SP15: Bandar Tasik Selatan,7793,Wangsa Maju,Bandar Tasik Selatan,3.8917046762391827
+KJ04: Sri Rampai,AG04: PWTC,1855,Sri Rampai,PWTC,3.268343913951065
+KJ04: Sri Rampai,AG06: Bandaraya,4970,Sri Rampai,Bandaraya,3.696356388733332
+KJ04: Sri Rampai,AG07: Masjid Jamek,13294,Sri Rampai,Masjid Jamek,4.123655674438122
+KJ04: Sri Rampai,AG10: Pudu,1728,Sri Rampai,Pudu,3.2375437381428744
+KJ04: Sri Rampai,AG18: Ampang,603,Sri Rampai,Ampang,2.780317312140151
+KJ04: Sri Rampai,KG06: Kota Damansara,1413,Sri Rampai,Kota Damansara,3.1501421618485588
+KJ04: Sri Rampai,KG07: Surian,2274,Sri Rampai,Surian,3.356790460351716
+KJ04: Sri Rampai,KG08: Mutiara Damansara,2623,Sri Rampai,Mutiara Damansara,3.4187982905903533
+KJ04: Sri Rampai,KG09: Bandar Utama,4398,Sri Rampai,Bandar Utama,3.6432552250247716
+KJ04: Sri Rampai,KG10: TTDI,3098,Sri Rampai,TTDI,3.491081413423187
+KJ04: Sri Rampai,KG13: Pusat Bandar Damansara,3011,Sri Rampai,Pusat Bandar Damansara,3.4787107555127594
+KJ04: Sri Rampai,KG14: Semantan,5073,Sri Rampai,Semantan,3.7052648623174043
+KJ04: Sri Rampai,KG15: Muzium Negara,347,Sri Rampai,Muzium Negara,2.5403294747908736
+KJ04: Sri Rampai,KG16: Pasar Seni,4456,Sri Rampai,Pasar Seni,3.6489451821656727
+KJ04: Sri Rampai,KG18: Bukit Bintang,11550,Sri Rampai,Bukit Bintang,4.062581984228163
+KJ04: Sri Rampai,KG20: Tun Razak Exchange,2207,Sri Rampai,Tun Razak Exchange,3.343802333161655
+KJ04: Sri Rampai,KG21: Cochrane,3058,Sri Rampai,Cochrane,3.485437481076301
+KJ04: Sri Rampai,KG22: Maluri,1860,Sri Rampai,Maluri,3.2695129442179165
+KJ04: Sri Rampai,KG25: Taman Mutiara,1124,Sri Rampai,Taman Mutiara,3.0507663112330423
+KJ04: Sri Rampai,KG26: Taman Connaught,632,Sri Rampai,Taman Connaught,2.800717078282385
+KJ04: Sri Rampai,KG35: Kajang,1826,Sri Rampai,Kajang,3.2615007731982804
+KJ04: Sri Rampai,KJ02: Taman Melati,16065,Sri Rampai,Taman Melati,4.205880729887537
+KJ04: Sri Rampai,KJ03: Wangsa Maju,33479,Sri Rampai,Wangsa Maju,4.524772477368776
+KJ04: Sri Rampai,KJ09: Ampang Park,98297,Sri Rampai,Ampang Park,4.992540263474787
+KJ04: Sri Rampai,KJ10: KLCC,109614,Sri Rampai,KLCC,5.03986602617801
+KJ04: Sri Rampai,KJ13: Masjid Jamek,19485,Sri Rampai,Masjid Jamek,4.2897004101287095
+KJ04: Sri Rampai,KJ14: Pasar Seni,19877,Sri Rampai,Pasar Seni,4.298350837719157
+KJ04: Sri Rampai,KJ15: KL Sentral,48862,Sri Rampai,KL Sentral,4.68897123937068
+KJ04: Sri Rampai,KJ16: Bank Rakyat Bangsar,16557,Sri Rampai,Bank Rakyat Bangsar,4.218981648784926
+KJ04: Sri Rampai,KJ17: Abdullah Hukum,29199,Sri Rampai,Abdullah Hukum,4.465367978095041
+KJ04: Sri Rampai,KJ18: Kerinchi,12261,Sri Rampai,Kerinchi,4.088525892431256
+KJ04: Sri Rampai,KJ19: Universiti,7564,Sri Rampai,Universiti,3.8787515201730023
+KJ04: Sri Rampai,KJ21: Asia Jaya,6944,Sri Rampai,Asia Jaya,3.8416097121684354
+KJ04: Sri Rampai,KJ28: Subang Jaya,3867,Sri Rampai,Subang Jaya,3.5873741720730656
+KJ04: Sri Rampai,MR01: KL Sentral,3,Sri Rampai,KL Sentral,0.47712125471966244
+KJ04: Sri Rampai,MR04: Hang Tuah,2723,Sri Rampai,Hang Tuah,3.4350476413399647
+KJ04: Sri Rampai,MR05: Imbi,448,Sri Rampai,Imbi,2.651278013998144
+KJ04: Sri Rampai,MR06: Bukit Bintang,61,Sri Rampai,Bukit Bintang,1.7853298350107671
+KJ04: Sri Rampai,SP15: Bandar Tasik Selatan,2676,Sri Rampai,Bandar Tasik Selatan,3.4274861090957853
+KJ09: Ampang Park,AG04: PWTC,1632,Ampang Park,PWTC,3.2127201544178425
+KJ09: Ampang Park,AG06: Bandaraya,2500,Ampang Park,Bandaraya,3.3979400086720375
+KJ09: Ampang Park,AG07: Masjid Jamek,18998,Ampang Park,Masjid Jamek,4.278707883337975
+KJ09: Ampang Park,AG10: Pudu,2929,Ampang Park,Pudu,3.4667193716815987
+KJ09: Ampang Park,AG18: Ampang,1980,Ampang Park,Ampang,3.296665190261531
+KJ09: Ampang Park,KG06: Kota Damansara,1476,Ampang Park,Kota Damansara,3.1690863574870227
+KJ09: Ampang Park,KG07: Surian,2031,Ampang Park,Surian,3.307709923404807
+KJ09: Ampang Park,KG08: Mutiara Damansara,2837,Ampang Park,Mutiara Damansara,3.452859335795852
+KJ09: Ampang Park,KG09: Bandar Utama,3116,Ampang Park,Bandar Utama,3.493597449000527
+KJ09: Ampang Park,KG10: TTDI,2229,Ampang Park,TTDI,3.3481100684802376
+KJ09: Ampang Park,KG13: Pusat Bandar Damansara,1173,Ampang Park,Pusat Bandar Damansara,3.0692980121155293
+KJ09: Ampang Park,KG14: Semantan,1531,Ampang Park,Semantan,3.184975190698261
+KJ09: Ampang Park,KG15: Muzium Negara,369,Ampang Park,Muzium Negara,2.56702636615906
+KJ09: Ampang Park,KG16: Pasar Seni,9066,Ampang Park,Pasar Seni,3.957415714722669
+KJ09: Ampang Park,KG18: Bukit Bintang,3165,Ampang Park,Bukit Bintang,3.500373714353374
+KJ09: Ampang Park,KG20: Tun Razak Exchange,604,Ampang Park,Tun Razak Exchange,2.7810369386211318
+KJ09: Ampang Park,KG21: Cochrane,628,Ampang Park,Cochrane,2.797959643737196
+KJ09: Ampang Park,KG22: Maluri,962,Ampang Park,Maluri,2.983175072037813
+KJ09: Ampang Park,KG25: Taman Mutiara,455,Ampang Park,Taman Mutiara,2.6580113966571126
+KJ09: Ampang Park,KG26: Taman Connaught,364,Ampang Park,Taman Connaught,2.561101383649056
+KJ09: Ampang Park,KG35: Kajang,658,Ampang Park,Kajang,2.8182258936139557
+KJ09: Ampang Park,KJ02: Taman Melati,113643,Ampang Park,Taman Melati,5.05554268990701
+KJ09: Ampang Park,KJ03: Wangsa Maju,235943,Ampang Park,Wangsa Maju,5.372807097142119
+KJ09: Ampang Park,KJ04: Sri Rampai,105262,Ampang Park,Sri Rampai,5.022271617445576
+KJ09: Ampang Park,KJ10: KLCC,275232,Ampang Park,KLCC,5.439698925986053
+KJ09: Ampang Park,KJ13: Masjid Jamek,19600,Ampang Park,Masjid Jamek,4.292256071356476
+KJ09: Ampang Park,KJ14: Pasar Seni,32752,Ampang Park,Pasar Seni,4.51523782531843
+KJ09: Ampang Park,KJ15: KL Sentral,78511,Ampang Park,KL Sentral,4.89493050903342
+KJ09: Ampang Park,KJ16: Bank Rakyat Bangsar,37119,Ampang Park,Bank Rakyat Bangsar,4.569596267645642
+KJ09: Ampang Park,KJ17: Abdullah Hukum,75888,Ampang Park,Abdullah Hukum,4.8801731073077965
+KJ09: Ampang Park,KJ18: Kerinchi,33991,Ampang Park,Kerinchi,4.531363941520202
+KJ09: Ampang Park,KJ19: Universiti,31750,Ampang Park,Universiti,4.501743729627995
+KJ09: Ampang Park,KJ21: Asia Jaya,21648,Ampang Park,Asia Jaya,4.3354177792535475
+KJ09: Ampang Park,KJ28: Subang Jaya,25032,Ampang Park,Subang Jaya,4.398495550138137
+KJ09: Ampang Park,MR01: KL Sentral,5,Ampang Park,KL Sentral,0.6989700043360189
+KJ09: Ampang Park,MR04: Hang Tuah,2662,Ampang Park,Hang Tuah,3.4252080511386565
+KJ09: Ampang Park,MR05: Imbi,455,Ampang Park,Imbi,2.6580113966571126
+KJ09: Ampang Park,MR06: Bukit Bintang,72,Ampang Park,Bukit Bintang,1.8573324964312685
+KJ09: Ampang Park,SP15: Bandar Tasik Selatan,1201,Ampang Park,Bandar Tasik Selatan,3.079543007402906
+KJ10: KLCC,AG04: PWTC,17271,KLCC,PWTC,4.237317484174796
+KJ10: KLCC,AG06: Bandaraya,9254,KLCC,Bandaraya,3.9663294951638783
+KJ10: KLCC,AG07: Masjid Jamek,72757,KLCC,Masjid Jamek,4.8618747834328655
+KJ10: KLCC,AG10: Pudu,8696,KLCC,Pudu,3.939319531078238
+KJ10: KLCC,AG18: Ampang,11244,KLCC,Ampang,4.050920836935403
+KJ10: KLCC,KG06: Kota Damansara,9542,KLCC,Kota Damansara,3.9796394122229075
+KJ10: KLCC,KG07: Surian,11508,KLCC,Surian,4.060999853218289
+KJ10: KLCC,KG08: Mutiara Damansara,15827,KLCC,Mutiara Damansara,4.199398602359617
+KJ10: KLCC,KG09: Bandar Utama,18738,KLCC,Bandar Utama,4.272723234613842
+KJ10: KLCC,KG10: TTDI,12063,KLCC,TTDI,4.081455327822574
+KJ10: KLCC,KG13: Pusat Bandar Damansara,4678,KLCC,Pusat Bandar Damansara,3.670060217473134
+KJ10: KLCC,KG14: Semantan,7813,KLCC,Semantan,3.892817824309576
+KJ10: KLCC,KG15: Muzium Negara,2008,KLCC,Muzium Negara,3.3027637084729817
+KJ10: KLCC,KG16: Pasar Seni,31856,KLCC,Pasar Seni,4.503191242683334
+KJ10: KLCC,KG18: Bukit Bintang,37700,KLCC,Bukit Bintang,4.576341350205793
+KJ10: KLCC,KG20: Tun Razak Exchange,10141,KLCC,Tun Razak Exchange,4.006080782716094
+KJ10: KLCC,KG21: Cochrane,12225,KLCC,Cochrane,4.087248867795658
+KJ10: KLCC,KG22: Maluri,17188,KLCC,Maluri,4.235225345011866
+KJ10: KLCC,KG25: Taman Mutiara,9263,KLCC,Taman Mutiara,3.966751664051378
+KJ10: KLCC,KG26: Taman Connaught,8960,KLCC,Taman Connaught,3.9523080096621253
+KJ10: KLCC,KG35: Kajang,22300,KLCC,Kajang,4.348304863048161
+KJ10: KLCC,KJ02: Taman Melati,112570,KLCC,Taman Melati,5.051422666089034
+KJ10: KLCC,KJ03: Wangsa Maju,159163,KLCC,Wangsa Maju,5.201842116395229
+KJ10: KLCC,KJ04: Sri Rampai,121375,KLCC,Sri Rampai,5.084129242916061
+KJ10: KLCC,KJ09: Ampang Park,320233,KLCC,Ampang Park,5.5054660839213065
+KJ10: KLCC,KJ13: Masjid Jamek,55641,KLCC,Masjid Jamek,4.745394926686278
+KJ10: KLCC,KJ14: Pasar Seni,127179,KLCC,Pasar Seni,5.104415405832456
+KJ10: KLCC,KJ15: KL Sentral,209832,KLCC,KL Sentral,5.321871720099998
+KJ10: KLCC,KJ16: Bank Rakyat Bangsar,46517,KLCC,Bank Rakyat Bangsar,4.667611698200479
+KJ10: KLCC,KJ17: Abdullah Hukum,50963,KLCC,Abdullah Hukum,4.70725498536138
+KJ10: KLCC,KJ18: Kerinchi,20998,KLCC,Kerinchi,4.322177931384976
+KJ10: KLCC,KJ19: Universiti,40693,KLCC,Universiti,4.609519708418497
+KJ10: KLCC,KJ21: Asia Jaya,21573,KLCC,Asia Jaya,4.333910543472979
+KJ10: KLCC,KJ28: Subang Jaya,33011,KLCC,Subang Jaya,4.518658680583077
+KJ10: KLCC,MR01: KL Sentral,56,KLCC,KL Sentral,1.7481880270062005
+KJ10: KLCC,MR04: Hang Tuah,11698,KLCC,Hang Tuah,4.068111617027303
+KJ10: KLCC,MR05: Imbi,2040,KLCC,Imbi,3.3096301674258988
+KJ10: KLCC,MR06: Bukit Bintang,1392,KLCC,Bukit Bintang,3.1436392352745433
+KJ10: KLCC,SP15: Bandar Tasik Selatan,11706,KLCC,Bandar Tasik Selatan,4.068408519778162
+KJ13: Masjid Jamek,AG04: PWTC,3718,Masjid Jamek,PWTC,3.5703093854358796
+KJ13: Masjid Jamek,AG06: Bandaraya,2907,Masjid Jamek,Bandaraya,3.4634450317704277
+KJ13: Masjid Jamek,AG07: Masjid Jamek,11989,Masjid Jamek,Masjid Jamek,4.078782960196963
+KJ13: Masjid Jamek,AG10: Pudu,22725,Masjid Jamek,Pudu,4.356503891894005
+KJ13: Masjid Jamek,AG18: Ampang,24351,Masjid Jamek,Ampang,4.386516800686768
+KJ13: Masjid Jamek,KG06: Kota Damansara,1972,Masjid Jamek,Kota Damansara,3.2949069106051923
+KJ13: Masjid Jamek,KG07: Surian,2901,Masjid Jamek,Surian,3.4625477288026643
+KJ13: Masjid Jamek,KG08: Mutiara Damansara,2661,Masjid Jamek,Mutiara Damansara,3.425044874551389
+KJ13: Masjid Jamek,KG09: Bandar Utama,4916,Masjid Jamek,Bandar Utama,3.6916118742144164
+KJ13: Masjid Jamek,KG10: TTDI,3184,Masjid Jamek,TTDI,3.5029730590656314
+KJ13: Masjid Jamek,KG13: Pusat Bandar Damansara,1455,Masjid Jamek,Pusat Bandar Damansara,3.162862993321926
+KJ13: Masjid Jamek,KG14: Semantan,3382,Masjid Jamek,Semantan,3.529173603261723
+KJ13: Masjid Jamek,KG15: Muzium Negara,495,Masjid Jamek,Muzium Negara,2.694605198933569
+KJ13: Masjid Jamek,KG16: Pasar Seni,9474,Masjid Jamek,Pasar Seni,3.976533380391938
+KJ13: Masjid Jamek,KG18: Bukit Bintang,10353,Masjid Jamek,Bukit Bintang,4.015066214011149
+KJ13: Masjid Jamek,KG20: Tun Razak Exchange,7016,Masjid Jamek,Tun Razak Exchange,3.846089580357984
+KJ13: Masjid Jamek,KG21: Cochrane,5173,Masjid Jamek,Cochrane,3.7137424784090824
+KJ13: Masjid Jamek,KG22: Maluri,13490,Masjid Jamek,Maluri,4.130011949671904
+KJ13: Masjid Jamek,KG25: Taman Mutiara,6705,Masjid Jamek,Taman Mutiara,3.8263987821876175
+KJ13: Masjid Jamek,KG26: Taman Connaught,4547,Masjid Jamek,Taman Connaught,3.6577249542051082
+KJ13: Masjid Jamek,KG35: Kajang,8625,Masjid Jamek,Kajang,3.935759103745312
+KJ13: Masjid Jamek,KJ02: Taman Melati,18349,Masjid Jamek,Taman Melati,4.263612400668982
+KJ13: Masjid Jamek,KJ03: Wangsa Maju,25132,Masjid Jamek,Wangsa Maju,4.400227051043902
+KJ13: Masjid Jamek,KJ04: Sri Rampai,21938,Masjid Jamek,Sri Rampai,4.3411970321468285
+KJ13: Masjid Jamek,KJ09: Ampang Park,19229,Masjid Jamek,Ampang Park,4.283956699434818
+KJ13: Masjid Jamek,KJ10: KLCC,62300,Masjid Jamek,KLCC,4.794488046659169
+KJ13: Masjid Jamek,KJ14: Pasar Seni,18418,Masjid Jamek,Pasar Seni,4.265242468633801
+KJ13: Masjid Jamek,KJ15: KL Sentral,64076,Masjid Jamek,KL Sentral,4.80669539271181
+KJ13: Masjid Jamek,KJ16: Bank Rakyat Bangsar,20118,Masjid Jamek,Bank Rakyat Bangsar,4.3035848038124636
+KJ13: Masjid Jamek,KJ17: Abdullah Hukum,25504,Masjid Jamek,Abdullah Hukum,4.4066082997160185
+KJ13: Masjid Jamek,KJ18: Kerinchi,9770,Masjid Jamek,Kerinchi,3.989894563718773
+KJ13: Masjid Jamek,KJ19: Universiti,12371,Masjid Jamek,Universiti,4.092404806899008
+KJ13: Masjid Jamek,KJ21: Asia Jaya,9729,Masjid Jamek,Asia Jaya,3.9880682033926353
+KJ13: Masjid Jamek,KJ28: Subang Jaya,9098,Masjid Jamek,Subang Jaya,3.9589459324939362
+KJ13: Masjid Jamek,MR01: KL Sentral,364,Masjid Jamek,KL Sentral,2.561101383649056
+KJ13: Masjid Jamek,MR04: Hang Tuah,15193,Masjid Jamek,Hang Tuah,4.181643537839348
+KJ13: Masjid Jamek,MR05: Imbi,4004,Masjid Jamek,Imbi,3.602494068807281
+KJ13: Masjid Jamek,MR06: Bukit Bintang,3347,Masjid Jamek,Bukit Bintang,3.5246557123577773
+KJ13: Masjid Jamek,SP15: Bandar Tasik Selatan,26477,Masjid Jamek,Bandar Tasik Selatan,4.422868775433255
+KJ14: Pasar Seni,AG04: PWTC,7332,Pasar Seni,PWTC,3.865222456290179
+KJ14: Pasar Seni,AG06: Bandaraya,6217,Pasar Seni,Bandaraya,3.793580867368156
+KJ14: Pasar Seni,AG07: Masjid Jamek,28832,Pasar Seni,Masjid Jamek,4.459874769298969
+KJ14: Pasar Seni,AG10: Pudu,3201,Pasar Seni,Pudu,3.5052856741441323
+KJ14: Pasar Seni,AG18: Ampang,5788,Pasar Seni,Ampang,3.762528522447
+KJ14: Pasar Seni,KG06: Kota Damansara,11826,Pasar Seni,Kota Damansara,4.072837874663087
+KJ14: Pasar Seni,KG07: Surian,14431,Pasar Seni,Surian,4.159296426688385
+KJ14: Pasar Seni,KG08: Mutiara Damansara,20483,Pasar Seni,Mutiara Damansara,4.311393565000522
+KJ14: Pasar Seni,KG09: Bandar Utama,26850,Pasar Seni,Bandar Utama,4.428944290035575
+KJ14: Pasar Seni,KG10: TTDI,14915,Pasar Seni,TTDI,4.173623257698082
+KJ14: Pasar Seni,KG13: Pusat Bandar Damansara,15495,Pasar Seni,Pusat Bandar Damansara,4.190191580575302
+KJ14: Pasar Seni,KG14: Semantan,17155,Pasar Seni,Semantan,4.234390722392193
+KJ14: Pasar Seni,KG15: Muzium Negara,14255,Pasar Seni,Muzium Negara,4.153967221645479
+KJ14: Pasar Seni,KG16: Pasar Seni,18471,Pasar Seni,Pasar Seni,4.266490408311144
+KJ14: Pasar Seni,KG18: Bukit Bintang,160019,Pasar Seni,Bukit Bintang,5.2041715520637775
+KJ14: Pasar Seni,KG20: Tun Razak Exchange,63185,Pasar Seni,Tun Razak Exchange,4.800613989826332
+KJ14: Pasar Seni,KG21: Cochrane,39489,Pasar Seni,Cochrane,4.596476136016089
+KJ14: Pasar Seni,KG22: Maluri,27181,Pasar Seni,Maluri,4.434265430560305
+KJ14: Pasar Seni,KG25: Taman Mutiara,13512,Pasar Seni,Taman Mutiara,4.130719636562953
+KJ14: Pasar Seni,KG26: Taman Connaught,12557,Pasar Seni,Taman Connaught,4.098885894252321
+KJ14: Pasar Seni,KG35: Kajang,32638,Pasar Seni,Kajang,4.513723538085007
+KJ14: Pasar Seni,KJ02: Taman Melati,17647,Pasar Seni,Taman Melati,4.246670885690703
+KJ14: Pasar Seni,KJ03: Wangsa Maju,29324,Pasar Seni,Wangsa Maju,4.467223210834049
+KJ14: Pasar Seni,KJ04: Sri Rampai,17962,Pasar Seni,Sri Rampai,4.254354692053167
+KJ14: Pasar Seni,KJ09: Ampang Park,28788,Pasar Seni,Ampang Park,4.459211494015455
+KJ14: Pasar Seni,KJ10: KLCC,121002,Pasar Seni,KLCC,5.082792548678313
+KJ14: Pasar Seni,KJ13: Masjid Jamek,16507,Pasar Seni,Masjid Jamek,4.217668151286278
+KJ14: Pasar Seni,KJ15: KL Sentral,156002,Pasar Seni,KL Sentral,5.1931301661967435
+KJ14: Pasar Seni,KJ16: Bank Rakyat Bangsar,45836,Pasar Seni,Bank Rakyat Bangsar,4.66120671075416
+KJ14: Pasar Seni,KJ17: Abdullah Hukum,36752,Pasar Seni,Abdullah Hukum,4.565280977850951
+KJ14: Pasar Seni,KJ18: Kerinchi,18554,Pasar Seni,Kerinchi,4.268437552261454
+KJ14: Pasar Seni,KJ19: Universiti,26023,Pasar Seni,Universiti,4.415357361723758
+KJ14: Pasar Seni,KJ21: Asia Jaya,15902,Pasar Seni,Asia Jaya,4.201451749121719
+KJ14: Pasar Seni,KJ28: Subang Jaya,18089,Pasar Seni,Subang Jaya,4.257414558762187
+KJ14: Pasar Seni,MR01: KL Sentral,57,Pasar Seni,KL Sentral,1.7558748556724915
+KJ14: Pasar Seni,MR04: Hang Tuah,4542,Pasar Seni,Hang Tuah,3.6572471298837166
+KJ14: Pasar Seni,MR05: Imbi,894,Pasar Seni,Imbi,2.951337518795918
+KJ14: Pasar Seni,MR06: Bukit Bintang,329,Pasar Seni,Bukit Bintang,2.5171958979499744
+KJ14: Pasar Seni,SP15: Bandar Tasik Selatan,5659,Pasar Seni,Bandar Tasik Selatan,3.752739693935328
+KJ15: KL Sentral,AG04: PWTC,15394,KL Sentral,PWTC,4.187351482223461
+KJ15: KL Sentral,AG06: Bandaraya,10996,KL Sentral,Bandaraya,4.041234731171431
+KJ15: KL Sentral,AG07: Masjid Jamek,84720,KL Sentral,Masjid Jamek,4.927985947099429
+KJ15: KL Sentral,AG10: Pudu,4669,KL Sentral,Pudu,3.6692238739308056
+KJ15: KL Sentral,AG18: Ampang,11683,KL Sentral,Ampang,4.067554376693503
+KJ15: KL Sentral,KG06: Kota Damansara,850,KL Sentral,Kota Damansara,2.929418925714293
+KJ15: KL Sentral,KG07: Surian,1280,KL Sentral,Surian,3.1072099696478683
+KJ15: KL Sentral,KG08: Mutiara Damansara,1774,KL Sentral,Mutiara Damansara,3.2489536154957075
+KJ15: KL Sentral,KG09: Bandar Utama,2547,KL Sentral,Bandar Utama,3.406028944963615
+KJ15: KL Sentral,KG10: TTDI,1413,KL Sentral,TTDI,3.1501421618485588
+KJ15: KL Sentral,KG13: Pusat Bandar Damansara,778,KL Sentral,Pusat Bandar Damansara,2.890979596989689
+KJ15: KL Sentral,KG14: Semantan,1409,KL Sentral,Semantan,3.1489109931093564
+KJ15: KL Sentral,KG15: Muzium Negara,650,KL Sentral,Muzium Negara,2.8129133566428557
+KJ15: KL Sentral,KG16: Pasar Seni,38977,KL Sentral,Pasar Seni,4.590808409086762
+KJ15: KL Sentral,KG18: Bukit Bintang,15964,KL Sentral,Bukit Bintang,4.2031417191119855
+KJ15: KL Sentral,KG20: Tun Razak Exchange,9094,KL Sentral,Tun Razak Exchange,3.9587549498690895
+KJ15: KL Sentral,KG21: Cochrane,5774,KL Sentral,Cochrane,3.7614767795447017
+KJ15: KL Sentral,KG22: Maluri,8466,KL Sentral,Maluri,3.9276782641379913
+KJ15: KL Sentral,KG25: Taman Mutiara,2381,KL Sentral,Taman Mutiara,3.37675939540488
+KJ15: KL Sentral,KG26: Taman Connaught,2265,KL Sentral,Taman Connaught,3.3550682063488506
+KJ15: KL Sentral,KG35: Kajang,4693,KL Sentral,Kajang,3.6714505542124947
+KJ15: KL Sentral,KJ02: Taman Melati,56259,KL Sentral,Taman Melati,4.750192008342128
+KJ15: KL Sentral,KJ03: Wangsa Maju,88732,KL Sentral,Wangsa Maju,4.94808027053252
+KJ15: KL Sentral,KJ04: Sri Rampai,56875,KL Sentral,Sri Rampai,4.754921409665169
+KJ15: KL Sentral,KJ09: Ampang Park,77452,KL Sentral,Ampang Park,4.889032636785337
+KJ15: KL Sentral,KJ10: KLCC,226409,KL Sentral,KLCC,5.354893686529704
+KJ15: KL Sentral,KJ13: Masjid Jamek,58851,KL Sentral,Masjid Jamek,4.7697538468020895
+KJ15: KL Sentral,KJ14: Pasar Seni,155921,KL Sentral,Pasar Seni,5.1929046114680135
+KJ15: KL Sentral,KJ16: Bank Rakyat Bangsar,213434,KL Sentral,Bank Rakyat Bangsar,5.329263603636767
+KJ15: KL Sentral,KJ17: Abdullah Hukum,189260,KL Sentral,Abdullah Hukum,5.277058835755107
+KJ15: KL Sentral,KJ18: Kerinchi,114814,KL Sentral,Kerinchi,5.059994847574477
+KJ15: KL Sentral,KJ19: Universiti,148852,KL Sentral,Universiti,5.172754674274168
+KJ15: KL Sentral,KJ21: Asia Jaya,62292,KL Sentral,Asia Jaya,4.794432274926474
+KJ15: KL Sentral,KJ28: Subang Jaya,65407,KL Sentral,Subang Jaya,4.8156242299556205
+KJ15: KL Sentral,MR01: KL Sentral,48,KL Sentral,KL Sentral,1.6812412373755872
+KJ15: KL Sentral,MR04: Hang Tuah,1882,KL Sentral,Hang Tuah,3.274619619091238
+KJ15: KL Sentral,MR05: Imbi,445,KL Sentral,Imbi,2.6483600109809315
+KJ15: KL Sentral,MR06: Bukit Bintang,228,KL Sentral,Bukit Bintang,2.357934847000454
+KJ15: KL Sentral,SP15: Bandar Tasik Selatan,12308,KL Sentral,Bandar Tasik Selatan,4.090187487575421
+KJ16: Bank Rakyat Bangsar,AG04: PWTC,4968,Bank Rakyat Bangsar,PWTC,3.6961815871685237
+KJ16: Bank Rakyat Bangsar,AG06: Bandaraya,4168,Bank Rakyat Bangsar,Bandaraya,3.619927710291468
+KJ16: Bank Rakyat Bangsar,AG07: Masjid Jamek,18076,Bank Rakyat Bangsar,Masjid Jamek,4.257102332659164
+KJ16: Bank Rakyat Bangsar,AG10: Pudu,4757,Bank Rakyat Bangsar,Pudu,3.677333151419902
+KJ16: Bank Rakyat Bangsar,AG18: Ampang,6722,Bank Rakyat Bangsar,Ampang,3.8274985081334587
+KJ16: Bank Rakyat Bangsar,KG06: Kota Damansara,2542,Bank Rakyat Bangsar,Kota Damansara,3.4051755462179893
+KJ16: Bank Rakyat Bangsar,KG07: Surian,3822,Bank Rakyat Bangsar,Surian,3.582290682718994
+KJ16: Bank Rakyat Bangsar,KG08: Mutiara Damansara,4432,Bank Rakyat Bangsar,Mutiara Damansara,3.646599751720373
+KJ16: Bank Rakyat Bangsar,KG09: Bandar Utama,5493,Bank Rakyat Bangsar,Bandar Utama,3.739809599021359
+KJ16: Bank Rakyat Bangsar,KG10: TTDI,3574,Bank Rakyat Bangsar,TTDI,3.5531545481696254
+KJ16: Bank Rakyat Bangsar,KG13: Pusat Bandar Damansara,1861,Bank Rakyat Bangsar,Pusat Bandar Damansara,3.269746373130767
+KJ16: Bank Rakyat Bangsar,KG14: Semantan,3639,Bank Rakyat Bangsar,Semantan,3.5609820555862353
+KJ16: Bank Rakyat Bangsar,KG15: Muzium Negara,299,Bank Rakyat Bangsar,Muzium Negara,2.4756711883244296
+KJ16: Bank Rakyat Bangsar,KG16: Pasar Seni,12551,Bank Rakyat Bangsar,Pasar Seni,4.0986783295764395
+KJ16: Bank Rakyat Bangsar,KG18: Bukit Bintang,23970,Bank Rakyat Bangsar,Bukit Bintang,4.379668034033654
+KJ16: Bank Rakyat Bangsar,KG20: Tun Razak Exchange,12185,Bank Rakyat Bangsar,Tun Razak Exchange,4.085825533520743
+KJ16: Bank Rakyat Bangsar,KG21: Cochrane,7793,Bank Rakyat Bangsar,Cochrane,3.8917046762391827
+KJ16: Bank Rakyat Bangsar,KG22: Maluri,15526,Bank Rakyat Bangsar,Maluri,4.191059581827398
+KJ16: Bank Rakyat Bangsar,KG25: Taman Mutiara,5652,Bank Rakyat Bangsar,Taman Mutiara,3.752202153176521
+KJ16: Bank Rakyat Bangsar,KG26: Taman Connaught,6233,Bank Rakyat Bangsar,Taman Connaught,3.7946971268919985
+KJ16: Bank Rakyat Bangsar,KG35: Kajang,10913,Bank Rakyat Bangsar,Kajang,4.037944155203099
+KJ16: Bank Rakyat Bangsar,KJ02: Taman Melati,14447,Bank Rakyat Bangsar,Taman Melati,4.159777672787248
+KJ16: Bank Rakyat Bangsar,KJ03: Wangsa Maju,20563,Bank Rakyat Bangsar,Wangsa Maju,4.313086475517802
+KJ16: Bank Rakyat Bangsar,KJ04: Sri Rampai,16428,Bank Rakyat Bangsar,Sri Rampai,4.215584694181615
+KJ16: Bank Rakyat Bangsar,KJ09: Ampang Park,40653,Bank Rakyat Bangsar,Ampang Park,4.609092600000719
+KJ16: Bank Rakyat Bangsar,KJ10: KLCC,49660,Bank Rakyat Bangsar,KLCC,4.696006715218545
+KJ16: Bank Rakyat Bangsar,KJ13: Masjid Jamek,18891,Bank Rakyat Bangsar,Masjid Jamek,4.276254948021725
+KJ16: Bank Rakyat Bangsar,KJ14: Pasar Seni,51346,Bank Rakyat Bangsar,Pasar Seni,4.710506616470952
+KJ16: Bank Rakyat Bangsar,KJ15: KL Sentral,208765,Bank Rakyat Bangsar,KL Sentral,5.31965768982361
+KJ16: Bank Rakyat Bangsar,KJ17: Abdullah Hukum,98284,Bank Rakyat Bangsar,Abdullah Hukum,4.992482823251439
+KJ16: Bank Rakyat Bangsar,KJ18: Kerinchi,31508,Bank Rakyat Bangsar,Kerinchi,4.498420836797279
+KJ16: Bank Rakyat Bangsar,KJ19: Universiti,47221,Bank Rakyat Bangsar,Universiti,4.674135179902457
+KJ16: Bank Rakyat Bangsar,KJ21: Asia Jaya,13941,Bank Rakyat Bangsar,Asia Jaya,4.144293927198531
+KJ16: Bank Rakyat Bangsar,KJ28: Subang Jaya,13323,Bank Rakyat Bangsar,Subang Jaya,4.124602027893339
+KJ16: Bank Rakyat Bangsar,MR01: KL Sentral,1,Bank Rakyat Bangsar,KL Sentral,0.0
+KJ16: Bank Rakyat Bangsar,MR04: Hang Tuah,2332,Bank Rakyat Bangsar,Hang Tuah,3.3677285460869766
+KJ16: Bank Rakyat Bangsar,MR05: Imbi,151,Bank Rakyat Bangsar,Imbi,2.1789769472931693
+KJ16: Bank Rakyat Bangsar,MR06: Bukit Bintang,86,Bank Rakyat Bangsar,Bukit Bintang,1.9344984512435677
+KJ16: Bank Rakyat Bangsar,SP15: Bandar Tasik Selatan,3727,Bank Rakyat Bangsar,Bandar Tasik Selatan,3.57135939275384
+KJ17: Abdullah Hukum,AG04: PWTC,9615,Abdullah Hukum,PWTC,3.9829492885744986
+KJ17: Abdullah Hukum,AG06: Bandaraya,4109,Abdullah Hukum,Bandaraya,3.6137361412618714
+KJ17: Abdullah Hukum,AG07: Masjid Jamek,18613,Abdullah Hukum,Masjid Jamek,4.2698163773458235
+KJ17: Abdullah Hukum,AG10: Pudu,5451,Abdullah Hukum,Pudu,3.7364761820276966
+KJ17: Abdullah Hukum,AG18: Ampang,12813,Abdullah Hukum,Ampang,4.107650826146487
+KJ17: Abdullah Hukum,KG06: Kota Damansara,6305,Abdullah Hukum,Kota Damansara,3.7996850909091004
+KJ17: Abdullah Hukum,KG07: Surian,8261,Abdullah Hukum,Surian,3.9170326221623935
+KJ17: Abdullah Hukum,KG08: Mutiara Damansara,10709,Abdullah Hukum,Mutiara Damansara,4.0297489185668365
+KJ17: Abdullah Hukum,KG09: Bandar Utama,11318,Abdullah Hukum,Bandar Utama,4.053769689599309
+KJ17: Abdullah Hukum,KG10: TTDI,6249,Abdullah Hukum,TTDI,3.795810524667408
+KJ17: Abdullah Hukum,KG13: Pusat Bandar Damansara,2800,Abdullah Hukum,Pusat Bandar Damansara,3.4471580313422194
+KJ17: Abdullah Hukum,KG14: Semantan,3595,Abdullah Hukum,Semantan,3.555698894718901
+KJ17: Abdullah Hukum,KG15: Muzium Negara,306,Abdullah Hukum,Muzium Negara,2.48572142648158
+KJ17: Abdullah Hukum,KG16: Pasar Seni,14648,Abdullah Hukum,Pasar Seni,4.16577833129364
+KJ17: Abdullah Hukum,KG18: Bukit Bintang,37237,Abdullah Hukum,Bukit Bintang,4.570974684770967
+KJ17: Abdullah Hukum,KG20: Tun Razak Exchange,18189,Abdullah Hukum,Tun Razak Exchange,4.2598088229546285
+KJ17: Abdullah Hukum,KG21: Cochrane,15848,Abdullah Hukum,Cochrane,4.1999744625304904
+KJ17: Abdullah Hukum,KG22: Maluri,32314,Abdullah Hukum,Maluri,4.509390720642361
+KJ17: Abdullah Hukum,KG25: Taman Mutiara,16782,Abdullah Hukum,Taman Mutiara,4.224843716755171
+KJ17: Abdullah Hukum,KG26: Taman Connaught,18673,Abdullah Hukum,Taman Connaught,4.2712140972088335
+KJ17: Abdullah Hukum,KG35: Kajang,22135,Abdullah Hukum,Kajang,4.3450795263148665
+KJ17: Abdullah Hukum,KJ02: Taman Melati,30576,Abdullah Hukum,Taman Melati,4.4853806697109375
+KJ17: Abdullah Hukum,KJ03: Wangsa Maju,60163,Abdullah Hukum,Wangsa Maju,4.779329484015789
+KJ17: Abdullah Hukum,KJ04: Sri Rampai,29246,Abdullah Hukum,Sri Rampai,4.466066475658547
+KJ17: Abdullah Hukum,KJ09: Ampang Park,75972,Abdullah Hukum,Ampang Park,4.880653559569096
+KJ17: Abdullah Hukum,KJ10: KLCC,50404,Abdullah Hukum,KLCC,4.7024650028938515
+KJ17: Abdullah Hukum,KJ13: Masjid Jamek,20208,Abdullah Hukum,Masjid Jamek,4.305523333211256
+KJ17: Abdullah Hukum,KJ14: Pasar Seni,42017,Abdullah Hukum,Pasar Seni,4.62342504069351
+KJ17: Abdullah Hukum,KJ15: KL Sentral,195725,Abdullah Hukum,KL Sentral,5.291646301736751
+KJ17: Abdullah Hukum,KJ16: Bank Rakyat Bangsar,89534,Abdullah Hukum,Bank Rakyat Bangsar,4.951987987364822
+KJ17: Abdullah Hukum,KJ18: Kerinchi,74846,Abdullah Hukum,Kerinchi,4.8741685952689595
+KJ17: Abdullah Hukum,KJ19: Universiti,118301,Abdullah Hukum,Universiti,5.072988415740748
+KJ17: Abdullah Hukum,KJ21: Asia Jaya,32586,Abdullah Hukum,Asia Jaya,4.513031053176271
+KJ17: Abdullah Hukum,KJ28: Subang Jaya,21590,Abdullah Hukum,Subang Jaya,4.3342526423342305
+KJ17: Abdullah Hukum,MR01: KL Sentral,6,Abdullah Hukum,KL Sentral,0.7781512503836436
+KJ17: Abdullah Hukum,MR04: Hang Tuah,4669,Abdullah Hukum,Hang Tuah,3.6692238739308056
+KJ17: Abdullah Hukum,MR05: Imbi,318,Abdullah Hukum,Imbi,2.5024271199844326
+KJ17: Abdullah Hukum,MR06: Bukit Bintang,137,Abdullah Hukum,Bukit Bintang,2.1367205671564067
+KJ17: Abdullah Hukum,SP15: Bandar Tasik Selatan,6462,Abdullah Hukum,Bandar Tasik Selatan,3.8103669536816254
+KJ18: Kerinchi,AG04: PWTC,3541,Kerinchi,PWTC,3.5491259267581112
+KJ18: Kerinchi,AG06: Bandaraya,2620,Kerinchi,Bandaraya,3.4183012913197452
+KJ18: Kerinchi,AG07: Masjid Jamek,9270,Kerinchi,Masjid Jamek,3.967079734144497
+KJ18: Kerinchi,AG10: Pudu,2474,Kerinchi,Pudu,3.393399695293102
+KJ18: Kerinchi,AG18: Ampang,5889,Kerinchi,Ampang,3.770041554319669
+KJ18: Kerinchi,KG06: Kota Damansara,3207,Kerinchi,Kota Damansara,3.5060989599284405
+KJ18: Kerinchi,KG07: Surian,3533,Kerinchi,Surian,3.5481436374348454
+KJ18: Kerinchi,KG08: Mutiara Damansara,3841,Kerinchi,Mutiara Damansara,3.5844443071651764
+KJ18: Kerinchi,KG09: Bandar Utama,4907,Kerinchi,Bandar Utama,3.6908160579809155
+KJ18: Kerinchi,KG10: TTDI,2590,Kerinchi,TTDI,3.413299764081252
+KJ18: Kerinchi,KG13: Pusat Bandar Damansara,1950,Kerinchi,Pusat Bandar Damansara,3.290034611362518
+KJ18: Kerinchi,KG14: Semantan,1887,Kerinchi,Semantan,3.2757719001649312
+KJ18: Kerinchi,KG15: Muzium Negara,174,Kerinchi,Muzium Negara,2.2405492482826
+KJ18: Kerinchi,KG16: Pasar Seni,6613,Kerinchi,Pasar Seni,3.820398522703982
+KJ18: Kerinchi,KG18: Bukit Bintang,13580,Kerinchi,Bukit Bintang,4.1328997699444825
+KJ18: Kerinchi,KG20: Tun Razak Exchange,7482,Kerinchi,Tun Razak Exchange,3.874017703862186
+KJ18: Kerinchi,KG21: Cochrane,6355,Kerinchi,Cochrane,3.803115554890027
+KJ18: Kerinchi,KG22: Maluri,13584,Kerinchi,Maluri,4.133027672899877
+KJ18: Kerinchi,KG25: Taman Mutiara,5713,Kerinchi,Taman Mutiara,3.756864224060549
+KJ18: Kerinchi,KG26: Taman Connaught,6057,Kerinchi,Taman Connaught,3.7822575736633017
+KJ18: Kerinchi,KG35: Kajang,11559,Kerinchi,Kajang,4.062920263732663
+KJ18: Kerinchi,KJ02: Taman Melati,15527,Kerinchi,Taman Melati,4.19108755300455
+KJ18: Kerinchi,KJ03: Wangsa Maju,21423,Kerinchi,Wangsa Maju,4.3308802877944315
+KJ18: Kerinchi,KJ04: Sri Rampai,12141,Kerinchi,Sri Rampai,4.0842544591112295
+KJ18: Kerinchi,KJ09: Ampang Park,33866,Kerinchi,Ampang Park,4.529763904040117
+KJ18: Kerinchi,KJ10: KLCC,24254,Kerinchi,KLCC,4.384783373233992
+KJ18: Kerinchi,KJ13: Masjid Jamek,8664,Kerinchi,Masjid Jamek,3.937718443617264
+KJ18: Kerinchi,KJ14: Pasar Seni,23093,Kerinchi,Pasar Seni,4.3634803555596005
+KJ18: Kerinchi,KJ15: KL Sentral,122038,Kerinchi,KL Sentral,5.086495081663903
+KJ18: Kerinchi,KJ16: Bank Rakyat Bangsar,29404,Kerinchi,Bank Rakyat Bangsar,4.468406414077564
+KJ18: Kerinchi,KJ17: Abdullah Hukum,72540,Kerinchi,Abdullah Hukum,4.860577551244416
+KJ18: Kerinchi,KJ19: Universiti,28039,Kerinchi,Universiti,4.447762520627492
+KJ18: Kerinchi,KJ21: Asia Jaya,11937,Kerinchi,Asia Jaya,4.076895193866051
+KJ18: Kerinchi,KJ28: Subang Jaya,14358,Kerinchi,Subang Jaya,4.157093948997081
+KJ18: Kerinchi,MR01: KL Sentral,1,Kerinchi,KL Sentral,0.0
+KJ18: Kerinchi,MR04: Hang Tuah,2623,Kerinchi,Hang Tuah,3.4187982905903533
+KJ18: Kerinchi,MR05: Imbi,121,Kerinchi,Imbi,2.0827853703164503
+KJ18: Kerinchi,MR06: Bukit Bintang,43,Kerinchi,Bukit Bintang,1.6334684555795864
+KJ18: Kerinchi,SP15: Bandar Tasik Selatan,3379,Kerinchi,Bandar Tasik Selatan,3.5287881917748964
+KJ19: Universiti,AG04: PWTC,3003,Universiti,PWTC,3.477555332198981
+KJ19: Universiti,AG06: Bandaraya,4292,Universiti,Bandaraya,3.6326597132939136
+KJ19: Universiti,AG07: Masjid Jamek,13039,Universiti,Masjid Jamek,4.115244285327255
+KJ19: Universiti,AG10: Pudu,2161,Universiti,Pudu,3.3346547668832414
+KJ19: Universiti,AG18: Ampang,2970,Universiti,Ampang,3.4727564493172123
+KJ19: Universiti,KG06: Kota Damansara,1722,Universiti,Kota Damansara,3.236033147117636
+KJ19: Universiti,KG07: Surian,2414,Universiti,Surian,3.3827372657613304
+KJ19: Universiti,KG08: Mutiara Damansara,2929,Universiti,Mutiara Damansara,3.4667193716815987
+KJ19: Universiti,KG09: Bandar Utama,4732,Universiti,Bandar Utama,3.675044735955893
+KJ19: Universiti,KG10: TTDI,3114,Universiti,TTDI,3.4933186082321015
+KJ19: Universiti,KG13: Pusat Bandar Damansara,2109,Universiti,Pusat Bandar Damansara,3.3240765797394864
+KJ19: Universiti,KG14: Semantan,4370,Universiti,Semantan,3.640481436970422
+KJ19: Universiti,KG15: Muzium Negara,343,Universiti,Muzium Negara,2.5352941200427703
+KJ19: Universiti,KG16: Pasar Seni,8365,Universiti,Pasar Seni,3.922465945298413
+KJ19: Universiti,KG18: Bukit Bintang,18594,Universiti,Bukit Bintang,4.269372826622926
+KJ19: Universiti,KG20: Tun Razak Exchange,13253,Universiti,Tun Razak Exchange,4.122314197968806
+KJ19: Universiti,KG21: Cochrane,7486,Universiti,Cochrane,3.874249822778403
+KJ19: Universiti,KG22: Maluri,9870,Universiti,Maluri,3.9943171526696366
+KJ19: Universiti,KG25: Taman Mutiara,3427,Universiti,Taman Mutiara,3.534914104429867
+KJ19: Universiti,KG26: Taman Connaught,3314,Universiti,Taman Connaught,3.520352504083318
+KJ19: Universiti,KG35: Kajang,5166,Universiti,Kajang,3.7131544018372984
+KJ19: Universiti,KJ02: Taman Melati,7260,Universiti,Taman Melati,3.8609366207000937
+KJ19: Universiti,KJ03: Wangsa Maju,12435,Universiti,Wangsa Maju,4.094645789605955
+KJ19: Universiti,KJ04: Sri Rampai,7801,Universiti,Sri Rampai,3.892150277901364
+KJ19: Universiti,KJ09: Ampang Park,32411,Universiti,Ampang Park,4.510692430840357
+KJ19: Universiti,KJ10: KLCC,37819,Universiti,KLCC,4.5777100411609615
+KJ19: Universiti,KJ13: Masjid Jamek,12916,Universiti,Masjid Jamek,4.111128036345124
+KJ19: Universiti,KJ14: Pasar Seni,28384,Universiti,Pasar Seni,4.453073598151632
+KJ19: Universiti,KJ15: KL Sentral,134954,Universiti,KL Sentral,5.130185761454096
+KJ19: Universiti,KJ16: Bank Rakyat Bangsar,40003,Universiti,Bank Rakyat Bangsar,4.602092562192713
+KJ19: Universiti,KJ17: Abdullah Hukum,112746,Universiti,Abdullah Hukum,5.052101142933652
+KJ19: Universiti,KJ18: Kerinchi,23943,Universiti,Kerinchi,4.379178565528129
+KJ19: Universiti,KJ21: Asia Jaya,30322,Universiti,Asia Jaya,4.481757843408488
+KJ19: Universiti,KJ28: Subang Jaya,17399,Universiti,Subang Jaya,4.240524288112364
+KJ19: Universiti,MR01: KL Sentral,5,Universiti,KL Sentral,0.6989700043360189
+KJ19: Universiti,MR04: Hang Tuah,2810,Universiti,Hang Tuah,3.44870631990508
+KJ19: Universiti,MR05: Imbi,116,Universiti,Imbi,2.0644579892269186
+KJ19: Universiti,MR06: Bukit Bintang,42,Universiti,Bukit Bintang,1.6232492903979006
+KJ19: Universiti,SP15: Bandar Tasik Selatan,3341,Universiti,Bandar Tasik Selatan,3.523876475638131
+KJ21: Asia Jaya,AG04: PWTC,3900,Asia Jaya,PWTC,3.591064607026499
+KJ21: Asia Jaya,AG06: Bandaraya,2005,Asia Jaya,Bandaraya,3.302114376956201
+KJ21: Asia Jaya,AG07: Masjid Jamek,10413,Asia Jaya,Masjid Jamek,4.0175758683910745
+KJ21: Asia Jaya,AG10: Pudu,2919,Asia Jaya,Pudu,3.4652340949880145
+KJ21: Asia Jaya,AG18: Ampang,4640,Asia Jaya,Ampang,3.6665179805548807
+KJ21: Asia Jaya,KG06: Kota Damansara,1419,Asia Jaya,Kota Damansara,3.151982395457474
+KJ21: Asia Jaya,KG07: Surian,1569,Asia Jaya,Surian,3.1956229435869368
+KJ21: Asia Jaya,KG08: Mutiara Damansara,2417,Asia Jaya,Mutiara Damansara,3.3832766504076504
+KJ21: Asia Jaya,KG09: Bandar Utama,2711,Asia Jaya,Bandar Utama,3.4331295175804857
+KJ21: Asia Jaya,KG10: TTDI,1079,Asia Jaya,TTDI,3.0330214446829107
+KJ21: Asia Jaya,KG13: Pusat Bandar Damansara,918,Asia Jaya,Pusat Bandar Damansara,2.9628426812012423
+KJ21: Asia Jaya,KG14: Semantan,1637,Asia Jaya,Semantan,3.2140486794119414
+KJ21: Asia Jaya,KG15: Muzium Negara,118,Asia Jaya,Muzium Negara,2.0718820073061255
+KJ21: Asia Jaya,KG16: Pasar Seni,4735,Asia Jaya,Pasar Seni,3.675319983339292
+KJ21: Asia Jaya,KG18: Bukit Bintang,13416,Asia Jaya,Bukit Bintang,4.1276230495980295
+KJ21: Asia Jaya,KG20: Tun Razak Exchange,6288,Asia Jaya,Tun Razak Exchange,3.7985125330313516
+KJ21: Asia Jaya,KG21: Cochrane,3879,Asia Jaya,Cochrane,3.5887197796000563
+KJ21: Asia Jaya,KG22: Maluri,7054,Asia Jaya,Maluri,3.848435455331471
+KJ21: Asia Jaya,KG25: Taman Mutiara,3268,Asia Jaya,Taman Mutiara,3.514282047860378
+KJ21: Asia Jaya,KG26: Taman Connaught,3349,Asia Jaya,Taman Connaught,3.524915147539867
+KJ21: Asia Jaya,KG35: Kajang,6942,Asia Jaya,Kajang,3.841484609335393
+KJ21: Asia Jaya,KJ02: Taman Melati,8970,Asia Jaya,Taman Melati,3.952792443044092
+KJ21: Asia Jaya,KJ03: Wangsa Maju,13018,Asia Jaya,Wangsa Maju,4.114544267205864
+KJ21: Asia Jaya,KJ04: Sri Rampai,7042,Asia Jaya,Sri Rampai,3.8476960207341655
+KJ21: Asia Jaya,KJ09: Ampang Park,24361,Asia Jaya,Ampang Park,4.3866951117756185
+KJ21: Asia Jaya,KJ10: KLCC,24447,Asia Jaya,KLCC,4.388225572523698
+KJ21: Asia Jaya,KJ13: Masjid Jamek,10977,Asia Jaya,Masjid Jamek,4.04048366420627
+KJ21: Asia Jaya,KJ14: Pasar Seni,22097,Asia Jaya,Pasar Seni,4.344333315681277
+KJ21: Asia Jaya,KJ15: KL Sentral,72063,Asia Jaya,KL Sentral,4.857712337946495
+KJ21: Asia Jaya,KJ16: Bank Rakyat Bangsar,14604,Asia Jaya,Bank Rakyat Bangsar,4.1644718242776895
+KJ21: Asia Jaya,KJ17: Abdullah Hukum,37696,Asia Jaya,Abdullah Hukum,4.576295268770989
+KJ21: Asia Jaya,KJ18: Kerinchi,13913,Asia Jaya,Kerinchi,4.143420785129937
+KJ21: Asia Jaya,KJ19: Universiti,34751,Asia Jaya,Universiti,4.540967306429246
+KJ21: Asia Jaya,KJ28: Subang Jaya,19746,Asia Jaya,Subang Jaya,4.295479132678017
+KJ21: Asia Jaya,MR01: KL Sentral,5,Asia Jaya,KL Sentral,0.6989700043360189
+KJ21: Asia Jaya,MR04: Hang Tuah,1740,Asia Jaya,Hang Tuah,3.2405492482826
+KJ21: Asia Jaya,MR05: Imbi,97,Asia Jaya,Imbi,1.9867717342662448
+KJ21: Asia Jaya,MR06: Bukit Bintang,49,Asia Jaya,Bukit Bintang,1.6901960800285136
+KJ21: Asia Jaya,SP15: Bandar Tasik Selatan,2367,Asia Jaya,Bandar Tasik Selatan,3.374198257929083
+KJ28: Subang Jaya,AG04: PWTC,1759,Subang Jaya,PWTC,3.245265839457461
+KJ28: Subang Jaya,AG06: Bandaraya,2218,Subang Jaya,Bandaraya,3.3459615418131414
+KJ28: Subang Jaya,AG07: Masjid Jamek,7308,Subang Jaya,Masjid Jamek,3.8637985386805003
+KJ28: Subang Jaya,AG10: Pudu,1059,Subang Jaya,Pudu,3.024895960107485
+KJ28: Subang Jaya,AG18: Ampang,2418,Subang Jaya,Ampang,3.383456296524753
+KJ28: Subang Jaya,KG06: Kota Damansara,869,Subang Jaya,Kota Damansara,2.9390197764486663
+KJ28: Subang Jaya,KG07: Surian,585,Subang Jaya,Surian,2.7671558660821804
+KJ28: Subang Jaya,KG08: Mutiara Damansara,1634,Subang Jaya,Mutiara Damansara,3.2132520521963968
+KJ28: Subang Jaya,KG09: Bandar Utama,1712,Subang Jaya,Bandar Utama,3.2335037603411343
+KJ28: Subang Jaya,KG10: TTDI,889,Subang Jaya,TTDI,2.9489017609702137
+KJ28: Subang Jaya,KG13: Pusat Bandar Damansara,1500,Subang Jaya,Pusat Bandar Damansara,3.1760912590556813
+KJ28: Subang Jaya,KG14: Semantan,2126,Subang Jaya,Semantan,3.327563260187278
+KJ28: Subang Jaya,KG15: Muzium Negara,115,Subang Jaya,Muzium Negara,2.060697840353612
+KJ28: Subang Jaya,KG16: Pasar Seni,3957,Subang Jaya,Pasar Seni,3.597366050266028
+KJ28: Subang Jaya,KG18: Bukit Bintang,8991,Subang Jaya,Bukit Bintang,3.953807997665307
+KJ28: Subang Jaya,KG20: Tun Razak Exchange,8127,Subang Jaya,Tun Razak Exchange,3.9099302597528305
+KJ28: Subang Jaya,KG21: Cochrane,3340,Subang Jaya,Cochrane,3.5237464668115646
+KJ28: Subang Jaya,KG22: Maluri,5371,Subang Jaya,Maluri,3.7300551523755
+KJ28: Subang Jaya,KG25: Taman Mutiara,1577,Subang Jaya,Taman Mutiara,3.197831693328903
+KJ28: Subang Jaya,KG26: Taman Connaught,1851,Subang Jaya,Taman Connaught,3.267406418752904
+KJ28: Subang Jaya,KG35: Kajang,4240,Subang Jaya,Kajang,3.6273658565927325
+KJ28: Subang Jaya,KJ02: Taman Melati,5683,Subang Jaya,Taman Melati,3.7545776560447304
+KJ28: Subang Jaya,KJ03: Wangsa Maju,8204,Subang Jaya,Wangsa Maju,3.9140256516963285
+KJ28: Subang Jaya,KJ04: Sri Rampai,3889,Subang Jaya,Sri Rampai,3.58983794314746
+KJ28: Subang Jaya,KJ09: Ampang Park,21906,Subang Jaya,Ampang Park,4.340563083333371
+KJ28: Subang Jaya,KJ10: KLCC,30442,Subang Jaya,KLCC,4.483473181621222
+KJ28: Subang Jaya,KJ13: Masjid Jamek,8250,Subang Jaya,Masjid Jamek,3.916453948549925
+KJ28: Subang Jaya,KJ14: Pasar Seni,20295,Subang Jaya,Pasar Seni,4.307389055653304
+KJ28: Subang Jaya,KJ15: KL Sentral,63652,Subang Jaya,KL Sentral,4.803812054106214
+KJ28: Subang Jaya,KJ16: Bank Rakyat Bangsar,12145,Subang Jaya,Bank Rakyat Bangsar,4.08439751914115
+KJ28: Subang Jaya,KJ17: Abdullah Hukum,20360,Subang Jaya,Abdullah Hukum,4.308777773664721
+KJ28: Subang Jaya,KJ18: Kerinchi,12367,Subang Jaya,Kerinchi,4.092264360788348
+KJ28: Subang Jaya,KJ19: Universiti,15831,Subang Jaya,Universiti,4.199508348896786
+KJ28: Subang Jaya,KJ21: Asia Jaya,18557,Subang Jaya,Asia Jaya,4.268507767747351
+KJ28: Subang Jaya,MR01: KL Sentral,5,Subang Jaya,KL Sentral,0.6989700043360189
+KJ28: Subang Jaya,MR04: Hang Tuah,1191,Subang Jaya,Hang Tuah,3.0759117614827773
+KJ28: Subang Jaya,MR05: Imbi,87,Subang Jaya,Imbi,1.9395192526186185
+KJ28: Subang Jaya,MR06: Bukit Bintang,26,Subang Jaya,Bukit Bintang,1.414973347970818
+KJ28: Subang Jaya,SP15: Bandar Tasik Selatan,2624,Subang Jaya,Bandar Tasik Selatan,3.4189638307036225
+MR01: KL Sentral,AG04: PWTC,3028,KL Sentral,PWTC,3.4811558708280352
+MR01: KL Sentral,AG06: Bandaraya,1697,KL Sentral,Bandaraya,3.229681842317676
+MR01: KL Sentral,AG07: Masjid Jamek,1220,KL Sentral,Masjid Jamek,3.0863598306747484
+MR01: KL Sentral,AG10: Pudu,7223,KL Sentral,Pudu,3.8587176148602915
+MR01: KL Sentral,AG18: Ampang,9447,KL Sentral,Ampang,3.975293915356206
+MR01: KL Sentral,KG06: Kota Damansara,7,KL Sentral,Kota Damansara,0.8450980400142568
+MR01: KL Sentral,KG07: Surian,18,KL Sentral,Surian,1.255272505103306
+MR01: KL Sentral,KG08: Mutiara Damansara,19,KL Sentral,Mutiara Damansara,1.2787536009528289
+MR01: KL Sentral,KG09: Bandar Utama,31,KL Sentral,Bandar Utama,1.4913616938342726
+MR01: KL Sentral,KG10: TTDI,7,KL Sentral,TTDI,0.8450980400142568
+MR01: KL Sentral,KG13: Pusat Bandar Damansara,8,KL Sentral,Pusat Bandar Damansara,0.9030899869919435
+MR01: KL Sentral,KG14: Semantan,8,KL Sentral,Semantan,0.9030899869919435
+MR01: KL Sentral,KG15: Muzium Negara,29,KL Sentral,Muzium Negara,1.462397997898956
+MR01: KL Sentral,KG16: Pasar Seni,65,KL Sentral,Pasar Seni,1.8129133566428555
+MR01: KL Sentral,KG18: Bukit Bintang,56,KL Sentral,Bukit Bintang,1.7481880270062005
+MR01: KL Sentral,KG20: Tun Razak Exchange,296,KL Sentral,Tun Razak Exchange,2.4712917110589387
+MR01: KL Sentral,KG21: Cochrane,171,KL Sentral,Cochrane,2.2329961103921536
+MR01: KL Sentral,KG22: Maluri,2203,KL Sentral,Maluri,3.343014497150768
+MR01: KL Sentral,KG25: Taman Mutiara,95,KL Sentral,Taman Mutiara,1.9777236052888478
+MR01: KL Sentral,KG26: Taman Connaught,74,KL Sentral,Taman Connaught,1.8692317197309762
+MR01: KL Sentral,KG35: Kajang,51,KL Sentral,Kajang,1.7075701760979363
+MR01: KL Sentral,KJ02: Taman Melati,8,KL Sentral,Taman Melati,0.9030899869919435
+MR01: KL Sentral,KJ03: Wangsa Maju,34,KL Sentral,Wangsa Maju,1.5314789170422551
+MR01: KL Sentral,KJ04: Sri Rampai,17,KL Sentral,Sri Rampai,1.2304489213782739
+MR01: KL Sentral,KJ09: Ampang Park,20,KL Sentral,Ampang Park,1.3010299956639813
+MR01: KL Sentral,KJ10: KLCC,286,KL Sentral,KLCC,2.456366033129043
+MR01: KL Sentral,KJ13: Masjid Jamek,61,KL Sentral,Masjid Jamek,1.7853298350107671
+MR01: KL Sentral,KJ14: Pasar Seni,161,KL Sentral,Pasar Seni,2.2068258760318495
+MR01: KL Sentral,KJ15: KL Sentral,50,KL Sentral,KL Sentral,1.6989700043360187
+MR01: KL Sentral,KJ16: Bank Rakyat Bangsar,9,KL Sentral,Bank Rakyat Bangsar,0.9542425094393249
+MR01: KL Sentral,KJ17: Abdullah Hukum,20,KL Sentral,Abdullah Hukum,1.3010299956639813
+MR01: KL Sentral,KJ18: Kerinchi,12,KL Sentral,Kerinchi,1.0791812460476249
+MR01: KL Sentral,KJ19: Universiti,3,KL Sentral,Universiti,0.47712125471966244
+MR01: KL Sentral,KJ21: Asia Jaya,3,KL Sentral,Asia Jaya,0.47712125471966244
+MR01: KL Sentral,KJ28: Subang Jaya,17,KL Sentral,Subang Jaya,1.2304489213782739
+MR01: KL Sentral,MR04: Hang Tuah,71421,KL Sentral,Hang Tuah,4.853825926666642
+MR01: KL Sentral,MR05: Imbi,131959,KL Sentral,Imbi,5.12043901575382
+MR01: KL Sentral,MR06: Bukit Bintang,199402,KL Sentral,Bukit Bintang,5.2997295099666495
+MR01: KL Sentral,SP15: Bandar Tasik Selatan,5390,KL Sentral,Bandar Tasik Selatan,3.7315887651867388
+MR04: Hang Tuah,AG04: PWTC,11332,Hang Tuah,PWTC,4.0543065658484
+MR04: Hang Tuah,AG06: Bandaraya,14619,Hang Tuah,Bandaraya,4.164917666100957
+MR04: Hang Tuah,AG07: Masjid Jamek,31604,Hang Tuah,Masjid Jamek,4.499742053124383
+MR04: Hang Tuah,AG10: Pudu,17313,Hang Tuah,Pudu,4.2383723290283255
+MR04: Hang Tuah,AG18: Ampang,14215,Hang Tuah,Ampang,4.152746864026461
+MR04: Hang Tuah,KG06: Kota Damansara,1286,Hang Tuah,Kota Damansara,3.109240968588203
+MR04: Hang Tuah,KG07: Surian,1555,Hang Tuah,Surian,3.1917303933628562
+MR04: Hang Tuah,KG08: Mutiara Damansara,1229,Hang Tuah,Mutiara Damansara,3.089551882886454
+MR04: Hang Tuah,KG09: Bandar Utama,2405,Hang Tuah,Bandar Utama,3.3811150807098507
+MR04: Hang Tuah,KG10: TTDI,1030,Hang Tuah,TTDI,3.012837224705172
+MR04: Hang Tuah,KG13: Pusat Bandar Damansara,1845,Hang Tuah,Pusat Bandar Damansara,3.265996370495079
+MR04: Hang Tuah,KG14: Semantan,994,Hang Tuah,Semantan,2.997386384397313
+MR04: Hang Tuah,KG15: Muzium Negara,469,Hang Tuah,Muzium Negara,2.6711728427150834
+MR04: Hang Tuah,KG16: Pasar Seni,2385,Hang Tuah,Pasar Seni,3.3774883833761327
+MR04: Hang Tuah,KG18: Bukit Bintang,1429,Hang Tuah,Bukit Bintang,3.1550322287909704
+MR04: Hang Tuah,KG20: Tun Razak Exchange,6425,Hang Tuah,Tun Razak Exchange,3.807873132003332
+MR04: Hang Tuah,KG21: Cochrane,5281,Hang Tuah,Cochrane,3.7227161674884948
+MR04: Hang Tuah,KG22: Maluri,15466,Hang Tuah,Maluri,4.1893780058420305
+MR04: Hang Tuah,KG25: Taman Mutiara,4797,Hang Tuah,Taman Mutiara,3.680969718465897
+MR04: Hang Tuah,KG26: Taman Connaught,4041,Hang Tuah,Taman Connaught,3.606488850442648
+MR04: Hang Tuah,KG35: Kajang,3190,Hang Tuah,Kajang,3.503790683057181
+MR04: Hang Tuah,KJ02: Taman Melati,3782,Hang Tuah,Taman Melati,3.577721524509021
+MR04: Hang Tuah,KJ03: Wangsa Maju,6301,Hang Tuah,Wangsa Maju,3.799409479615127
+MR04: Hang Tuah,KJ04: Sri Rampai,3132,Hang Tuah,Sri Rampai,3.495821753385906
+MR04: Hang Tuah,KJ09: Ampang Park,2069,Hang Tuah,Ampang Park,3.3157604906657347
+MR04: Hang Tuah,KJ10: KLCC,11811,Hang Tuah,KLCC,4.072286669509892
+MR04: Hang Tuah,KJ13: Masjid Jamek,626,Hang Tuah,Masjid Jamek,2.7965743332104296
+MR04: Hang Tuah,KJ14: Pasar Seni,4478,Hang Tuah,Pasar Seni,3.6510840892430116
+MR04: Hang Tuah,KJ15: KL Sentral,1470,Hang Tuah,KL Sentral,3.167317334748176
+MR04: Hang Tuah,KJ16: Bank Rakyat Bangsar,2153,Hang Tuah,Bank Rakyat Bangsar,3.3330440298234874
+MR04: Hang Tuah,KJ17: Abdullah Hukum,3930,Hang Tuah,Abdullah Hukum,3.5943925503754266
+MR04: Hang Tuah,KJ18: Kerinchi,2009,Hang Tuah,Kerinchi,3.3029799367482493
+MR04: Hang Tuah,KJ19: Universiti,2649,Hang Tuah,Universiti,3.423081958297231
+MR04: Hang Tuah,KJ21: Asia Jaya,1162,Hang Tuah,Asia Jaya,3.065206128054312
+MR04: Hang Tuah,KJ28: Subang Jaya,950,Hang Tuah,Subang Jaya,2.9777236052888476
+MR04: Hang Tuah,MR01: KL Sentral,63916,Hang Tuah,KL Sentral,4.8056095880787035
+MR04: Hang Tuah,MR05: Imbi,24204,Hang Tuah,Imbi,4.38388714426039
+MR04: Hang Tuah,MR06: Bukit Bintang,117537,Hang Tuah,Bukit Bintang,5.070174601640649
+MR04: Hang Tuah,SP15: Bandar Tasik Selatan,17370,Hang Tuah,Bandar Tasik Selatan,4.239799818447099
+MR05: Imbi,AG04: PWTC,5275,Imbi,PWTC,3.72222246396973
+MR05: Imbi,AG06: Bandaraya,6069,Imbi,Bandaraya,3.7831171374904673
+MR05: Imbi,AG07: Masjid Jamek,10467,Imbi,Masjid Jamek,4.019822224167774
+MR05: Imbi,AG10: Pudu,10752,Imbi,Pudu,4.03148925570975
+MR05: Imbi,AG18: Ampang,7899,Imbi,Ampang,3.8975721138257304
+MR05: Imbi,KG06: Kota Damansara,52,Imbi,Kota Damansara,1.7160033436347992
+MR05: Imbi,KG07: Surian,68,Imbi,Surian,1.8325089127062364
+MR05: Imbi,KG08: Mutiara Damansara,66,Imbi,Mutiara Damansara,1.8195439355418688
+MR05: Imbi,KG09: Bandar Utama,125,Imbi,Bandar Utama,2.0969100130080562
+MR05: Imbi,KG10: TTDI,36,Imbi,TTDI,1.5563025007672873
+MR05: Imbi,KG13: Pusat Bandar Damansara,20,Imbi,Pusat Bandar Damansara,1.3010299956639813
+MR05: Imbi,KG14: Semantan,29,Imbi,Semantan,1.462397997898956
+MR05: Imbi,KG15: Muzium Negara,55,Imbi,Muzium Negara,1.7403626894942439
+MR05: Imbi,KG16: Pasar Seni,311,Imbi,Pasar Seni,2.4927603890268375
+MR05: Imbi,KG18: Bukit Bintang,71,Imbi,Bukit Bintang,1.8512583487190752
+MR05: Imbi,KG20: Tun Razak Exchange,645,Imbi,Tun Razak Exchange,2.8095597146352675
+MR05: Imbi,KG21: Cochrane,877,Imbi,Cochrane,2.9429995933660407
+MR05: Imbi,KG22: Maluri,3226,Imbi,Maluri,3.508664363052943
+MR05: Imbi,KG25: Taman Mutiara,270,Imbi,Taman Mutiara,2.4313637641589874
+MR05: Imbi,KG26: Taman Connaught,299,Imbi,Taman Connaught,2.4756711883244296
+MR05: Imbi,KG35: Kajang,205,Imbi,Kajang,2.311753861055754
+MR05: Imbi,KJ02: Taman Melati,781,Imbi,Taman Melati,2.8926510338773004
+MR05: Imbi,KJ03: Wangsa Maju,865,Imbi,Wangsa Maju,2.9370161074648142
+MR05: Imbi,KJ04: Sri Rampai,479,Imbi,Sri Rampai,2.680335513414563
+MR05: Imbi,KJ09: Ampang Park,282,Imbi,Ampang Park,2.450249108319361
+MR05: Imbi,KJ10: KLCC,1780,Imbi,KLCC,3.250420002308894
+MR05: Imbi,KJ13: Masjid Jamek,335,Imbi,Masjid Jamek,2.525044807036845
+MR05: Imbi,KJ14: Pasar Seni,916,Imbi,Pasar Seni,2.9618954736678504
+MR05: Imbi,KJ15: KL Sentral,87,Imbi,KL Sentral,1.9395192526186185
+MR05: Imbi,KJ16: Bank Rakyat Bangsar,84,Imbi,Bank Rakyat Bangsar,1.9242792860618816
+MR05: Imbi,KJ17: Abdullah Hukum,161,Imbi,Abdullah Hukum,2.2068258760318495
+MR05: Imbi,KJ18: Kerinchi,58,Imbi,Kerinchi,1.7634279935629373
+MR05: Imbi,KJ19: Universiti,80,Imbi,Universiti,1.9030899869919435
+MR05: Imbi,KJ21: Asia Jaya,49,Imbi,Asia Jaya,1.6901960800285136
+MR05: Imbi,KJ28: Subang Jaya,86,Imbi,Subang Jaya,1.9344984512435677
+MR05: Imbi,MR01: KL Sentral,126591,Imbi,KL Sentral,5.102402830568566
+MR05: Imbi,MR04: Hang Tuah,29374,Imbi,Hang Tuah,4.467963090535135
+MR05: Imbi,MR06: Bukit Bintang,159729,Imbi,Bukit Bintang,5.203383772723263
+MR05: Imbi,SP15: Bandar Tasik Selatan,6965,Imbi,Bandar Tasik Selatan,3.8429211207599825
+MR06: Bukit Bintang,AG04: PWTC,10266,Bukit Bintang,PWTC,4.011401259924744
+MR06: Bukit Bintang,AG06: Bandaraya,6911,Bukit Bintang,Bandaraya,3.839540892968969
+MR06: Bukit Bintang,AG07: Masjid Jamek,8804,Bukit Bintang,Masjid Jamek,3.94468003388131
+MR06: Bukit Bintang,AG10: Pudu,17553,Bukit Bintang,Pudu,4.244351352830381
+MR06: Bukit Bintang,AG18: Ampang,6525,Bukit Bintang,Ampang,3.814580516010319
+MR06: Bukit Bintang,KG06: Kota Damansara,49,Bukit Bintang,Kota Damansara,1.6901960800285136
+MR06: Bukit Bintang,KG07: Surian,40,Bukit Bintang,Surian,1.6020599913279623
+MR06: Bukit Bintang,KG08: Mutiara Damansara,52,Bukit Bintang,Mutiara Damansara,1.7160033436347992
+MR06: Bukit Bintang,KG09: Bandar Utama,59,Bukit Bintang,Bandar Utama,1.7708520116421442
+MR06: Bukit Bintang,KG10: TTDI,50,Bukit Bintang,TTDI,1.6989700043360187
+MR06: Bukit Bintang,KG13: Pusat Bandar Damansara,13,Bukit Bintang,Pusat Bandar Damansara,1.1139433523068367
+MR06: Bukit Bintang,KG14: Semantan,28,Bukit Bintang,Semantan,1.4471580313422192
+MR06: Bukit Bintang,KG15: Muzium Negara,128,Bukit Bintang,Muzium Negara,2.1072099696478683
+MR06: Bukit Bintang,KG16: Pasar Seni,347,Bukit Bintang,Pasar Seni,2.5403294747908736
+MR06: Bukit Bintang,KG18: Bukit Bintang,142,Bukit Bintang,Bukit Bintang,2.1522883443830563
+MR06: Bukit Bintang,KG20: Tun Razak Exchange,318,Bukit Bintang,Tun Razak Exchange,2.5024271199844326
+MR06: Bukit Bintang,KG21: Cochrane,193,Bukit Bintang,Cochrane,2.285557309007774
+MR06: Bukit Bintang,KG22: Maluri,802,Bukit Bintang,Maluri,2.9041743682841634
+MR06: Bukit Bintang,KG25: Taman Mutiara,137,Bukit Bintang,Taman Mutiara,2.1367205671564067
+MR06: Bukit Bintang,KG26: Taman Connaught,143,Bukit Bintang,Taman Connaught,2.155336037465062
+MR06: Bukit Bintang,KG35: Kajang,85,Bukit Bintang,Kajang,1.9294189257142926
+MR06: Bukit Bintang,KJ02: Taman Melati,148,Bukit Bintang,Taman Melati,2.1702617153949575
+MR06: Bukit Bintang,KJ03: Wangsa Maju,191,Bukit Bintang,Wangsa Maju,2.2810333672477277
+MR06: Bukit Bintang,KJ04: Sri Rampai,95,Bukit Bintang,Sri Rampai,1.9777236052888478
+MR06: Bukit Bintang,KJ09: Ampang Park,74,Bukit Bintang,Ampang Park,1.8692317197309762
+MR06: Bukit Bintang,KJ10: KLCC,939,Bukit Bintang,KLCC,2.972665592266111
+MR06: Bukit Bintang,KJ13: Masjid Jamek,356,Bukit Bintang,Masjid Jamek,2.5514499979728753
+MR06: Bukit Bintang,KJ14: Pasar Seni,673,Bukit Bintang,Pasar Seni,2.828015064223977
+MR06: Bukit Bintang,KJ15: KL Sentral,77,Bukit Bintang,KL Sentral,1.8864907251724818
+MR06: Bukit Bintang,KJ16: Bank Rakyat Bangsar,64,Bukit Bintang,Bank Rakyat Bangsar,1.806179973983887
+MR06: Bukit Bintang,KJ17: Abdullah Hukum,129,Bukit Bintang,Abdullah Hukum,2.110589710299249
+MR06: Bukit Bintang,KJ18: Kerinchi,29,Bukit Bintang,Kerinchi,1.462397997898956
+MR06: Bukit Bintang,KJ19: Universiti,27,Bukit Bintang,Universiti,1.4313637641589874
+MR06: Bukit Bintang,KJ21: Asia Jaya,35,Bukit Bintang,Asia Jaya,1.5440680443502757
+MR06: Bukit Bintang,KJ28: Subang Jaya,91,Bukit Bintang,Subang Jaya,1.9590413923210936
+MR06: Bukit Bintang,MR01: KL Sentral,175882,Bukit Bintang,KL Sentral,5.245221395451337
+MR06: Bukit Bintang,MR04: Hang Tuah,107036,Bukit Bintang,Hang Tuah,5.029529870879775
+MR06: Bukit Bintang,MR05: Imbi,137617,Bukit Bintang,Imbi,5.138672086153544
+MR06: Bukit Bintang,SP15: Bandar Tasik Selatan,9614,Bukit Bintang,Bandar Tasik Selatan,3.982904117792628
+SP15: Bandar Tasik Selatan,AG04: PWTC,15323,Bandar Tasik Selatan,PWTC,4.185343801582189
+SP15: Bandar Tasik Selatan,AG06: Bandaraya,23383,Bandar Tasik Selatan,Bandaraya,4.368900229660007
+SP15: Bandar Tasik Selatan,AG07: Masjid Jamek,61412,Bandar Tasik Selatan,Masjid Jamek,4.788253241248314
+SP15: Bandar Tasik Selatan,AG10: Pudu,22278,Bandar Tasik Selatan,Pudu,4.347876199609803
+SP15: Bandar Tasik Selatan,AG18: Ampang,13814,Bandar Tasik Selatan,Ampang,4.140319451670128
+SP15: Bandar Tasik Selatan,KG06: Kota Damansara,2044,Bandar Tasik Selatan,Kota Damansara,3.3104808914626753
+SP15: Bandar Tasik Selatan,KG07: Surian,2218,Bandar Tasik Selatan,Surian,3.3459615418131414
+SP15: Bandar Tasik Selatan,KG08: Mutiara Damansara,2754,Bandar Tasik Selatan,Mutiara Damansara,3.439963935920905
+SP15: Bandar Tasik Selatan,KG09: Bandar Utama,3132,Bandar Tasik Selatan,Bandar Utama,3.495821753385906
+SP15: Bandar Tasik Selatan,KG10: TTDI,2276,Bandar Tasik Selatan,TTDI,3.3571722577230334
+SP15: Bandar Tasik Selatan,KG13: Pusat Bandar Damansara,955,Bandar Tasik Selatan,Pusat Bandar Damansara,2.9800033715837464
+SP15: Bandar Tasik Selatan,KG14: Semantan,2143,Bandar Tasik Selatan,Semantan,3.3310221710418286
+SP15: Bandar Tasik Selatan,KG15: Muzium Negara,1490,Bandar Tasik Selatan,Muzium Negara,3.173186268412274
+SP15: Bandar Tasik Selatan,KG16: Pasar Seni,2362,Bandar Tasik Selatan,Pasar Seni,3.373279893277496
+SP15: Bandar Tasik Selatan,KG18: Bukit Bintang,7102,Bandar Tasik Selatan,Bukit Bintang,3.851380667965597
+SP15: Bandar Tasik Selatan,KG20: Tun Razak Exchange,11867,Bandar Tasik Selatan,Tun Razak Exchange,4.074340942365077
+SP15: Bandar Tasik Selatan,KG21: Cochrane,7749,Bandar Tasik Selatan,Cochrane,3.8892456608929797
+SP15: Bandar Tasik Selatan,KG22: Maluri,10184,Bandar Tasik Selatan,Maluri,4.007918390645599
+SP15: Bandar Tasik Selatan,KG25: Taman Mutiara,1577,Bandar Tasik Selatan,Taman Mutiara,3.197831693328903
+SP15: Bandar Tasik Selatan,KG26: Taman Connaught,805,Bandar Tasik Selatan,Taman Connaught,2.9057958803678687
+SP15: Bandar Tasik Selatan,KG35: Kajang,3486,Bandar Tasik Selatan,Kajang,3.5423273827739745
+SP15: Bandar Tasik Selatan,KJ02: Taman Melati,4156,Bandar Tasik Selatan,Taman Melati,3.6186755388851397
+SP15: Bandar Tasik Selatan,KJ03: Wangsa Maju,8091,Bandar Tasik Selatan,Wangsa Maju,3.9080022011725535
+SP15: Bandar Tasik Selatan,KJ04: Sri Rampai,3412,Bandar Tasik Selatan,Sri Rampai,3.5330090224954853
+SP15: Bandar Tasik Selatan,KJ09: Ampang Park,900,Bandar Tasik Selatan,Ampang Park,2.9542425094393248
+SP15: Bandar Tasik Selatan,KJ10: KLCC,10668,Bandar Tasik Selatan,KLCC,4.028083007017838
+SP15: Bandar Tasik Selatan,KJ13: Masjid Jamek,2132,Bandar Tasik Selatan,Masjid Jamek,3.3287872003545345
+SP15: Bandar Tasik Selatan,KJ14: Pasar Seni,6425,Bandar Tasik Selatan,Pasar Seni,3.807873132003332
+SP15: Bandar Tasik Selatan,KJ15: KL Sentral,11440,Bandar Tasik Selatan,KL Sentral,4.058426024457005
+SP15: Bandar Tasik Selatan,KJ16: Bank Rakyat Bangsar,3969,Bandar Tasik Selatan,Bank Rakyat Bangsar,3.5986810989071634
+SP15: Bandar Tasik Selatan,KJ17: Abdullah Hukum,6861,Bandar Tasik Selatan,Abdullah Hukum,3.836387419326411
+SP15: Bandar Tasik Selatan,KJ18: Kerinchi,3316,Bandar Tasik Selatan,Kerinchi,3.520614521878236
+SP15: Bandar Tasik Selatan,KJ19: Universiti,4483,Bandar Tasik Selatan,Universiti,3.651568738865792
+SP15: Bandar Tasik Selatan,KJ21: Asia Jaya,2326,Bandar Tasik Selatan,Asia Jaya,3.3666097103924297
+SP15: Bandar Tasik Selatan,KJ28: Subang Jaya,2919,Bandar Tasik Selatan,Subang Jaya,3.4652340949880145
+SP15: Bandar Tasik Selatan,MR01: KL Sentral,6905,Bandar Tasik Selatan,KL Sentral,3.8391636829146503
+SP15: Bandar Tasik Selatan,MR04: Hang Tuah,15821,Bandar Tasik Selatan,Hang Tuah,4.199233930536902
+SP15: Bandar Tasik Selatan,MR05: Imbi,7179,Bandar Tasik Selatan,Imbi,3.8560639533331
+SP15: Bandar Tasik Selatan,MR06: Bukit Bintang,12418,Bandar Tasik Selatan,Bukit Bintang,4.094051655509965

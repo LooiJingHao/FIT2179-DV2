@@ -1,0 +1,16 @@
+origin,destination,ridership,route
+Batu Caves,KL Sentral,132548,Batu Caves ➔ KL Sentral
+KL Sentral,Batu Caves,129461,KL Sentral ➔ Batu Caves
+Rawang,Sungai Buloh,52984,Rawang ➔ Sungai Buloh
+KL Sentral,Tanjong Malim,52416,KL Sentral ➔ Tanjong Malim
+Sungai Buloh,Rawang,51637,Sungai Buloh ➔ Rawang
+Tanjong Malim,KL Sentral,50975,Tanjong Malim ➔ KL Sentral
+KL Sentral,Rawang,50522,KL Sentral ➔ Rawang
+KL Sentral,Seremban,49930,KL Sentral ➔ Seremban
+Rawang,KL Sentral,43911,Rawang ➔ KL Sentral
+Seremban,KL Sentral,42492,Seremban ➔ KL Sentral
+Seremban,Kajang,36989,Seremban ➔ Kajang
+Batu Caves,Kuala Lumpur,36511,Batu Caves ➔ Kuala Lumpur
+Subang Jaya,Klang,32392,Subang Jaya ➔ Klang
+Batu Caves,Kampung Batu,31315,Batu Caves ➔ Kampung Batu
+Kampung Batu,Batu Caves,30140,Kampung Batu ➔ Batu Caves
