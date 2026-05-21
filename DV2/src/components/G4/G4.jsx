@@ -11,12 +11,13 @@ export default function G4() {
     <section className="ridership-focus-section">
       <div className="ridership-focus-container">
         <div className="ridership-focus-text">
-          <p className="section-label">National Ridership Trend</p>
-          <h2>How Has Public Transport Ridership Changed Over Time?</h2>
+          <p className="section-label">Act 1: The National Ambition</p>
+          <h2>The Resurgence: A Nation Returning to Rails and Roads</h2>
           <p>
-            Rail and bus ridership follow different demand patterns across Malaysia.
-            The overview timeline below allows users to drag across a selected period,
-            updating the main chart to reveal short-term changes and long-term movement trends.
+            Malaysia's public transport story begins with a massive rebound. Following years of disruption, 
+            national ridership has surged back to life. This timeline reveals the <strong>scale of our collective movement</strong>, 
+            showing how millions have returned to rail and bus networks as the backbone of their daily lives. 
+            But as demand reaches new heights, the system faces its next great challenge: handling the weight of its own success.
           </p>
         </div>
 

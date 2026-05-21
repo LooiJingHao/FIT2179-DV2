@@ -11,10 +11,13 @@ export default function G5() {
     <section className="transport-count-map-section">
       <div className="transport-count-map-container">
         <div className="transport-count-map-text">
-          <p className="section-label">National Overview</p>
-          <h2>Where Are Public Transport Access Points Concentrated?</h2>
+          <p className="section-label">Act 2: The Geographic Reality</p>
+          <h2>The Infrastructure Gap: Where is the System Centered?</h2>
           <p>
-            This map combines <strong>bus terminals</strong> and <strong>LRT stations</strong> to show how selected public transport infrastructure is distributed across Malaysian states. Higher counts are concentrated in more urbanised regions, setting the national context before zooming into Klang Valley’s passenger movement patterns.
+            While demand is national, infrastructure is a story of concentration. This map reveals a 
+            <strong>geographic skew</strong>: public transport access points are heavily clustered in urban 
+            economic engines. As we see the concentration of bus terminals and LRT stations, a critical question 
+            emerges—how does this spatial imbalance create friction as millions funnel into just a few key regions?
           </p>
         </div>
 

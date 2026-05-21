@@ -6,6 +6,8 @@ import G4 from './components/G4/G4.jsx'
 import G5 from './components/G5/G5.jsx'
 import G6 from './components/G6/G6.jsx'
 import G7 from './components/G7/G7.jsx'
+import G8 from './components/G8/G8.jsx'
+import G9 from './components/G9/G9.jsx'
 
 
 
@@ -16,12 +18,14 @@ export default function App(){
   return (
     <>
       <Header />
-      <G1 />
-      <G3 />
-      <G4 />
-      <G5 />
-      <G6 />
-      <G7 />
+      <G4 /> {/* Act 1 */}
+      <G5 /> {/* Act 2 */}
+      <G3 /> {/* Act 3 */}
+      <G1 /> {/* Act 4 */}
+      <G6 /> {/* Act 5 */}
+      <G7 /> {/* Act 6 */}
+      <G8 /> {/* Act 7 */}
+      <G9 /> {/* Act 8 */}
     </>
   )
 }

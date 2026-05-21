@@ -13,17 +13,16 @@ export default function G6() {
         
         <div className="ranking-text-block">
           <p className="section-label">
-            Act 3: Grid Demand Breakdown
+            Act 5: The Breaking Points
           </p>
           <h2>
-            Unveiling Network Bottlenecks: Top 15 High-Demand Commuter Links
+            Evidence of Strain: The Links Bearing the Heaviest Weight
           </h2>
           <p>
-            To truly understand urban mobility friction, we must isolate the specific pathways bearing the heaviest weights. 
-            By sorting travel corridors by total ridership, this visualization reveals that demand is heavily concentrated. 
-            The twin routes between <strong>Batu Caves and KL Sentral</strong> overwhelmingly dominate the network, each generating 
-            over 130,000 trips. This targeted view provides clear data-driven evidence of where rail expansions and extra train 
-            frequencies are most urgently needed to reduce passenger overcrowding.
+            To understand the true limits of our growth, we must isolate the specific pathways reaching their 
+            breaking points. This data-driven rank reveals the <strong>"Twin Giants"</strong> of the network—the 
+            Batu Caves ➔ KL Sentral corridors. These specific links generate over 130,000 trips each, proving that 
+            network resilience is dictated by just a few high-friction corridors that demand urgent attention.
           </p>
         </div>
 

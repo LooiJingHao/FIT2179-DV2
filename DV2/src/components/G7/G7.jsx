@@ -12,18 +12,17 @@ export default function G7() {
         
         <div className="text-block">
           <p className="section-label">
-            Act 4: Macro Temporal Rhythms
+            Act 6: The Cultural Pulse
           </p>
           <h2>
-            The Pulse of Heavy Rail: Analyzing Seasonal Travel Behaviors
+            Beyond the Grind: The Rhythms of a Nation Reunited
           </h2>
           <p>
-            Urban mobility isn't limited to daily home-to-work routines within city limits. By isolating 
-            regional and interstate heavy rail systems (KTMB), we uncover a completely different rhythmic cycle. 
-            Use the interactive selection menu below to toggle sectors; notice how premium interstate corridors like 
-            the <strong>ETS</strong> display sharp, recurring hotspots matching national holiday windows and festive periods. 
-            This structural variation proves that regional accessibility serves a vital cultural and leisure requirement, distinct 
-            from high-frequency urban corridors.
+            Urban mobility isn't just about the home-to-work routine; it has a deeper, cultural heartbeat. 
+            By looking at 2025 seasonal behaviors, we see <strong>interstate friction</strong>. While urban 
+            lines face daily pressure, the ETS and Intercity corridors pulse during festive periods and holidays. 
+            This proves that transit is a vital cultural lifeline, moving families back to their roots across 
+            the nation during Malaysia's most important moments.
           </p>
         </div>
 

@@ -8,8 +8,8 @@ export default function Header(){
     return (
         <>
             <div className="header-container">
-                <h1>A Data Story of Public Transport Accesibility and Urban Mobility</h1>
-                <p>Mapping the growth, accessibility, and challenges of Malaysia's public transport landscape</p>
+                <h1>Moving Malaysia</h1>
+                <p>A Data Story of Our Growing Public Transport and its Challenges</p>
             </div>
             <div className="intro-parag">
                 <h2>Introduction</h2>

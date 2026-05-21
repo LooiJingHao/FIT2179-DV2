@@ -10,11 +10,15 @@ export default function(){
     return (
         <>
             <div className="container">
-                <h2>Where Do Klang Valley Passengers Travel Most?</h2>
+                <p className="section-label">Act 4: The Commuter Web</p>
+                <h2>Systemic Friction: The Struggle of Shared Paths</h2>
                 <div className="graph-container">
                     <div id="adjacency-matrix"></div>
                     <div className="text-container">
-                        <p>Passenger flows are not evenly distributed across Klang Valley's rail network. Darker cells show that a small number of <strong>origin-destination pairs</strong> carry much higher ridership, suggesting that commuter demand is concentrated around several important station corridors rather than spread equally across all routes.</p>
+                        <p>Passenger flows are not just numbers; they are paths of least resistance. This matrix reveals that 
+                        commuters aren't spreading out; they are essentially <strong>trying to occupy the same spaces 
+                        at the same time</strong>. The dark cells highlight specific origin-destination pairs where 
+                        demand is hyper-concentrated, creating intense friction in the daily urban commute.</p>
                         <p>.......</p>
                     </div>
                 </div>
