@@ -74,7 +74,7 @@ export function render_ktmb_heatmap() {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "background": "#F8FAFC",
     "data": { 
-      "url": "../data/ridership_ktmb_monthly (2).csv",
+      "url": "data/ridership_ktmb_monthly (2).csv",
       "format": { "parse": { "date": "date" } }
     },
     

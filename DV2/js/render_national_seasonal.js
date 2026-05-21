@@ -8,7 +8,7 @@ export function render_national_seasonal_chart() {
     "height": 400,
     "background": "#F8FAFC",
     "data": {
-      "url": "/data/national_seasonal_ridership.csv"
+      "url": "data/national_seasonal_ridership.csv"
     },
     "mark": {
       "type": "line",

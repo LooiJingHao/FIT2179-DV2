@@ -27,7 +27,7 @@ export function transport_count_map() {
     "layer": [
       {
         "data": {
-          "url": "../data/ne_10m_admin_0_countries.topojson",
+          "url": "data/ne_10m_admin_0_countries.topojson",
           "format": {
             "type": "topojson",
             "feature": "ne_10m_admin_0_countries"
@@ -43,7 +43,7 @@ export function transport_count_map() {
 
       {
         "data": {
-          "url": "../data/malaysia_states.topojson",
+          "url": "data/malaysia_states.topojson",
           "format": {
             "type": "topojson",
             "feature": "geoBoundaries-MYS-ADM1_simplified"
@@ -55,7 +55,7 @@ export function transport_count_map() {
             "lookup": "properties.shapeName",
             "from": {
               "data": {
-                "url": "../data/transport_count_by_state.csv"
+                "url": "data/transport_count_by_state.csv"
               },
               "key": "State",
               "fields": ["bus_count", "lrt_count", "total_count"]

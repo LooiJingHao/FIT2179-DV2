@@ -8,7 +8,7 @@ export function station_hubs_chart() {
     "height": 420,
 
     "data": {
-      "url": "/data/station_hubs_top10.csv"
+      "url": "data/station_hubs_top10.csv"
     },
 
     "transform": [

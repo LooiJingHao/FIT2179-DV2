@@ -3,7 +3,7 @@ import vegaEmbed from "vega-embed";
 export function ridership_focus_chart() {
   const vegaLiteSpec = {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "data": { "url": "../data/cleaned_ridership.csv" }, 
+    "data": { "url": "data/cleaned_ridership.csv" }, 
     "background": "#F8FAFC",
     "vconcat": [
       {

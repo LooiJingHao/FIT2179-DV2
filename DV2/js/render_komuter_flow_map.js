@@ -7,7 +7,7 @@ export function render_komuter_ranking() {
     "height": 450,
     "background": "#F8FAFC", // Matches your dashboard template
     
-    "data": { "url": "../data/top_komuter_routes.csv" },
+    "data": { "url": "data/top_komuter_routes.csv" },
     
     "mark": {
       "type": "bar",

@@ -8,7 +8,7 @@ export function adjacency_matrix() {
     "height": 400,
 
     "data": {
-      "url": "/data/adjacency_matrix.csv"
+      "url": "data/adjacency_matrix.csv"
     },
 
     "config": {

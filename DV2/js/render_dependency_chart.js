@@ -8,7 +8,7 @@ export function render_dependency_chart() {
     "height": 400,
     "background": "#F8FAFC",
     "data": {
-      "url": "/data/station_dependency.csv"
+      "url": "data/station_dependency.csv"
     },
     "mark": {
       "type": "bar",
