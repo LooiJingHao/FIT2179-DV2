@@ -3,7 +3,6 @@ import embed from "vega-embed";
 export function transport_count_map() {
   const spec = {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-
     "width": 860,
     "height": 470,
 
@@ -14,17 +13,22 @@ export function transport_count_map() {
     },
 
     "config": {
-      "background": "#dceefb",
-      "view": {
-        "stroke": "transparent"
-      },
+      "background": "#A5D8FF", // Ocean Layer Blue
+      "view": { "stroke": "transparent" },
       "legend": {
         "titleFontSize": 12,
-        "labelFontSize": 11
+        "labelFontSize": 11,
+        "orient": "right",
+        "offset": 20,
+        "gradientLength": 220,
+        "fillColor": "#F8FAFC", // Legend background for readability
+        "padding": 10,
+        "cornerRadius": 5
       }
     },
 
     "layer": [
+      // Base layer for surrounding countries
       {
         "data": {
           "url": "data/ne_10m_admin_0_countries.topojson",
@@ -35,12 +39,13 @@ export function transport_count_map() {
         },
         "mark": {
           "type": "geoshape",
-          "fill": "#f5f1e8",
-          "stroke": "#b8b8b8",
-          "strokeWidth": 0.6
+          "fill": "#EDE9E1", // Sandy/Land color for other countries
+          "stroke": "#CBD5E1",
+          "strokeWidth": 0.5
         }
       },
 
+      // Main choropleth layer
       {
         "data": {
           "url": "data/malaysia_states.topojson",
@@ -51,66 +56,89 @@ export function transport_count_map() {
         },
 
         "transform": [
+          // Lookup transport counts
           {
             "lookup": "properties.shapeName",
             "from": {
-              "data": {
-                "url": "data/transport_count_by_state.csv"
-              },
+              "data": { "url": "data/transport_count_by_state.csv" },
               "key": "State",
               "fields": ["bus_count", "lrt_count", "total_count"]
             }
           },
+          // Lookup population data
+          {
+            "lookup": "properties.shapeName",
+            "from": {
+              "data": { "url": "data/state_population.csv" },
+              "key": "State",
+              "fields": ["population_2024"]
+            }
+          },
+          // Normalize: Points per 1,000,000 people
           {
             "calculate": "isValid(datum.total_count) ? datum.total_count : 0",
             "as": "total_count_clean"
+          },
+          {
+            "calculate": "(datum.total_count_clean / datum.population_2024) * 1000000",
+            "as": "points_per_million"
           }
         ],
 
         "mark": {
           "type": "geoshape",
           "stroke": "#ffffff",
-          "strokeWidth": 1.2
+          "strokeWidth": 1
         },
 
         "encoding": {
           "color": {
-            "field": "total_count_clean",
+            "field": "points_per_million",
             "type": "quantitative",
-            "title": "Transport Count",
+            "title": "Stations per 1M People",
             "scale": {
               "scheme": "blues"
-            },
-            "legend": {
-              "orient": "right",
-              "offset": 20,
-              "gradientLength": 220
             }
           },
 
           "tooltip": [
-            {
-              "field": "properties.shapeName",
-              "type": "nominal",
-              "title": "State"
-            },
-            {
-              "field": "bus_count",
-              "type": "quantitative",
-              "title": "Bus Terminals"
-            },
-            {
-              "field": "lrt_count",
-              "type": "quantitative",
-              "title": "LRT Stations"
-            },
-            {
-              "field": "total_count_clean",
-              "type": "quantitative",
-              "title": "Total Count"
+            { "field": "properties.shapeName", "type": "nominal", "title": "State" },
+            { "field": "total_count_clean", "type": "quantitative", "title": "Total Stations/Terminals" },
+            { "field": "population_2024", "type": "quantitative", "title": "Population", "format": "," },
+            { 
+              "field": "points_per_million", 
+              "type": "quantitative", 
+              "title": "Stations per 1M People", 
+              "format": ".2f" 
             }
           ]
         }
+      },
+
+      // Annotation Layer (HD Requirement)
+      {
+        "data": {
+          "values": [
+            { "lat": 3.139, "lon": 101.6869, "label": "Kuala Lumpur: Highest Density" }
+          ]
+        },
+        "layer": [
+          {
+            "mark": { "type": "text", "dy": -10, "fontWeight": "bold", "fontSize": 12 },
+            "encoding": {
+              "longitude": { "field": "lon", "type": "quantitative" },
+              "latitude": { "field": "lat", "type": "quantitative" },
+              "text": { "field": "label", "type": "nominal" }
+            }
+          },
+          {
+            "mark": { "type": "point", "color": "red", "size": 50 },
+            "encoding": {
+              "longitude": { "field": "lon", "type": "quantitative" },
+              "latitude": { "field": "lat", "type": "quantitative" }
+            }
+          }
+        ]
       }
     ]
   };

@@ -62,8 +62,10 @@ export function ridership_focus_chart() {
               "select": {
                 "type": "interval", 
                 "encodings": ["x"], 
+                "on": "[mousedown[event.shiftKey], window:mouseup] > mousemove", // Resize/Select with Shift
+                "translate": "[mousedown[!event.shiftKey], window:mouseup] > mousemove", // Pan without Shift
                 "zoom": false,   // Disables mouse-wheel zooming
-                "clear": false   // NEW: Prevents clicking outside the box from deleting it
+                "clear": false   // Prevents clicking outside the box from deleting it
               },
               "value": { "x": ["2022-01-01", "2022-05-01"] } // The fixed 4-month window
             }],

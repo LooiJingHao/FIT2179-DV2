@@ -3,108 +3,78 @@ import embed from "vega-embed";
 export function station_hubs_chart() {
   const spec = {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 600,
+    "height": 450,
+    "background": "#F8FAFC",
+    "data": { "url": "data/station_hubs_top10.csv" },
 
-    "width": 720,
-    "height": 420,
-
-    "data": {
-      "url": "data/station_hubs_top10.csv"
-    },
-
-    "transform": [
+    "params": [
       {
-        "fold": ["origin_total", "destination_total"],
-        "as": ["movement_type", "ridership"]
-      },
-      {
-        "calculate": "datum.movement_type == 'origin_total' ? 'Origin Ridership' : 'Destination Ridership'",
-        "as": "Movement Type"
+        "name": "hubSort",
+        "value": "total_movement",
+        "bind": {
+          "input": "radio",
+          "options": ["total_movement", "origin_total", "destination_total"],
+          "labels": ["Total Traffic", "Origin only", "Destination only"],
+          "name": "Sort by: "
+        }
       }
     ],
 
-    "config": {
-      "background": "#f7f3e8",
-      "view": {
-        "stroke": "transparent"
+    "transform": [
+      // Create a long format for grouping
+      {
+        "fold": ["origin_total", "destination_total"],
+        "as": ["type", "value"]
       },
-      "axis": {
-        "labelFontSize": 12,
-        "titleFontSize": 13,
-        "labelColor": "#334155",
-        "titleColor": "#1e293b",
-        "gridColor": "#e5e7eb",
-        "domain": false,
-        "ticks": false
+      // Clean names for display
+      {
+        "calculate": "datum.type == 'origin_total' ? 'Outbound (Origin)' : 'Inbound (Destination)'",
+        "as": "Traffic Type"
       },
-      "legend": {
-        "titleFontSize": 12,
-        "labelFontSize": 11,
-        "orient": "bottom"
-      }
-    },
+      // HD FIX: Use a calculated field for sorting to avoid signal duplication
+      { "calculate": "datum[hubSort]", "as": "sortField" }
+    ],
 
-    "mark": {
-      "type": "bar",
-      "cornerRadiusEnd": 4
-    },
+    "mark": { "type": "bar", "cornerRadiusEnd": 3 },
 
     "encoding": {
       "y": {
-        "field": "station_label",
+        "field": "station", // Using unique ID + Name
         "type": "nominal",
         "title": null,
-        "sort": {
-          "field": "total_movement",
-          "order": "descending"
-        },
-        "axis": {
-          "labelLimit": 160
-        }
+        "sort": { "field": "sortField", "order": "descending" },
+        "axis": { "labelFontSize": 11 }
       },
-
       "x": {
-        "field": "ridership",
+        "field": "value",
         "type": "quantitative",
-        "title": "Total Ridership",
-        "axis": {
-          "format": "s"
-        },
-        "stack": "zero"
+        "title": "Annual Passenger Volume",
+        "axis": { "format": "~s", "grid": true }
       },
-
+      "yOffset": {
+        "field": "Traffic Type",
+        "type": "nominal"
+      },
       "color": {
-        "field": "Movement Type",
+        "field": "Traffic Type",
         "type": "nominal",
-        "title": null,
         "scale": {
-          "range": ["#2563eb", "#f59e0b"]
-        }
+          "range": ["#1f77b4", "#ff7f0e"] // Accessible Blue/Orange
+        },
+        "legend": { "orient": "bottom", "title": null }
       },
-
       "tooltip": [
-        {
-          "field": "station",
-          "type": "nominal",
-          "title": "Station"
-        },
-        {
-          "field": "Movement Type",
-          "type": "nominal",
-          "title": "Type"
-        },
-        {
-          "field": "ridership",
-          "type": "quantitative",
-          "title": "Ridership",
-          "format": ",.0f"
-        },
-        {
-          "field": "total_movement",
-          "type": "quantitative",
-          "title": "Total Movement",
-          "format": ",.0f"
-        }
+        { "field": "station", "type": "nominal", "title": "Station ID" },
+        { "field": "station_label", "type": "nominal", "title": "Name" },
+        { "field": "Traffic Type", "type": "nominal" },
+        { "field": "value", "type": "quantitative", "format": ",", "title": "Ridership" },
+        { "field": "total_movement", "type": "quantitative", "format": ",", "title": "Total Hub Volume" }
       ]
+    },
+    "config": {
+      "view": { "stroke": null },
+      "axis": { "domain": false }
     }
   };
 
