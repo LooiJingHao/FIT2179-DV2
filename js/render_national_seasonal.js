@@ -3,9 +3,9 @@ import embed from "vega-embed";
 export function render_national_seasonal_chart() {
   const spec = {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 600,
+    "width": 800,
     "height": 400,
-    "background": "#F8FAFC",
+    "background": "#ffffff",
     "data": {
       "url": "data/national_seasonal_ridership.csv"
     },
@@ -52,9 +52,10 @@ export function render_national_seasonal_chart() {
         "type": "nominal",
         "title": "Year",
         "scale": {
-          // Custom colorblind-safe range: 2019(Blue), 2020(Orange), 2021(Green), 2022(Purple), 2023(Brown), 2024(Cyan)
-          "range": ["#1f77b4", "#ff7f0e", "#2ca02c", "#9467bd", "#8c564b", "#17becf"]
-        }
+          "domain": ["2019", "2020", "2021", "2022", "2023", "2024"],
+          "range": ["#0055FF", "#FF9900", "#9333ea", "#0891b2", "#64748b", "#0f172a"]
+        },
+        "legend": { "titleFontSize": 14, "labelFontSize": 12, "orient": "right" }
       },
       "opacity": {
         "condition": { "param": "yearFilter", "value": 1 },

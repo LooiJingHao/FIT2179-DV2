@@ -4,15 +4,15 @@ export function adjacency_matrix() {
   const spec = {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 
-    "width": 500,
-    "height": 400,
+    "width": 690,
+    "height": 450,
 
     "data": {
       "url": "data/adjacency_matrix.csv"
     },
 
     "config": {
-      "background": "#F8FAFC",
+      "background": "#ffffff",
       "view": {
         "stroke": "transparent"
       },
@@ -25,8 +25,9 @@ export function adjacency_matrix() {
         "ticks": false
       },
       "legend": {
-        "titleFontSize": 12,
-        "labelFontSize": 11
+        "titleFontSize": 14,
+        "labelFontSize": 12,
+        "orient": "right"
       }
     },
 
@@ -76,6 +77,8 @@ export function adjacency_matrix() {
           "type": "sqrt"
         },
         "legend": {
+          "titleFontSize": 14,
+          "labelFontSize": 12,
           "orient": "right",
           "gradientLength": 250
         }

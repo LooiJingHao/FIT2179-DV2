@@ -4,9 +4,9 @@ export function render_dependency_chart() {
   const spec = {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "description": "Horizontal Ranked Bar Chart showing the Dependency Index (Volume / Interchange) of RapidKL Stations.",
-    "width": 500,
+    "width": 630,
     "height": 400,
-    "background": "#F8FAFC",
+    "background": "#ffffff",
     "data": {
       "url": "data/station_dependency.csv"
     },
@@ -26,6 +26,7 @@ export function render_dependency_chart() {
         "field": "dependency_index",
         "type": "quantitative",
         "title": "Dependency Index (Volume per Interchange)",
+        "scale": { "domain": [0, 8000000] },
         "axis": {
           "format": "~s",
           "grid": true,
@@ -36,9 +37,17 @@ export function render_dependency_chart() {
         "field": "dependency_index",
         "type": "quantitative",
         "scale": {
-          "scheme": "reds"
+          "scheme": "reds",
+          "domain": [0, 8000000]
         },
-        "legend": null
+        "legend": {
+          "titleFontSize": 14,
+          "labelFontSize": 12,
+          "title": "Severity Level",
+          "orient": "right",
+          "format": "~s",
+          "tickCount": 5
+        }
       },
       "tooltip": [
         { "field": "station", "type": "nominal", "title": "Station" },

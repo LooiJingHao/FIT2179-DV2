@@ -4,8 +4,8 @@ export function bus_terminal_map() {
   const spec = {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 
-    "width": 850,
-    "height": 460,
+    "width": 800,
+    "height": 400,
 
     "projection": {
       "type": "mercator",
@@ -19,8 +19,9 @@ export function bus_terminal_map() {
         "stroke": "transparent"
       },
       "legend": {
-        "titleFontSize": 12,
-        "labelFontSize": 11
+        "titleFontSize": 14,
+        "labelFontSize": 12,
+        "orient": "right"
       }
     },
 
@@ -82,6 +83,8 @@ export function bus_terminal_map() {
               "scheme": "blues"
             },
             "legend": {
+              "titleFontSize": 14,
+              "labelFontSize": 12,
               "orient": "right",
               "offset": 20,
               "gradientLength": 230

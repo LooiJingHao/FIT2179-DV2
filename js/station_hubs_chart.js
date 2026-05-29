@@ -3,9 +3,9 @@ import embed from "vega-embed";
 export function station_hubs_chart() {
   const spec = {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 600,
-    "height": 450,
-    "background": "#F8FAFC",
+    "width": 780,
+    "height": 400,
+    "background": "#ffffff",
     "data": { "url": "data/station_hubs_top10.csv" },
 
     "params": [
@@ -62,7 +62,17 @@ export function station_hubs_chart() {
         "scale": {
           "range": ["#1f77b4", "#ff7f0e"] // Accessible Blue/Orange
         },
-        "legend": { "orient": "bottom", "title": null }
+        "legend": { 
+          "titleFontSize": 14,
+          "labelFontSize": 12,
+          "orient": "none", 
+          "legendX": 450, 
+          "legendY": 300, 
+          "title": null,
+          "fillColor": "rgba(255, 255, 255, 0.8)",
+          "padding": 5,
+          "cornerRadius": 3
+        }
       },
       "tooltip": [
         { "field": "station", "type": "nominal", "title": "Station ID" },

@@ -3,21 +3,21 @@ import embed from "vega-embed";
 export function transport_count_map() {
   const spec = {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 860,
-    "height": 470,
+    "width": 750,
+    "height": 400,
 
     "projection": {
       "type": "mercator",
       "center": [109.2, 4.2],
-      "scale": 2300
+      "scale": 2000
     },
 
     "config": {
       "background": "#A5D8FF", // Ocean Layer Blue
       "view": { "stroke": "transparent" },
       "legend": {
-        "titleFontSize": 12,
-        "labelFontSize": 11,
+        "titleFontSize": 14,
+        "labelFontSize": 12,
         "orient": "right",
         "offset": 20,
         "gradientLength": 220,

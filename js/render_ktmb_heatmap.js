@@ -3,8 +3,6 @@ import vegaEmbed from "vega-embed";
 export function render_ktmb_heatmap() {
   // Base specification for each individual "pulse" chart
   const baseSpec = {
-    "width": 280,
-    "height": 100,
     "mark": {
       "type": "area",
       "line": { "color": "#0D9488" },
@@ -55,8 +53,10 @@ export function render_ktmb_heatmap() {
   };
 
   // Helper to create a filtered spec for a specific service
-  const createServiceSpec = (serviceName, displayName) => ({
+  const createServiceSpec = (serviceName, displayName, width, height) => ({
     ...baseSpec,
+    "width": width,
+    "height": height,
     "title": {
       "text": displayName,
       "fontSize": 12,
@@ -72,7 +72,7 @@ export function render_ktmb_heatmap() {
 
   const spec = {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "background": "#F8FAFC",
+    "background": "#ffffff",
     "data": { 
       "url": "data/ridership_ktmb_monthly (2).csv",
       "format": { "parse": { "date": "date" } }
@@ -83,21 +83,22 @@ export function render_ktmb_heatmap() {
       {
         // Row 1: 2 graphs
         "hconcat": [
-          createServiceSpec("komuter", "KTM Komuter (Central)"),
-          createServiceSpec("komuter_utara", "KTM Komuter (Northern)")
+          createServiceSpec("komuter", "KTM Komuter (Central)", 420, 180),
+          createServiceSpec("komuter_utara", "KTM Komuter (Northern)", 420, 180)
         ],
         "spacing": 40
-      },
-      {
+        },
+        {
         // Row 2: 3 graphs
         "hconcat": [
-          createServiceSpec("ets", "ETS (Interstate)"),
-          createServiceSpec("intercity", "KTM Intercity"),
-          createServiceSpec("shuttle_tebrau", "Shuttle Tebrau")
+          createServiceSpec("ets", "ETS (Interstate)", 250, 180),
+          createServiceSpec("intercity", "KTM Intercity", 250, 180),
+          createServiceSpec("shuttle_tebrau", "Shuttle Tebrau", 250, 180)
         ],
         "spacing": 40
-      }
+        }
     ],
+    "center": true,
     "spacing": 40,
     "config": {
       "view": {"stroke": null}

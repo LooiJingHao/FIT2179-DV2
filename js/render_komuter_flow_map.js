@@ -3,9 +3,9 @@ import vegaEmbed from "vega-embed";
 export function render_komuter_ranking() {
   const spec = {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 600,
-    "height": 500,
-    "background": "#F8FAFC",
+    "width": 880,
+    "height": 400,
+    "background": "#ffffff",
     "data": { "url": "data/top_komuter_routes.csv" },
     
     "transform": [
@@ -23,15 +23,15 @@ export function render_komuter_ranking() {
         ],
         "mark": {
           "type": "rule",
-          "strokeCap": "butt" // Cleaner edge for links
+          "strokeCap": "butt" 
         },
         "encoding": {
-          "x": { "datum": "Origin", "type": "nominal", "title": null },
-          "x2": { "datum": "Destination" },
+          "x": { "datum": 160, "type": "quantitative", "scale": { "domain": [0, 850] }, "axis": null },
+          "x2": { "datum": 680 },
           "y": {
             "field": "origin",
             "type": "nominal",
-            "axis": { "labels": false, "ticks": false, "domain": false, "title": null }, // HIDDEN: Removes redundancy
+            "axis": { "labels": false, "ticks": false, "domain": false, "title": null },
             "sort": { "field": "ridership", "op": "sum", "order": "descending" }
           },
           "y2": {
@@ -42,7 +42,14 @@ export function render_komuter_ranking() {
             "field": "ridership",
             "type": "quantitative",
             "scale": { "range": [1, 25] },
-            "legend": null
+            "legend": {
+              "titleFontSize": 14,
+              "labelFontSize": 12,
+              "title": "Passenger Volume",
+              "orient": "right",
+              "format": "~s",
+              "offset": -80 
+            }
           },
           "color": {
             "condition": {
@@ -67,7 +74,7 @@ export function render_komuter_ranking() {
       {
         "mark": { "type": "rect", "width": 8, "color": "#1E293B" },
         "encoding": {
-          "x": { "datum": "Origin" },
+          "x": { "datum": 160, "type": "quantitative" },
           "y": {
             "field": "origin",
             "type": "nominal",
@@ -79,7 +86,7 @@ export function render_komuter_ranking() {
       {
         "mark": { "type": "rect", "width": 8, "color": "#1E293B" },
         "encoding": {
-          "x": { "datum": "Destination" },
+          "x": { "datum": 680, "type": "quantitative" },
           "y": {
             "field": "destination",
             "type": "nominal",
@@ -87,11 +94,11 @@ export function render_komuter_ranking() {
           }
         }
       },
-      // 4. Origin Labels
+      // 4. Origin Labels (Left-aligned, closer to nodes)
       {
-        "mark": { "type": "text", "align": "right", "dx": -12, "fontSize": 12, "fontWeight": "600" },
+        "mark": { "type": "text", "align": "left", "dx": -150, "fontSize": 12, "fontWeight": "600" },
         "encoding": {
-          "x": { "datum": "Origin" },
+          "x": { "datum": 160, "type": "quantitative" },
           "y": {
             "field": "origin",
             "type": "nominal",
@@ -100,17 +107,35 @@ export function render_komuter_ranking() {
           "text": { "field": "origin" }
         }
       },
-      // 5. Destination Labels
+      // 5. Destination Labels (Right of nodes)
       {
-        "mark": { "type": "text", "align": "left", "dx": 12, "fontSize": 12, "fontWeight": "600" },
+        "mark": { "type": "text", "align": "left", "dx": 15, "fontSize": 12, "fontWeight": "600" },
         "encoding": {
-          "x": { "datum": "Destination" },
+          "x": { "datum": 680, "type": "quantitative" },
           "y": {
             "field": "destination",
             "type": "nominal",
             "sort": { "field": "ridership", "op": "sum", "order": "descending" }
           },
           "text": { "field": "destination" }
+        }
+      },
+      // 6. Header: ORIGIN
+      {
+        "data": {"values": [{"text": "ORIGIN"}]},
+        "mark": { "type": "text", "fontWeight": "bold", "fontSize": 14, "dy": -210, "color": "#1E293B", "align": "center" },
+        "encoding": {
+          "x": { "datum": 160, "type": "quantitative" },
+          "text": { "field": "text" }
+        }
+      },
+      // 7. Header: DESTINATION
+      {
+        "data": {"values": [{"text": "DESTINATION"}]},
+        "mark": { "type": "text", "fontWeight": "bold", "fontSize": 14, "dy": -210, "color": "#1E293B", "align": "center" },
+        "encoding": {
+          "x": { "datum": 680, "type": "quantitative" },
+          "text": { "field": "text" }
         }
       }
     ],

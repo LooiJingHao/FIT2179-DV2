@@ -4,11 +4,11 @@ export function ridership_focus_chart() {
   const vegaLiteSpec = {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "data": { "url": "data/cleaned_ridership.csv" }, 
-    "background": "#F8FAFC",
+    "background": "#ffffff",
     "vconcat": [
       {
         "width": 800,
-        "height": 350,
+        "height": 300,
         "layer": [
           {
             "mark": { "type": "bar", "color": "#FF9900", "opacity": 0.7 },
@@ -54,7 +54,7 @@ export function ridership_focus_chart() {
       {
         "width": 800,
         "height": 80,
-        "title": { "text": "Overview (Drag to Pan the 4-Month Window Above)", "fontSize": 12, "color": "#64748b" },
+        "title": { "text": "Overview (Hold Shift and select the range of months for interactivity)", "fontSize": 12, "color": "#64748b" },
         "layer": [
           {
             "params": [{
@@ -94,6 +94,7 @@ export function ridership_focus_chart() {
         ]
       }
     ],
+    "spacing": 20,
     "resolve": {
       "scale": { "x": "independent" }
     }
